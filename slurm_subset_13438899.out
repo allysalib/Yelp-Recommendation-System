@@ -1,4 +1,0 @@
-  File "./yelp_restaurant_subset.py", line 17
-    restaurant_subset = spark.sql('SELECT * FROM business WHERE (category like '%Restaurants%' or category like '%Restaurant%' or category like '%Cafes%' or category like '%Bakeries%' or category like '%Bars%' or category like '%Desserts%' or category like '%Coffee & Tea%' or category like '%Juice Bars & Smoothies%' or category like '%Food Trucks%' or category like '%Caterers%' or category like '%Coffee Roasteries%' or category like '%Delicatessen%' or category like '%Deli%')')
-                                                                                                                                                                                                                                                                                                           ^
-SyntaxError: invalid syntax
