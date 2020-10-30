@@ -15,8 +15,6 @@
 
 # Remove all unused system modules
 module purge
-module load python/gnu/3.6.5
-module load spark/2.4.0
 
 # Move into the directory that contains our code
 SRCDIR=$HOME/Yelp-Recommendation-System
