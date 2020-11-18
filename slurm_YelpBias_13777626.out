@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "./Bias_and_BiasMF_Models.py", line 32, in <module>
-    full_data = pd.concat(dfs, ignore_index=True)
-  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/reshape/concat.py", line 274, in concat
-    op = _Concatenator(
-  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/reshape/concat.py", line 331, in __init__
-    raise ValueError("No objects to concatenate")
-ValueError: No objects to concatenate
