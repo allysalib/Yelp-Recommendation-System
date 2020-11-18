@@ -2,6 +2,8 @@
 
 import pandas as pd
 pd.set_option('display.max_columns', None)
+import os, json
+import glob
 import numba
 import concurrent.futures
 from lenskit.datasets import MovieLens
@@ -16,11 +18,14 @@ from lenskit import batch, topn, util
 from lenskit import crossfold as xf
 from lenskit.algorithms import Recommender, als, item_knn as knn
 
-json_directory = '/scratch/as12453/all_data_restaurants_subset.json'
+json_directory = '/scratch/as12453/all_data_restaurants_subset.json/*'
+
+json_pattern = os.path.join(json_directory,'*.json')
+file_list = glob.glob(json_pattern)
 
 dfs = []
 
-for file in json_directory:
+for file in file_list:
     data = pd.read_json(file, lines=True, orient = 'columns')
     dfs.append(data)
     
