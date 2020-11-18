@@ -16,11 +16,15 @@ from lenskit import batch, topn, util
 from lenskit import crossfold as xf
 from lenskit.algorithms import Recommender, als, item_knn as knn
 
-data = pd.read_json('/scratch/as12453/all_data_restaurants_subset.json', lines=True, orient='columns', chunksize=1000000)
+json_directory = '/scratch/as12453/all_data_restaurants_subset.json'
 
-for d in data:
-    full_data = d
-    break
+dfs = []
+
+for file in json_directory:
+    data = pd.read_json(file, lines=True, orient = 'columns')
+    dfs.append(data)
+    
+full_data = pd.concat(dfs, ignore_index=True)
 
 ratings_data = full_data[['user_id', 'business_id', 'review_stars']].rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
 ratings_data['rating_binary'] = 0
