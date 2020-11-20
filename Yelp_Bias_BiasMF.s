@@ -1,9 +1,9 @@
 #!/bin/bash
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
-#SBATCH --cpus-per-task=4
+#SBATCH --cpus-per-task=6
 #SBATCH --time=12:00:00
-#SBATCH --mem=10GB
+#SBATCH --mem=16GB
 #SBATCH --job-name=dsga3001-lab2
 #SBATCH --mail-type=END
 #SBATCH --mail-user=as12453@nyu.edu
