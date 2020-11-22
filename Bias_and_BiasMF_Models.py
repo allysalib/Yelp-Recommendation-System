@@ -226,8 +226,12 @@ dfs = []
 for file in json_file_list_subset:
     data = pd.read_json(file, lines=True, orient = 'columns')
     dfs.append(data)
-    
-full_data = pd.concat(dfs, ignore_index=True)
+
+print("dfs created") 
+
+full_data = pd.concat(dfs)
+
+print(full_data.head())
 
 ratings_data = full_data.rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
 ratings_data['rating_binary'] = 0
