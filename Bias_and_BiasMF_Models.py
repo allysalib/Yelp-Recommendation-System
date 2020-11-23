@@ -227,9 +227,7 @@ for file in json_file_list_subset:
     data = pd.read_json(file, lines=True, orient = 'columns')
     dfs.append(data)
 
-print("dfs created") 
-
-full_data = pd.concat(dfs)
+full_data = pd.concat(dfs, ignore_index = False)
 
 print(full_data.head())
 
