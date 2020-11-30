@@ -1,0 +1,5 @@
+Concat Successful
+Traceback (most recent call last):
+  File "./Bias_and_BiasMF_Models.py", line 72, in <module>
+    ratings_data = full_data.rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
+AttributeError: 'NoneType' object has no attribute 'rename'
