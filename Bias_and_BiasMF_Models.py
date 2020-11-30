@@ -64,6 +64,7 @@ def test_eval(model, test):
     recs_100 = batch.recommend(model, users, 100)
     return recs_10, recs_100
 
+print("Begining")
 
 def main():
     damping_values = [0, 1, 2, 5, 10]
