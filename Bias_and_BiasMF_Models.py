@@ -40,13 +40,11 @@ for file in json_file_list_subset:
     data['File_ID'] = file
     dfs.append(data)
 
-full_data = pd.concat(dfs)
+full_data = pd.concat(dfs).reset_index(drop=True)
 
-full_data2 = full_data.reset_index(drop=True)
+print(full_data.head())
 
-print(full_data2.head())
-
-ratings_data = full_data2.rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
+ratings_data = full_data.rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
 ratings_data['rating_binary'] = 0
 ratings_data.loc[(ratings_data['rating'] > 3), 'rating_binary'] = 1
 
