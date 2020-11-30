@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "./Bias_and_BiasMF_Models.py", line 41, in <module>
+    dfs.append(data.reset_index(drop_index = True))
+TypeError: reset_index() got an unexpected keyword argument 'drop_index'
