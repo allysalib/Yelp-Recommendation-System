@@ -38,14 +38,14 @@ dfs = []
 for file in json_file_list_subset:
     data = pd.read_json(file, lines=True, orient = 'columns')
     dfs.append(data)
-
-print(dfs)    
     
 full_data = pd.concat(dfs)
 
-ratings_data = full_data.rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
+ratings_data = full_data[['user_id', 'business_id', 'review_stars']].rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
 ratings_data['rating_binary'] = 0
 ratings_data.loc[(ratings_data['rating'] > 3), 'rating_binary'] = 1
+
+print(ratings_data.head())
 
 def fit_eval(aname, algo, train, test):
     fittable = util.clone(algo)
