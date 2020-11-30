@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "./Bias_and_BiasMF_Models.py", line 70, in <module>
-    print(full_data.head())
-AttributeError: 'NoneType' object has no attribute 'head'
