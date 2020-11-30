@@ -143,7 +143,7 @@ def main():
         bias_test_prediction_scores_list.append([rmse_score, mae_score])
         recs_10, recs_100 = test_eval(model, test_data)
         test_binary = test_data[['user', 'item', 'rating_binary']].rename(columns={"rating_binary": "rating"})
-        print(test_binary)
+        test_binary = test_binary.loc[~test_binary.index.duplicated(keep='first')]
         rla = topn.RecListAnalysis()
         rla.add_metric(topn.recip_rank)
         rla.add_metric(topn.precision)
