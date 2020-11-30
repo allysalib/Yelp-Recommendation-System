@@ -65,9 +65,9 @@ for file in json_file_list_subset:
 
 full_data = pd.concat(dfs)
 
-print("Concat Successful")
-
 full_data = full_data.reset_index(inplace=True, drop=True)
+
+print(full_data.head())
 
 ratings_data = full_data.rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
 ratings_data['rating_binary'] = 0
