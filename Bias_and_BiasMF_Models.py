@@ -41,9 +41,6 @@ for file in json_file_list_subset:
 
 full_data = pd.concat(dfs)
 
-print(full_data.head())
-print(len(full_data))
-
 full_data2 = full_data.reset_index(drop=True)
 
 print(full_data2.head())
