@@ -225,12 +225,11 @@ dfs = []
 
 for file in json_file_list_subset:
     data = pd.read_json(file, lines=True, orient = 'columns')
-    for d in data:
-        dfs.append([d])
+    dfs.append([data])
         
 print(dfs)
 
-full_data = pd.DataFrame(dfs, columns=['user','item','rating'])
+full_data = pd.concat(dfs)
 
 print(full_data.head())
 
