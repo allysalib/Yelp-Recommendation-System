@@ -144,6 +144,7 @@ def main():
         recs_10, recs_100 = test_eval(model, test_data)
         test_binary = test_data[['user', 'item', 'rating_binary']].rename(columns={"rating_binary": "rating"})
         test_binary = test_binary.loc[~test_binary.index.duplicated(keep='first')]
+        test_binary = test_binary.reset_index()
         rla = topn.RecListAnalysis()
         rla.add_metric(topn.recip_rank)
         rla.add_metric(topn.precision)
