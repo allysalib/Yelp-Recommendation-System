@@ -64,8 +64,6 @@ def test_eval(model, test):
     recs_100 = batch.recommend(model, users, 100)
     return recs_10, recs_100
 
-print("Begining")
-
 def main():
     damping_values = [0, 1, 2, 5, 10]
 
@@ -107,7 +105,9 @@ def main():
         data['damping_factor'] = bias_validation_evals_list[i][0]
         bias_validation_evals.append(data)
 
-    bias_validation_evals_df = pd.concat(bias_validation_evals, ignore_index=True)
+    bias_validation_evals_df = pd.concat(bias_validation_evals)
+                                         
+                                         #, ignore_index=True)
 
     print("Bias models validation prediction scores by damping factor:")
     print(bias_validation_prediction_scores)
