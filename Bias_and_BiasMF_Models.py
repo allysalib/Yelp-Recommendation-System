@@ -42,12 +42,13 @@ for file in json_file_list_subset:
     
 full_data = pd.concat(dfs)
 
-ratings_data = full_data[['user_id', 'business_id', 'review_stars']].rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
+full_data = full_data.loc[~full_data.index.duplicated(keep='first')]
+
+full_data2 = full_data.reset_index()
+
+ratings_data = full_data2[['user_id', 'business_id', 'review_stars']].rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
 ratings_data['rating_binary'] = 0
 ratings_data.loc[(ratings_data['rating'] > 3), 'rating_binary'] = 1
-
-ratings_data['index'] = np.arange(len(ratings_data))
-ratings_data = ratings_data.set_index('index')
 
 def fit_eval(aname, algo, train, test):
     fittable = util.clone(algo)
