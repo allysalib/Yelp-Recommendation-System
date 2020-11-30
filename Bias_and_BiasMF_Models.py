@@ -37,6 +37,7 @@ dfs = []
 
 for file in json_file_list_subset:
     data = pd.read_json(file, lines=True, orient = 'columns')
+    data['File_ID'] = file
     dfs.append(data)
 
 full_data = pd.concat(dfs)
