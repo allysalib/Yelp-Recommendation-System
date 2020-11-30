@@ -39,6 +39,8 @@ for file in json_file_list_subset:
     data = pd.read_json(file, lines=True, orient = 'columns')
     dfs.append(data)
 
+print(dfs)    
+    
 full_data = pd.concat(dfs)
 
 ratings_data = full_data.rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
@@ -105,9 +107,7 @@ def main():
         data['damping_factor'] = bias_validation_evals_list[i][0]
         bias_validation_evals.append(data)
 
-    bias_validation_evals_df = pd.concat(bias_validation_evals)
-                                         
-                                         #, ignore_index=True)
+    bias_validation_evals_df = pd.concat(bias_validation_evals, ignore_index=True)
 
     print("Bias models validation prediction scores by damping factor:")
     print(bias_validation_prediction_scores)
