@@ -1,0 +1,39 @@
+data cleaned
+data cleaned
+data cleaned
+data cleaned
+data cleaned
+data cleaned
+data cleaned
+data cleaned
+data cleaned
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+Traceback (most recent call last):
+  File "./Bias_and_BiasMF_Models.py", line 296, in <module>
+    main()
+  File "./Bias_and_BiasMF_Models.py", line 96, in main
+    results_10recs = rla.compute(recs_10, val_binary)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 176, in compute
+    res = job.compute(self.n_jobs)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 67, in compute
+    res = pd.concat(res, ignore_index=True)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/reshape/concat.py", line 274, in concat
+    op = _Concatenator(
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/reshape/concat.py", line 328, in __init__
+    objs = list(objs)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 37, in _rla_worker
+    return model._compute_group(col, val)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 75, in _compute_group
+    return pd.DataFrame.from_records(gen, columns=self.rec_key + mnames)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/frame.py", line 1762, in from_records
+    values += data
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 87, in _iter_measurements
+    results = tuple(mf(gdf, g_truth, **margs) for (mf, mn, margs) in self.metrics)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 87, in <genexpr>
+    results = tuple(mf(gdf, g_truth, **margs) for (mf, mn, margs) in self.metrics)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py", line 98, in ndcg
+    tpos = truth.index.get_indexer(recs['item'])
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/indexes/base.py", line 2980, in get_indexer
+    raise InvalidIndexError(
+pandas.errors.InvalidIndexError: Reindexing only valid with uniquely valued Index objects
