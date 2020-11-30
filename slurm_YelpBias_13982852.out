@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "./Bias_and_BiasMF_Models.py", line 48, in <module>
-    ratings_data['index'] = np.arange(len(ratings_data))
-NameError: name 'np' is not defined
