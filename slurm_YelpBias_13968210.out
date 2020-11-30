@@ -1,0 +1,2607 @@
+[                     user_id             business_id  review_stars
+0     5VESqAgYsL9vzLEIA_xgnw  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     5VESqAgYsL9vzLEIA_xgnw  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     Pxrx3kEqVD9WCn7lmV-a7Q  -092wE7j5HZOogMLAh40zA             3
+3     OzGlDEQ_vzH8QU9NBRs-pw  -0NhdsDJsdarxyDPR523ZQ             3
+4     D3fOi-5w4intrUTWXzIQew  -0RkJ_uIduNLWQrphbADRw             1
+...                      ...                     ...           ...
+2010  qNeMBnzJc3Kwk8Z39TDZEg  zpoZ6WyQUYff18-z4ZU1mA             5
+2011  qNeMBnzJc3Kwk8Z39TDZEg  zpoZ6WyQUYff18-z4ZU1mA             5
+2012  1hJQYk3NiajdYK58TQi9EQ  zsMMlOYtXm8SNy0bl1leBA             4
+2013  WzwtnkY9aRhajGa4ifQqLQ  zuVvDYJkKAbXQTTBauAqJQ             4
+2014  TG077RFpEVEi8mMZ38GnYQ  zzjqFOujmM9surbMANZ_ag             2
+
+[2015 rows x 3 columns],                      user_id             business_id  review_stars
+0     kOPRX94rDBXEPmLBZNG7RQ  --9e1ONYQuAa-CB_Rrw7Tw             1
+1     813qGlE2OI7oy8yhd2K4rg  --Rsj71PBe31h5YljVseKA             1
+2     813qGlE2OI7oy8yhd2K4rg  --Rsj71PBe31h5YljVseKA             1
+3     pGrUOjoo2excjtBjQTp8Fw  -01XupAWZEXbdNbxNg5mEg             3
+4     QTZvgss0rIfPmauPaSj2nw  -050d_XIor1NpCuWkbIVaQ             5
+...                      ...                     ...           ...
+2108  7GVA958q4zs5Z8cdHauU5Q  zqSfx9k2Pe33UDHmfa_fcg             3
+2109  A-U-K9z9oraMH7eBZW1dOA  zr8Ojsm-yNhvfTzBzcKU9w             4
+2110  asL1d04xS3y8YQtU5ota-g  zrDi4gEaUi64lAMfJU51dw             5
+2111  TVkU2gHhe05v_lgsE_NccA  zrTGcb83AsfyVTMrsCa65A             4
+2112  7weuSPSSqYLUFga6IYP4pg  zwNC-Ow4eIMan2__bS9-rg             4
+
+[2113 rows x 3 columns],                      user_id             business_id  review_stars
+0     yD1aRxezQ8XjrKogEfuShw  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     hg4AyAMgmQGO2tx6kjo8yw  -050d_XIor1NpCuWkbIVaQ             3
+2     0dq24xM1599KBkclBxgeiw  -4-MzST67P_jnX4mh3MIcw             4
+3     _EBGLn2zi2n4G5Fd9kAsPg  -5L8zOxibac-vBrsYtxXbQ             1
+4     WnUDyIE3YWdHcON-i-1MKw  -6l_HnrJUgk0tMPSRY7lnw             2
+...                      ...                     ...           ...
+2094  4_f4_KVJgzKb94t6xJTZHA  zsQk990PubOHjr1YcLkQFw             4
+2095  D6SEKcIne80A0AhwiEV2Rg  ztP466jMUMtqLwwHqXbk9w             4
+2096  Gl7K_hBwLsTMuff0k2v46g  zu2nczFtsFP0hD07nVBA9w             4
+2097  uHmOM1EOA4sYmhCs1x7iqw  zwmps5SXn30g-f5wqg_r9A             5
+2098  g1Tq10VsLnyOh15u3uqGjw  zy6Hzao6lTmuJMZo4BemIg             1
+
+[2099 rows x 3 columns],                      user_id             business_id  review_stars
+0     iT0lKL00EWx0MX9FvUwyZA  -0mm8pqBSIOYZQHeo8XnkA             5
+1     _pSYW-2SUkRcJeFUwAqGrA  -1VaIJza42Hjev6ukacCNg             5
+2     6MM9Yqn7UBM8tmpSHQHAAg  -1xuC540Nycht_iWFeJ-dw             4
+3     74goFJSWzAwmk69XfPqEag  -2hOglg7Lh8ZgclQJ9ba2w             3
+4     PY-Fhe42xYssM4v2x6wzmA  -3cJ2k_iwauMpy1WfI4NrA             5
+...                      ...                     ...           ...
+2129  z82b6JZqZVO0sVJFEhunIw  zqNgwQjj0_XAll-neGikIw             5
+2130  XiO2G6mXut5pOy8dpPpmVw  zswdqM8Av3KxVv9o7_6ORA             4
+2131  dMMg6nCifqtJAefgpvEz2A  zu59oBxEdl138lBeFmmWJQ             4
+2132  zcDVJ2FLanBw3ZfT_zpL-A  zuVvDYJkKAbXQTTBauAqJQ             4
+2133  l-B4axUNxQ9FVVxeQm8t2A  zzwicjPC9g246MK2M1ZFBA             4
+
+[2134 rows x 3 columns],                      user_id             business_id  review_stars
+0     611MiIXJkXM82I1y3Hg9eA  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     62SwjM9-CGozQflioFZ6_g  -6tvduBzjLI1ISfs3F_qTg             3
+2     FREeRQtjdJU83AFtdETBBw  -76didnxGiiMO80BjSpYsQ             4
+3     ubriAXgrY99MjnOmZHnofw  -9eNGMp8XiygI8t8QFuFWw             4
+4     S7uSOFT_-YEHfNNX-vd97A  -ADtl9bLp8wNqYX1k3KuxA             5
+...                      ...                     ...           ...
+2223  DIauPrmee9V2P8x7lC_vkA  zr93wrNyXzc-HW4IcK4iRQ             3
+2224  LG-FOXQL0zUcRQuqkhq-Zg  zrDi4gEaUi64lAMfJU51dw             5
+2225  CyBceG2iwctgooi2U54dUA  zrYpLdnGKA_EmOhgRCy_vg             4
+2226  kqNJHycpOMbTLeEpGY5OnA  zt9RLUIU32fZYOBh2L0NNQ             1
+2227  8LHmg3kR_e1S-8WSxMyCdg  zttn4Vekrnd5wEPxgqNvug             4
+
+[2228 rows x 3 columns],                      user_id             business_id  review_stars
+0     9ks-80ZxeCZWNObzEbW4-Q  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     oFyOUOeGTRZhFPF9uTqrTQ  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     Wyxy2GqKTw90O-oXp-RwFA  -01XupAWZEXbdNbxNg5mEg             5
+3     P95I-PhhGqXTy3nsnNXZRw  -1VaIJza42Hjev6ukacCNg             2
+4     oKVp4qQsJZhjK2Vz6OnTxg  -1m9o3vGRA8IBPNvNqKLmA             5
+...                      ...                     ...           ...
+2073  h5eVBQ5DyrpnQOaJ9ycl3g  zr2wA55AskfBJxrvUeDZRA             4
+2074  m0Y9cnGMwIuqxQq92Z0YCQ  zrTGcb83AsfyVTMrsCa65A             4
+2075  VEA9LJrAZI4xzltKClTaFg  zu8Wj0gkbdnia7Dt4grMkQ             5
+2076  uuHQK3KUOkuuMTjJ2tL0Xg  zvB0Vzhomsodw_iQ7FHY1Q             1
+2077  ZGiwU16rhGvWAYUzkWL0xw  zw4Legbcu018p5WcZ74iWA             3
+
+[2078 rows x 3 columns],                      user_id             business_id  review_stars
+0     KJRQUJEkWVebUImqc4vW_Q  --FBCX-N37CMYDfs790Bnw             4
+1     j4U0Yj0EPEA8neKCUe8yTw  -01XupAWZEXbdNbxNg5mEg             3
+2     V_0YXUICnYpL9dBrQaygXA  -0NhdsDJsdarxyDPR523ZQ             1
+3     Z-hoNmaQFcoWbYoBUDaxAA  -2isRNVb6PDuBagELL5EBw             3
+4     TGzTlfp-eOW5Yll1_iEPjQ  -3rvpkYkYD_N1IP4hSvD0A             3
+...                      ...                     ...           ...
+2251  8FWtB83j6xAkDkqka8LUaw  zrDi4gEaUi64lAMfJU51dw             5
+2252  W9MPolPlUiUEXYfGnYiHEQ  zrDi4gEaUi64lAMfJU51dw             5
+2253  W9MPolPlUiUEXYfGnYiHEQ  zrDi4gEaUi64lAMfJU51dw             5
+2254  5Wg5OanfZ4-2dCxEo-qjsw  zttcrQP4MxNS5X5itzStXg             4
+2255  TbhyP24zYZqZ2VJZgu1wrg  zzUj3ej4vm_DtvRxNvWDEw             3
+
+[2256 rows x 3 columns],                      user_id             business_id  review_stars
+0     H4EQn0rjFuGRgIm6c9NFLg  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     jfYO9Y76N5BmfiCg-cTUXw  -1VaIJza42Hjev6ukacCNg             4
+2     KMQ-5KpTWIheGxlCOzowWQ  -6h3K1hj0d4DRcZNUtHDuw             4
+3     KMQ-5KpTWIheGxlCOzowWQ  -6h3K1hj0d4DRcZNUtHDuw             3
+4     RhxzEol4mj8HxVEJhYcXnQ  -8O8sVCnaIKHP-596zN9UA             5
+...                      ...                     ...           ...
+2069  OLn8EvPsu4hNug8V5PF2jA  zwNC-Ow4eIMan2__bS9-rg             3
+2070  l-r9iHW6XGtCraTmOSCH-A  zx_j6OuuHHa2afVoAZuLpA             4
+2071  QyOjGyQS6mI-o8HVpVq8fQ  zz3CqZhNx2rQ_Yp6zHze-A             4
+2072  WbTruXgqNfUsUpLLFtJ3HA  zzsOLFhgUw8gnjLTVVItFA             4
+2073  WbTruXgqNfUsUpLLFtJ3HA  zzsOLFhgUw8gnjLTVVItFA             4
+
+[2074 rows x 3 columns],                      user_id             business_id  review_stars
+0     7RabbMUXPXmQt_w_-UOpaA  --6MefnULPED_I942VcFNA             4
+1     U83weFx8vCDw7zYO-4FeWA  --SrzpvFLwP_YFwB_Cetow             4
+2     2ADk0EOfjlXfD2jOIrvkVw  -0DET7VdEQOJVJ_v6klEug             3
+3     6FTCeh_f9W0tmnvoy5Sthg  -1UMR00eXtwaeh59pEiDjA             2
+4     c2_5K6VrhZosAn0K5RjAGQ  -45kMvS7h38CGaWugPY0rg             1
+...                      ...                     ...           ...
+2176  8LzA8W6Xmjn-dOGn97yAvQ  zhBkNLn2KPnh5-NIueXVHA             1
+2177  GMKoemATfrXg1deaXxt2jA  ziJsGjXvidzZWC1I0-SOSg             2
+2178  xDk84KnY8Gc-2uTb3U2_9w  zitXLajbETOuHQJfok4a4g             2
+2179  XTMm0nAf5Ds2W4tB0s0g-Q  zqRTnP_JQv94nuoyO7xCQg             4
+2180  X8nGV6Xm2lQBxR68K_Qdag  zuwba6QEBIDZT0tJZmNhdQ             1
+
+[2181 rows x 3 columns],                      user_id             business_id  review_stars
+0     jAazHTXIY8MtCUWEMNbPJg  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     e3S63222bmnlIYLi2DCeQg  -1VaIJza42Hjev6ukacCNg             4
+2     W9MPolPlUiUEXYfGnYiHEQ  -9eNGMp8XiygI8t8QFuFWw             5
+3     ZXKarfuYXgDGBSE46R5xYA  -AD5PiuJHgdUcAK-Vxao2A             5
+4     uZFF_JDRW_9RTHYEzWO4Jg  -BuZrOMqgO4OU_UKYSddAg             4
+...                      ...                     ...           ...
+2208  ps4i2Ef1m4NPQRsJneG3jg  zoDilOV7nSQ3lXIhGOSbog             4
+2209  VPgnW9X_vfD6szMsPMAKZw  zrTGcb83AsfyVTMrsCa65A             5
+2210  UXpTrzITc0yg08sXftsa-w  zs-T0uqKSHhYWSEok6oouw             3
+2211  2SHMIVAtesGrlJu5EmMTpQ  ztzjD1Zs5tfMZTYKXkmL9Q             3
+2212  eOIMO2wT_WbNqmavhnCRxw  zzzaIBwimxVej4tY6qFOUQ             3
+
+[2213 rows x 3 columns],                      user_id             business_id  review_stars
+0     n_HMBasYWRQxVjts_QyF9w  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     n_HMBasYWRQxVjts_QyF9w  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     n_HMBasYWRQxVjts_QyF9w  --9e1ONYQuAa-CB_Rrw7Tw             5
+3     n_HMBasYWRQxVjts_QyF9w  --9e1ONYQuAa-CB_Rrw7Tw             5
+4     n_HMBasYWRQxVjts_QyF9w  --9e1ONYQuAa-CB_Rrw7Tw             5
+...                      ...                     ...           ...
+2093  sJXvBwnKWkJFUZ3qeXVxoA  zgtgMlvFk5Ilrs1yj78tdA             4
+2094  0ybr2fm7SnO8p_xf-xrmqA  zidkKI_N1OPxsiddTOQH_Q             4
+2095  i2GG027_zrb6GytWSyACSg  zr42_UsWfaIF-rcp37OpwA             2
+2096  gvRbuEvv-DwW5ZorBvwLXQ  zs710LuQ8y10YsQHIjxjyw             4
+2097  9IRuYmy5YmhtNQ6ei1p-uQ  zxsktAMsVBKj2PvvCV11UQ             3
+
+[2098 rows x 3 columns],                      user_id             business_id  review_stars
+0     HmN7p502YMJGkBNv5bzi1w  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     HmN7p502YMJGkBNv5bzi1w  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     HmN7p502YMJGkBNv5bzi1w  --9e1ONYQuAa-CB_Rrw7Tw             5
+3     HmN7p502YMJGkBNv5bzi1w  --9e1ONYQuAa-CB_Rrw7Tw             5
+4     LU7ikPXZ5R8tv4oNQZQkKw  --9e1ONYQuAa-CB_Rrw7Tw             5
+...                      ...                     ...           ...
+2096  l0-VQ8nA_oijpKlRB7dkow  ztxAbArApdQIhMoPF_ttiA             4
+2097  2Ll2lZlyXQCr3NBusJy0vQ  zuwba6QEBIDZT0tJZmNhdQ             5
+2098  Bcc-eobQQ_eM1guzYSU-Kw  zwmps5SXn30g-f5wqg_r9A             1
+2099  v95ESneXSi1Eqpy388NdUA  zy5UZvaG4iOLSbxuophtTQ             4
+2100  e6iCOIhtupBCiw-VwBvJ4A  zyPGYeXF4XKCqNN1pjFWhg             5
+
+[2101 rows x 3 columns],                      user_id             business_id  review_stars
+0     wyHYRf5m_qxz0eTgD1XR0g  --cZ6Hhc9F7VkKXxHMVZSQ             5
+1     hGB2k9KIlJIMdpJZbBGA_A  -2Arz8twKJmxHMS3Sv-TeA             4
+2     3nVaTBpC-Rz0KIBreSN-CQ  -3zffZUHoY8bQjGfPSoBKQ             5
+3     XGUSFNGbuWFYJVbI-hZuJg  -4TMQnQJW1yd6NqGRDvAeA             2
+4     c3_AdjAlMy4EJYQhuXADgA  -5XuRAfrjEiMN77J4gMQZQ             3
+...                      ...                     ...           ...
+2249  zYwpJGFLFwncmSc8U8TFrQ  zq34Nb2zekXVI0G5Ip-Y4w             4
+2250  nmO_hsHKIf61DMUeHOFeCw  zqPyJ4udk1xJ_S2L1B-cfA             5
+2251  D6SEKcIne80A0AhwiEV2Rg  zr93wrNyXzc-HW4IcK4iRQ             4
+2252  AVVEFYHmFUa9oUhy2DIQFA  zs710LuQ8y10YsQHIjxjyw             4
+2253  8OeTLey-p-WaL9ErNEci1Q  zwNC-Ow4eIMan2__bS9-rg             4
+
+[2254 rows x 3 columns],                      user_id             business_id  review_stars
+0     i-PZwf519Vu4ybNt9D8oEA  -0NrB58jqKqJfuUCDupcsw             4
+1     hPtsSzp5ymjJU9h-6QAoXA  -6l_HnrJUgk0tMPSRY7lnw             4
+2     1O638BDK_fWuxgTVJwff-A  -9Ir5OiFiOszIgeFgalXcw             2
+3     Ad5YOuoqGt5k36SdzkMxEg  -9eNGMp8XiygI8t8QFuFWw             5
+4     OJAXdqwiA8aWXTJw_2hu1w  -Bdw-5H5C4AYSMGnAvmnzw             5
+...                      ...                     ...           ...
+1982  7PxhVbqxRRGTQsXfmMVTTg  zbdUUR3SMPnA-HP0hmkk7Q             4
+1983  8hJM27VoDr3rrOqWSQfrLw  zdaiDiJrAkmsZ-eOxBfCfA             3
+1984  CyBceG2iwctgooi2U54dUA  zlsiSoZaNtQeMkdKl5K_hg             1
+1985  fMdgChfFv_fI_HRxif7T_w  zmfa8RNxqSuOJ9Nx-CMs_Q             4
+1986  7HffmiTYXbNyhR121rnrEA  zoJZ_LgSBq3YznjrzXkG3Q             5
+
+[1987 rows x 3 columns],                      user_id             business_id  review_stars
+0     SlgpAnj2gQd44EM_Uq6DkQ  --cZ6Hhc9F7VkKXxHMVZSQ             3
+1     JyfxepobutAUcCDg1EBsTA  -01XupAWZEXbdNbxNg5mEg             2
+2     BI43zsVnKZHtMI_4GBStng  -050d_XIor1NpCuWkbIVaQ             4
+3     fcD5KiJ_ACTsU6zLJR6CuQ  -2pQf1ceDZyE2ReCNbj-3A             5
+4     rYuJd6T8JcNVfuyvmHmNJQ  -6tvduBzjLI1ISfs3F_qTg             2
+...                      ...                     ...           ...
+2043  UFQkDcMsqNFbDccpaoXI6A  zrYpLdnGKA_EmOhgRCy_vg             5
+2044  TzU30D-CjtPP3XumggK0Mg  zrcs31Gt6HuWX_RCWW-mCQ             5
+2045  3oDWaCp5w40bGHYmrAofHw  zwNC-Ow4eIMan2__bS9-rg             5
+2046  DQC3PRt4zfZUgnE0JcYYGw  zz3CqZhNx2rQ_Yp6zHze-A             2
+2047  iYPskzjqJ3yPYjyNKnTxLg  zzwaS0xn1MVEPEf0hNLjew             3
+
+[2048 rows x 3 columns],                      user_id             business_id  review_stars
+0     DJTgCoGrU329Z5WZquX9KA  --6MefnULPED_I942VcFNA             2
+1     DJTgCoGrU329Z5WZquX9KA  --6MefnULPED_I942VcFNA             2
+2     i1erqSCaenXvzeaswerWoQ  -8F04F54iDT6VgWPCgybug             5
+3     lZq-WhordOin_B_PTxK5-g  -95mbLJsa0CxXhpaNL4LvA             5
+4     LG3R1R7ywPILZi9o4Uot8A  -9eNGMp8XiygI8t8QFuFWw             5
+...                      ...                     ...           ...
+2015  rTLiGlOtHfE3uqbVW8RzdQ  zr93wrNyXzc-HW4IcK4iRQ             4
+2016  9jivURdGBHoUBpy4_kR_gw  zrTGcb83AsfyVTMrsCa65A             5
+2017  HVTf8ssOt4H4bujVQD4OsA  zrTGcb83AsfyVTMrsCa65A             4
+2018  oaYB_b62fqtJCbeKFWg8Sg  zwFScgZRXOsWnucfwyn8pw             2
+2019  fPjOYRRJPzsCO9t3NEPrKQ  zwNC-Ow4eIMan2__bS9-rg             3
+
+[2020 rows x 3 columns],                      user_id             business_id  review_stars
+0     TAY_sEDnr6UP7W9SYFy0fA  --S62v0QgkqQaVUhFnNHrw             1
+1     MP5PG36M4h2T-rMfAKqM0w  --ujyvoQlwVoBgMYtADiLA             3
+2     OVYP73aNQaEKLf4w4_40SA  -1vfRrlnNnNJ5boOVghMPA             4
+3     UjIlA70WGQKr01lSBHA4sg  -2C96suwzrE_cqI1U69cLA             4
+4     NVVknS1I51z8wY5NNrJ6vQ  -2pQf1ceDZyE2ReCNbj-3A             4
+...                      ...                     ...           ...
+2086  VDzKTMdqSz-BZ3lVYqmJNA  zs-T0uqKSHhYWSEok6oouw             2
+2087  OlxaQQ8GfDH-JOsFx2SIGQ  ztP466jMUMtqLwwHqXbk9w             5
+2088  ZwwtUAcTl8DqbwW731j5Cw  zvB0Vzhomsodw_iQ7FHY1Q             2
+2089  renPzRDqMZpMaHiCD_e1_A  zwNC-Ow4eIMan2__bS9-rg             4
+2090  renPzRDqMZpMaHiCD_e1_A  zwNC-Ow4eIMan2__bS9-rg             5
+
+[2091 rows x 3 columns],                      user_id             business_id  review_stars
+0     x-Gbs8sVid3yhJIoHD6Gfw  -0DET7VdEQOJVJ_v6klEug             1
+1     5wm5MZ6KQF6yBRa67vVSZQ  -3oxnPPPU3YoxO9M1I2idg             5
+2     SSc6gIRhvHF5tR8gqY_1HA  -6h3K1hj0d4DRcZNUtHDuw             4
+3     pvdawa5VL6h8o42YwEqaXw  -6h3K1hj0d4DRcZNUtHDuw             4
+4     rYAv-1PLU05UGKXWOMee3w  -6l_HnrJUgk0tMPSRY7lnw             3
+...                      ...                     ...           ...
+2092  6MM9Yqn7UBM8tmpSHQHAAg  zktCQRlDtF6XmOpqKBz1mA             5
+2093  aSsPdNSOe0MD7rBSH4JvFg  zoUGIDxPby2YiHTuynyvtA             3
+2094  UpsG1Abm_0CmaBdaWpHqgw  zpvwzjNkBe5pmt8GzJcuqA             4
+2095  F6roFjNdk4MRcP5rrLE2Fw  zs710LuQ8y10YsQHIjxjyw             5
+2096  sO8A8Vltrn-7HPlIvGwXTQ  zw4Legbcu018p5WcZ74iWA             4
+
+[2097 rows x 3 columns],                      user_id             business_id  review_stars
+0     jlu4CztcSxrKx56ba1a5AQ  -0DET7VdEQOJVJ_v6klEug             3
+1     5lXLfyND3naSNHEuiHsjmw  -3zffZUHoY8bQjGfPSoBKQ             5
+2     jlu4CztcSxrKx56ba1a5AQ  -56TP_w4VG2oNGpauDMOOQ             3
+3     Cjbey0IXGL3am4PkBwF8VQ  -6h3K1hj0d4DRcZNUtHDuw             1
+4     BuKN22G8IY_rIuLLZ1Z9Xw  -95mbLJsa0CxXhpaNL4LvA             5
+...                      ...                     ...           ...
+2038  NorW_qcBjw3JWYDsN9z9ag  zr93wrNyXzc-HW4IcK4iRQ             4
+2039  dIIKEfOgo0KqUfGQvGikPg  zr93wrNyXzc-HW4IcK4iRQ             4
+2040  kHgt8_0vKlhXYdclfjPXeQ  zrDi4gEaUi64lAMfJU51dw             4
+2041  CebjpVd3PsofCgotWp60pg  zw4Legbcu018p5WcZ74iWA             5
+2042  lkPYIXIsaGfdzHttDJ6KWA  zzSYBWuv_fXGtSgsO-6_1g             4
+
+[2043 rows x 3 columns],                      user_id             business_id  review_stars
+0     tXqVduTJHLbrrwVEO8JX6w  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     12iozmUYN_gvAng9kMLs_w  --cZ6Hhc9F7VkKXxHMVZSQ             4
+2     m5b84-nPPVNLlDtZyVGZ3w  -0CCHBui57tZ_1y_14X-5Q             5
+3     OLn8EvPsu4hNug8V5PF2jA  -3AVh1GtLRc-HOwORLuzaQ             2
+4     sC3gpc6nFmuiCD_gYcoWlQ  -3zffZUHoY8bQjGfPSoBKQ             5
+...                      ...                     ...           ...
+2092  sJprizZfXS0-g4sON33EDA  zrDi4gEaUi64lAMfJU51dw             5
+2093  sJprizZfXS0-g4sON33EDA  zrDi4gEaUi64lAMfJU51dw             2
+2094  dvwFC5u09dbG_16AeNKBmQ  zscpjfq8zkmuiKytwHCwrA             5
+2095  XUwYlVRuyoImgtaw8Cjztg  zxsktAMsVBKj2PvvCV11UQ             3
+2096  hLVq7VSJBHZwqurwWoCmpg  zyRhwC9zs34LeYYfGc4gBA             5
+
+[2097 rows x 3 columns],                      user_id             business_id  review_stars
+0     5KQG9WqjlWIdaJKizt78wA  --cZ6Hhc9F7VkKXxHMVZSQ             4
+1     AzDNcxmF3idbbn5H_jUwzw  --cZ6Hhc9F7VkKXxHMVZSQ             4
+2     S6gAeiubzQ7FJOdMvipsog  -1ea69SVW-MJsaGQrA48dQ             1
+3     S6gAeiubzQ7FJOdMvipsog  -1ea69SVW-MJsaGQrA48dQ             4
+4     S6gAeiubzQ7FJOdMvipsog  -1ea69SVW-MJsaGQrA48dQ             3
+...                      ...                     ...           ...
+2316  qHZAGWMIBK3hIQMBpLEdKg  zxsktAMsVBKj2PvvCV11UQ             2
+2317  907s46W8EUgpca91oLeCOA  zyw5DjrRks7a8OhmBsgCQQ             1
+2318  eqpnNSQOCxV3ufSXwwgBJA  zzSYBWuv_fXGtSgsO-6_1g             4
+2319  6mn-M3f75hdynz245p-fBA  zzUj3ej4vm_DtvRxNvWDEw             3
+2320  LDPVkNDhdYNw1HlXAEEKsw  zzsOLFhgUw8gnjLTVVItFA             5
+
+[2321 rows x 3 columns],                      user_id             business_id  review_stars
+0     UvY0E6Wuhv_0Bita52RPOw  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     jMILNP3aD_xELk6d9S6vvw  --9e1ONYQuAa-CB_Rrw7Tw             4
+2     TVWkIa2RToZLA689qg53vQ  -8QlV3b_9H4BAh6LgMIr1g             2
+3     j57-tOoZZWhEMJ0kzOmJIg  -9u2uFwhlj3Yq4mG5IweoA             4
+4     DNlzbI54zCOa4to-vTWBJQ  -AVRReI-nfsa0lKlehEojw             4
+...                      ...                     ...           ...
+2081  7D3HbzsPMXn7AER3NmM2pA  zo_z6lMRcwHqQF_Z1VZLpg             4
+2082  xX1wftld9-ndtISAAihqng  zpoZ6WyQUYff18-z4ZU1mA             4
+2083  7ks5gnxM_o4XEJK4j6QnoQ  zuwba6QEBIDZT0tJZmNhdQ             2
+2084  Y-ffoQAiDQKMKCJ9q_7sGg  zyJDdgxhBNBeKaTCcNMFlQ             4
+2085  5C9vNqySOEpK_iKxjbGOZQ  zzSYBWuv_fXGtSgsO-6_1g             4
+
+[2086 rows x 3 columns],                      user_id             business_id  review_stars
+0     BgTWMo2qRrXINPiM35w8zw  --1UhMGODdWsrMastO9DZw             4
+1     gAORnKkyEJqyCmauTY0yJA  --cZ6Hhc9F7VkKXxHMVZSQ             4
+2     iXGoQVfBXU0CrwrRBWXozA  -050d_XIor1NpCuWkbIVaQ             4
+3     o3RcDdAroMxMaC9tUCFAMA  -0DET7VdEQOJVJ_v6klEug             4
+4     09QcQYf_t1NEq_AkjJuABA  -2Arz8twKJmxHMS3Sv-TeA             4
+...                      ...                     ...           ...
+2145  I7UWN9Tam7aRBnViZ52gVw  zidkKI_N1OPxsiddTOQH_Q             5
+2146  5RMrBxjIIvdTBl5prcAzvQ  zr93wrNyXzc-HW4IcK4iRQ             2
+2147  5RMrBxjIIvdTBl5prcAzvQ  zr93wrNyXzc-HW4IcK4iRQ             4
+2148  JfnY0VcP63s5RF1sfOHjBQ  zx_j6OuuHHa2afVoAZuLpA             5
+2149  bVMOrLZdGfOm4xxL-oZNWQ  zzwaS0xn1MVEPEf0hNLjew             4
+
+[2150 rows x 3 columns],                      user_id             business_id  review_stars
+0     Oz1Tz4LUlLw_UAgEkUiCvw  --cZ6Hhc9F7VkKXxHMVZSQ             5
+1     Oz1Tz4LUlLw_UAgEkUiCvw  --cZ6Hhc9F7VkKXxHMVZSQ             4
+2     rlDDkE6G-nMO-z0hNqekzA  -050d_XIor1NpCuWkbIVaQ             4
+3     CtJZaqVzKQhkOTOCwt4yRg  -2EAyppKR_2xuLyvJZEbRQ             1
+4     CtJZaqVzKQhkOTOCwt4yRg  -2EAyppKR_2xuLyvJZEbRQ             1
+...                      ...                     ...           ...
+2080  3_QnhZmuZtAOHNgztR-QZg  zbrFk-4ejesAJD8EwcdHxg             4
+2081  jPhjJnQ2_3_-tu__KTQZlA  zlpLjbwrKuNs8zROgB_qUQ             4
+2082  hkSiQAfl6w3882JJQzRTlQ  zrTGcb83AsfyVTMrsCa65A             4
+2083  d64lte3gSQVd6AeHXvaixA  zzSYBWuv_fXGtSgsO-6_1g             4
+2084  jwfOpCgeob0itikBIfPi2Q  zzsOLFhgUw8gnjLTVVItFA             5
+
+[2085 rows x 3 columns],                      user_id             business_id  review_stars
+0     GNs7Xn1jtTnJ4Xd6k26mfQ  --cZ6Hhc9F7VkKXxHMVZSQ             4
+1     0cG35-H4SbjjTTSlNoK3fw  -2pmn-oTJeybmDrL-ojwrw             5
+2     0cG35-H4SbjjTTSlNoK3fw  -2pmn-oTJeybmDrL-ojwrw             5
+3     0cG35-H4SbjjTTSlNoK3fw  -2pmn-oTJeybmDrL-ojwrw             5
+4     5wfD9ocDMlKfuKhLo2s6Cw  -3oxnPPPU3YoxO9M1I2idg             5
+...                      ...                     ...           ...
+2123  NgP1fwHk6Q2Je5AVS_HEyg  zw4Legbcu018p5WcZ74iWA             3
+2124  anMOsVqvXw9RuJLHi2Wlig  zy6Hzao6lTmuJMZo4BemIg             1
+2125  anMOsVqvXw9RuJLHi2Wlig  zy6Hzao6lTmuJMZo4BemIg             2
+2126  ySOWHay3yeaadfuXOuagMg  zyPGYeXF4XKCqNN1pjFWhg             3
+2127  jwctwzboGhQmtC50Juxa9A  zyw5DjrRks7a8OhmBsgCQQ             3
+
+[2128 rows x 3 columns],                      user_id             business_id  review_stars
+0     KBVL9aPlcLVwqyFQ__EeIA  -2lSbNMhXKYu7URjEE59qA             3
+1     BgTWMo2qRrXINPiM35w8zw  -2wh_ZsD2n5xFYgzppcxNg             3
+2     I7UWN9Tam7aRBnViZ52gVw  -6h3K1hj0d4DRcZNUtHDuw             2
+3     I7UWN9Tam7aRBnViZ52gVw  -6h3K1hj0d4DRcZNUtHDuw             2
+4     b0UcRHvNzY9oce0Zd5feDA  -95mbLJsa0CxXhpaNL4LvA             4
+...                      ...                     ...           ...
+2023  sbX6lfLiK7578KCrS-lZkA  zq2ErX9lOpENLFYKlrSioQ             3
+2024  sbX6lfLiK7578KCrS-lZkA  zq2ErX9lOpENLFYKlrSioQ             1
+2025  WeVkkF5L39888IPPlRhNpg  zs-T0uqKSHhYWSEok6oouw             5
+2026  hPtsSzp5ymjJU9h-6QAoXA  zs710LuQ8y10YsQHIjxjyw             4
+2027  ESSWEfZZp8vJpldwp2G3bA  zzUj3ej4vm_DtvRxNvWDEw             3
+
+[2028 rows x 3 columns],                      user_id             business_id  review_stars
+0     CP5LrgP2QievrtjgZGY6zQ  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     o1Y7kEsQk6GaloUlLn3OOQ  --9e1ONYQuAa-CB_Rrw7Tw             1
+2     X2HzPyMzRFDNYDgUZ8vvAg  --SrzpvFLwP_YFwB_Cetow             3
+3     Z74kA3qXszsBZjFNJUEMEQ  --cZ6Hhc9F7VkKXxHMVZSQ             4
+4     Z74kA3qXszsBZjFNJUEMEQ  --cZ6Hhc9F7VkKXxHMVZSQ             5
+...                      ...                     ...           ...
+2377  RnHpI-1r4DDKgMjoYXPIQw  zm-nB9xWL0RWZ-zoL7JNuQ             5
+2378  UzCgd62svU_tmtawMqQTQw  zpGCFAt_MydbQN4EsXee6w             5
+2379  gK_8yeYFU5A_rjL7Kfx70g  zpoZ6WyQUYff18-z4ZU1mA             4
+2380  mzHRaYLoV-lwX79HghP6lw  ztxAbArApdQIhMoPF_ttiA             4
+2381  xJjPEJ8wdb4XEZKn_-bkCw  zy_NHTqtfSrfTGGPoqy4Mw             2
+
+[2382 rows x 3 columns],                      user_id             business_id  review_stars
+0     M3YpU8fRyTZAQIn08bDT4g  --9e1ONYQuAa-CB_Rrw7Tw             2
+1     ORndr5NN_F_yeiWXp_oVFw  --cZ6Hhc9F7VkKXxHMVZSQ             2
+2     LG-FOXQL0zUcRQuqkhq-Zg  -45kMvS7h38CGaWugPY0rg             5
+3     QwGbsBI1DsIMObOEN4ZlgQ  -6h3K1hj0d4DRcZNUtHDuw             5
+4     twMUFzHc3Q-NnhsVsjxRvQ  -6tvduBzjLI1ISfs3F_qTg             5
+...                      ...                     ...           ...
+2134  AT97D5Gg1J_5CcfwR6bHTg  zr42_UsWfaIF-rcp37OpwA             1
+2135  2e5V6M4GNufEnbGJpVdCjw  zs-T0uqKSHhYWSEok6oouw             4
+2136  KVZTnJ52OCkuH_FH7P_6Mw  zs710LuQ8y10YsQHIjxjyw             5
+2137  Cp6WNjA9iV-NCAVv3Pa3KA  ztxAbArApdQIhMoPF_ttiA             1
+2138  -FFqZupwGHf-vrsUHMr_vw  zu2nczFtsFP0hD07nVBA9w             4
+
+[2139 rows x 3 columns],                      user_id             business_id  review_stars
+0     F3xsFydNSwKWgLwGMO0NOw  -01XupAWZEXbdNbxNg5mEg             2
+1     F3xsFydNSwKWgLwGMO0NOw  -01XupAWZEXbdNbxNg5mEg             3
+2     F3xsFydNSwKWgLwGMO0NOw  -01XupAWZEXbdNbxNg5mEg             2
+3     XV744-eTYTKQgjHfFhl0Hg  -2pQf1ceDZyE2ReCNbj-3A             4
+4     58pfv4F4qAvimc2Z0WfPHg  -6h3K1hj0d4DRcZNUtHDuw             2
+...                      ...                     ...           ...
+2006  IdnbvI-jYalwwSdLldiw0w  zdcesxBdjljRgS0QmCgkBg             2
+2007  6gDGoYsukrb9SCQhZir8oQ  zhVrl8N_zMW8f9NuoluG6Q             5
+2008  ouS-Douov6w19Xly4aKLHQ  zoIEe7uhsQT2EyiFLIfhrw             4
+2009  DQC3PRt4zfZUgnE0JcYYGw  zs-T0uqKSHhYWSEok6oouw             3
+2010  bxaICaGxzYHSB1MsztlGdg  zzlZJVkEhOzR2tJOLHcF2A             5
+
+[2011 rows x 3 columns],                      user_id             business_id  review_stars
+0     f8Bd1gr7glnnonDzWiyw1A  -1xuC540Nycht_iWFeJ-dw             5
+1     XVO2x2QDHi8eGEa-ZiVu3g  -4bPFENRdTqjML8aKEL6ow             3
+2     V0paFRuAuYigBqqFL5m3hA  -6h3K1hj0d4DRcZNUtHDuw             5
+3     V0paFRuAuYigBqqFL5m3hA  -6h3K1hj0d4DRcZNUtHDuw             5
+4     V0paFRuAuYigBqqFL5m3hA  -6h3K1hj0d4DRcZNUtHDuw             5
+...                      ...                     ...           ...
+2063  46-qsKjqR4vptCIYrHH1yw  zr42_UsWfaIF-rcp37OpwA             5
+2064  0UI9KTPdtkwl9lMdMT-Sgg  zsNEni7cr4lRnjd4AcO4kA             4
+2065  uvK5uiAvm7uijhs4me7PdQ  ztO1n2Kng54jJZPLJDzjfQ             5
+2066  vJX7LNnf-hUbOgUHCEweqw  zunMkZ4U2eVojempQtLngg             2
+2067  KhOqYDcsfmQcvus98yP2zQ  zwFScgZRXOsWnucfwyn8pw             2
+
+[2068 rows x 3 columns],                      user_id             business_id  review_stars
+0     cAifzp_PqhXdfpVxcXWLXQ  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     upVNDKYIRPdiyYrHxZ_eVg  -0mm8pqBSIOYZQHeo8XnkA             4
+2     Q_QsCiaeQ5T_CfmidxEM7Q  -1ea69SVW-MJsaGQrA48dQ             4
+3     B4Rwp0SUYwO8lgSHVT9w5g  -3zffZUHoY8bQjGfPSoBKQ             2
+4     aYF3NR0KpOkPfMbWIrFzmg  -5L8zOxibac-vBrsYtxXbQ             3
+...                      ...                     ...           ...
+2129  4hVHTZhy70Sw4gmQfk1pJg  zkuCoXFQOceyNaPJLUDZzA             3
+2130  WXvky5ZfBqikw7tgdwE0Sw  znWHLW1pt19HzW1VY6KfCA             5
+2131  t_9U_94WuP_HUSEXnBgL1A  zoYIwHGvnglmrZD0RqhRIA             1
+2132  wZYFf3deapERlQ3pu2aBhw  ztWgEejYskwqm8T40hN1Xg             4
+2133  2E2f5H4SltGyD8ciTu8AKg  ztk25JYxDZ9_9e2v6uHJAA             1
+
+[2134 rows x 3 columns],                      user_id             business_id  review_stars
+0     d1GOCEZ83rq3u5XiIvb9Pg  -6h3K1hj0d4DRcZNUtHDuw             5
+1     kHgt8_0vKlhXYdclfjPXeQ  -6h3K1hj0d4DRcZNUtHDuw             5
+2     kHgt8_0vKlhXYdclfjPXeQ  -6h3K1hj0d4DRcZNUtHDuw             4
+3     kHgt8_0vKlhXYdclfjPXeQ  -6h3K1hj0d4DRcZNUtHDuw             5
+4     gS4QCL6j_umAyfJXBGAZJQ  -76didnxGiiMO80BjSpYsQ             3
+...                      ...                     ...           ...
+1937  d9GraD1OjVyTEd1zPjp7Yg  zpoZ6WyQUYff18-z4ZU1mA             5
+1938  6MM9Yqn7UBM8tmpSHQHAAg  zpw5S3QwUse1MH-Eerbnaw             5
+1939  ZlT6FCO47DsWpXeBA6RfUw  zrYpLdnGKA_EmOhgRCy_vg             5
+1940  asU36VZTCvu6E40p8Bx2sw  zuVvDYJkKAbXQTTBauAqJQ             4
+1941  BQSOKU4x9gZAdhvklHW0qA  zvB0Vzhomsodw_iQ7FHY1Q             2
+
+[1942 rows x 3 columns],                      user_id             business_id  review_stars
+0     LOhEraqv7zXkTzXQsPERHg  --9e1ONYQuAa-CB_Rrw7Tw             3
+1     -HlCe-Ya-4CE2huuEk2_1g  -0DET7VdEQOJVJ_v6klEug             3
+2     sbrrFyYuGEGDO3VG6tomiA  -0mgn9dRi95otXd_h61LdA             4
+3     HXOfPXPMvdXNpQ_l0RRjKw  -4TMQnQJW1yd6NqGRDvAeA             5
+4     Rpqf0uVt6XENIvrbaSciiA  -6l_HnrJUgk0tMPSRY7lnw             3
+...                      ...                     ...           ...
+2033  8jqtat8vvuU6g3qVnwn-Lw  zjQwbwGCxXSlt__t1voGUA             1
+2034  qnoXQsDOTOFwJEYXSCnHEQ  zlHSnkKKZLtkaX9CljvryA             4
+2035  rgdg9SAGj9ay_Qnd0j_g8w  zo9fKM_Sty6qGztXKoMPmQ             4
+2036  WeVkkF5L39888IPPlRhNpg  zqF_OvUWK9mGHKouArn4EQ             5
+2037  vvUd-ZDuZ7WjjWrqzxcjVA  zv89ihIoUTzHo1eTAAwgvA             4
+
+[2038 rows x 3 columns],                      user_id             business_id  review_stars
+0     8pzIzE4iaf8TCVeNlq1kdA  --FBCX-N37CMYDfs790Bnw             5
+1     46HhzhpBfTdTSB5ceTx_Og  --cZ6Hhc9F7VkKXxHMVZSQ             5
+2     YFHrehv9nlluLMmn7eUUqw  --cZ6Hhc9F7VkKXxHMVZSQ             2
+3     ltsAZAwKFOiibmFqGir-wQ  -2C96suwzrE_cqI1U69cLA             5
+4     cU9BQ24vEIbUC4woNOjWJQ  -3zffZUHoY8bQjGfPSoBKQ             1
+...                      ...                     ...           ...
+2101  DAH5NEdYiSl7Cii1_t0Ing  zoYIwHGvnglmrZD0RqhRIA             3
+2102  4VmGfeC47nery2r_OkFLWg  zo_z6lMRcwHqQF_Z1VZLpg             1
+2103  JyfxepobutAUcCDg1EBsTA  zqNgwQjj0_XAll-neGikIw             3
+2104  iVxuxDTWn-hGVW4rvGmIig  zrDi4gEaUi64lAMfJU51dw             5
+2105  s1hZZMkaWCql09X-cGUQEQ  zw4Legbcu018p5WcZ74iWA             4
+
+[2106 rows x 3 columns],                      user_id             business_id  review_stars
+0     ke0wwp9Dx5CVUWP18keLag  -050d_XIor1NpCuWkbIVaQ             4
+1     IgPXs-Vpd3p_POXau4szFg  -1xuC540Nycht_iWFeJ-dw             5
+2     0d7Y_mRKenpPPQz6gx3_Ug  -2EAyppKR_2xuLyvJZEbRQ             2
+3     C7wu6sinBzxLGtA5CP4-kQ  -2FD5ANi-Hs6qEhYqsQLaQ             4
+4     4Xwo12Uxb0EPmHMe5rgHMA  -6h3K1hj0d4DRcZNUtHDuw             4
+...                      ...                     ...           ...
+2121  FRxGcIRukrH5lW2SQSxstg  zr42_UsWfaIF-rcp37OpwA             4
+2122  FRxGcIRukrH5lW2SQSxstg  zr42_UsWfaIF-rcp37OpwA             1
+2123  tFSnxUGaNa2pwb4zClBu_Q  zrDi4gEaUi64lAMfJU51dw             5
+2124  tFSnxUGaNa2pwb4zClBu_Q  zrDi4gEaUi64lAMfJU51dw             5
+2125  mIysRk_cJ5K_BMZ-r06TFw  zrTGcb83AsfyVTMrsCa65A             1
+
+[2126 rows x 3 columns],                      user_id             business_id  review_stars
+0     9Y1YkloHk2MAE3hkwYdFKA  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     lC7eMQdOE8ZUKBs3J_2NYQ  -050d_XIor1NpCuWkbIVaQ             4
+2     MVXNh76-AoDaVAWl6mL8Vw  -1xCh7Cocn6IwFzhELyohA             3
+3     -FjLaUdIRV3I0Pv8i-ICfQ  -3zffZUHoY8bQjGfPSoBKQ             5
+4     SPBKjj-UF64YfF8qWSFHVQ  -4B9nqmqqWUxzbQarf40uQ             4
+...                      ...                     ...           ...
+2620  2SHMIVAtesGrlJu5EmMTpQ  ztO1n2Kng54jJZPLJDzjfQ             4
+2621  FPLGHrDuZnl3rJnnM-NMcQ  zwBEMcCVqh8wOXn_sOIfxg             4
+2622  ITf8PiWzmTzcZu3kRWEoGg  zydbdBR6-CM8UZ6WkW1DWA             4
+2623  aUhcscNphAJQlZe1R_WRow  zze6IysT7bJFS8gvi6fZ2A             4
+2624  nwTRwJZFkqtDEdxunzpZDQ  zzmIMvqiBJ_-wVKg_OnGpw             4
+
+[2625 rows x 3 columns],                      user_id             business_id  review_stars
+0     kBZRjaN04_55lMx3F4_oZQ  -050d_XIor1NpCuWkbIVaQ             3
+1     xBj4VvrGYLVfv2xWKR5huw  -050d_XIor1NpCuWkbIVaQ             5
+2     K1eMK0qdfqjzVpqwN8dDJA  -3zffZUHoY8bQjGfPSoBKQ             3
+3     7qrERPgxzGQJWNFNgjnB1w  -6tvduBzjLI1ISfs3F_qTg             3
+4     2_X5tC1F2sYmicko_f7Nxw  -7H-oXvCxJzuT42ky6Db0g             4
+...                      ...                     ...           ...
+2033  YEiJOtOBBRKEpRuvZNA9Cg  zpf-9NlOGSGGIIbJLO27eg             2
+2034  YEiJOtOBBRKEpRuvZNA9Cg  zpf-9NlOGSGGIIbJLO27eg             3
+2035  YEiJOtOBBRKEpRuvZNA9Cg  zpf-9NlOGSGGIIbJLO27eg             2
+2036  VdfFkucdP-vFJJ8zxkA8xA  zrTGcb83AsfyVTMrsCa65A             4
+2037  cafRiSVWRXlxDEK2YNrJ6g  zw9_mqWBn1QCfZg88w0Exg             3
+
+[2038 rows x 3 columns],                      user_id             business_id  review_stars
+0     I5S5BV-n2XhYFjCLTwZIjg  --6MefnULPED_I942VcFNA             1
+1     mFwRTTDW0Yr-rFkTF2cFsw  --6MefnULPED_I942VcFNA             4
+2     -T_cG-7YFFvD3Cdu3v4ZYA  -050d_XIor1NpCuWkbIVaQ             4
+3     -cqwdXaVlPu1mcBX-CgvYg  -6tvduBzjLI1ISfs3F_qTg             4
+4     N4-j1SnabyhW_A_wERcV5g  -6tvduBzjLI1ISfs3F_qTg             4
+...                      ...                     ...           ...
+2028  8OeTLey-p-WaL9ErNEci1Q  zpoZ6WyQUYff18-z4ZU1mA             4
+2029  S2lHPtlEvksT2In8FW8wvQ  zuUWG7OdMv6awFRYhEYT5Q             2
+2030  S2lHPtlEvksT2In8FW8wvQ  zuUWG7OdMv6awFRYhEYT5Q             2
+2031  qxuJk8rRr2Fm7OphnzOkoQ  zw4Legbcu018p5WcZ74iWA             4
+2032  bHbaJa4mD1QIp4LdaihBQg  zwmps5SXn30g-f5wqg_r9A             2
+
+[2033 rows x 3 columns],                      user_id             business_id  review_stars
+0     kIcQu4A5VXkP9joCho5L6g  -0Sgh0QlUKVsWosCWJzGqQ             3
+1     BL2bwHhZvfLmaEpjziThEw  -1vfRrlnNnNJ5boOVghMPA             2
+2     BL2bwHhZvfLmaEpjziThEw  -1vfRrlnNnNJ5boOVghMPA             2
+3     a8gxBNLH8eqX1tR_LrrG7Q  -1xuC540Nycht_iWFeJ-dw             5
+4     ZNuAVpV9PZEAr8uF7VdRXA  -6tvduBzjLI1ISfs3F_qTg             5
+...                      ...                     ...           ...
+2088  wf9a0Gi7MpWNtsyCJgkxIw  zrDi4gEaUi64lAMfJU51dw             3
+2089  KZ59eV6GnPYxHOxgJH7osQ  zrTGcb83AsfyVTMrsCa65A             5
+2090  tKBSS3D15qAUQEdHJioQoQ  ztP466jMUMtqLwwHqXbk9w             5
+2091  WHmabbfgdSW-JrOU9ePMrA  zyw5DjrRks7a8OhmBsgCQQ             3
+2092  cUEXUqAM7WvxJV3iBZ1Ucw  zyw5DjrRks7a8OhmBsgCQQ             5
+
+[2093 rows x 3 columns],                      user_id             business_id  review_stars
+0     qVWA653mQL6J1teshUljMQ  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     3HR86J_kKOMpS4ad4Lu5yg  --cjBEbXMI2obtaRHNSFrA             2
+2     -e5lRXV1wnrW58siBEGGoQ  -3cJ2k_iwauMpy1WfI4NrA             5
+3     pqXV9gDi6wGRGI6sN2yyDg  -8fOqUWFX_1qiKggIt5LnA             5
+4     xcoMllL9zQ9lyOre5umDMA  -95mbLJsa0CxXhpaNL4LvA             5
+...                      ...                     ...           ...
+2031  KyMkKb5IohKb0S7v4Jv-oA  znDUBjt-m2qmXi_p3m3rDA             2
+2032  UDFIZXP0kOb2xKoYToTS6w  zpw5S3QwUse1MH-Eerbnaw             2
+2033  5RLxzxLIY3ZXUUksr_dtXA  zrTGcb83AsfyVTMrsCa65A             4
+2034  hVvC-vge3T7l3f3BTc71Mw  zu5dqKqPjJCycS5k-92Alg             2
+2035  T4qC5I54Sa69JDXbxL9S6Q  zwNC-Ow4eIMan2__bS9-rg             5
+
+[2036 rows x 3 columns],                      user_id             business_id  review_stars
+0     uOuH6gb4Qcs7FlpRcxOZDg  --cjBEbXMI2obtaRHNSFrA             3
+1     lVleYbN2G3Yryuw__TnKCw  -0DET7VdEQOJVJ_v6klEug             3
+2     KAapQQpTr_UbCr8AKR_-sQ  -0NrB58jqKqJfuUCDupcsw             4
+3     _VTEyUzzH92X3w-IpGaXVA  -382X_bWhJKPJKP1VfXOmw             3
+4     HyXK2GNR9i4SWpLQGOqQYQ  -8jeDY-TJ_e6w7h0c--A-w             4
+...                      ...                     ...           ...
+2034  nOSWGrjT4HIpDohLAOpgLw  zo_z6lMRcwHqQF_Z1VZLpg             5
+2035  -LwZFIaa-SCYJKloGaxeaw  zrDi4gEaUi64lAMfJU51dw             5
+2036  5rdWw9px16eMsqc5yUJrUg  zrDi4gEaUi64lAMfJU51dw             1
+2037  lUb3e6omJiKUh3XNyYEGkA  zrTGcb83AsfyVTMrsCa65A             1
+2038  mm9WYrFhiNqvHCyhQKw3Mg  zuUWG7OdMv6awFRYhEYT5Q             3
+
+[2039 rows x 3 columns],                      user_id             business_id  review_stars
+0     xnLliq9Majlk9i0Orf7Iig  -0mm8pqBSIOYZQHeo8XnkA             4
+1     7GVA958q4zs5Z8cdHauU5Q  -1UMR00eXtwaeh59pEiDjA             4
+2     LLrcXOk1NkEkEaYls2oZSA  -6h3K1hj0d4DRcZNUtHDuw             2
+3     5E15E3SndjEGjBLr6BZaSQ  -6sE5v4OrVGmWxdIrbs-RQ             4
+4     kYKL1VvoI8bHjuOyq2_yUg  -ADtl9bLp8wNqYX1k3KuxA             3
+...                      ...                     ...           ...
+2091  2AZaPPRAWhDDO7k-jlpfwg  zqNgwQjj0_XAll-neGikIw             5
+2092  R6NNz2Zb2yqpRWJNKIWldg  zrJDRWzP0P4wTFq8-N_mzA             2
+2093  Vif2d_pE7wwq5dxXYD1FGw  zrnP9HqoF-RI9jqoW8pytA             5
+2094  xSb2qnoa2BxPZZFS9XR3qg  zsMMlOYtXm8SNy0bl1leBA             5
+2095  GwWjnIPiaw9uBOVGC8s-RQ  ztk25JYxDZ9_9e2v6uHJAA             4
+
+[2096 rows x 3 columns],                      user_id             business_id  review_stars
+0     XO0UfcfbYOrcjtggHeZN2w  --cZ6Hhc9F7VkKXxHMVZSQ             5
+1     hem7ZHa4Mz_m4x0qIMCynA  -1m9o3vGRA8IBPNvNqKLmA             3
+2     pR0vABa2uMrQtzC97ewPtA  -1m9o3vGRA8IBPNvNqKLmA             4
+3     is5vAvanYvmF-28i9no2LQ  -2C96suwzrE_cqI1U69cLA             4
+4     ujlGmFFeuS1Jdt6uda7pxw  -2WW_cjFa9-UwKSmbEs78Q             4
+...                      ...                     ...           ...
+2004  uz5-sq6wHrXScrIWb8r1Mg  zmfa8RNxqSuOJ9Nx-CMs_Q             3
+2005  i7pO5Zq0_uoB9-D1uiGe2A  zpC-0J9p7V26ZZAVses64A             5
+2006  mcXNDDrTCZrhMtn2DivNcw  zsR57scngUPI5W686GmSGA             3
+2007  6N8scdRhsaGLZxvqriE7iw  zuwba6QEBIDZT0tJZmNhdQ             2
+2008  HpivLAodxcQlmncyc6swXg  zwNC-Ow4eIMan2__bS9-rg             4
+
+[2009 rows x 3 columns],                      user_id             business_id  review_stars
+0     uH8tTLb3Fz64GtEMWpZZcQ  --6MefnULPED_I942VcFNA             5
+1     ---1lKK3aKOuomHnwAkAow  --9e1ONYQuAa-CB_Rrw7Tw             4
+2     Wu75sd3xF81Ez6llOXTKug  -0mm8pqBSIOYZQHeo8XnkA             5
+3     ZVu9TDpTvIgCN8x6IY-KmA  -5L8zOxibac-vBrsYtxXbQ             4
+4     4m9NXICYBC5i9t4aTt-I6w  -7H-oXvCxJzuT42ky6Db0g             4
+...                      ...                     ...           ...
+1973  2qV_3yPX9igY9UGLCQCDiQ  ztP466jMUMtqLwwHqXbk9w             1
+1974  lRdllZQJ_3Dxs62CEvxrpQ  ztP466jMUMtqLwwHqXbk9w             5
+1975  TK0GhGu9WVTYQuPVRwQhHg  zvB0Vzhomsodw_iQ7FHY1Q             2
+1976  S6gAeiubzQ7FJOdMvipsog  zzSYBWuv_fXGtSgsO-6_1g             4
+1977  -Ds0hzlQwZUukmOwnapaFg  zzdJkVrJ8OkZPUxrvLMkYQ             5
+
+[1978 rows x 3 columns],                      user_id             business_id  review_stars
+0     2oxqbck3MJErUffBa6JIew  --9e1ONYQuAa-CB_Rrw7Tw             2
+1     NIHuPRTp7Ff9DwyT2XPONg  -050d_XIor1NpCuWkbIVaQ             3
+2     J4ZLNtDFRMN5lCwvFs9zww  -0NrB58jqKqJfuUCDupcsw             1
+3     ITZU9bz9CY_laMqK4hZrvA  -1xuC540Nycht_iWFeJ-dw             5
+4     yeGIAyHixJrIe-zmXiePWQ  -6GJMc_Ln7csmvWWvY2iug             3
+...                      ...                     ...           ...
+2065  2D2bPTst5z5BdaHTdYTA-Q  zwNLJ2VglfEvGu7DDZjJ4g             1
+2066  pspJkQgUOap1OjTZVMbdsQ  zzBa0pQjM1gov00bXjYYXg             5
+2067  v2WrKPkRI1TikXDKAi8VFw  zzwicjPC9g246MK2M1ZFBA             4
+2068  v2WrKPkRI1TikXDKAi8VFw  zzwicjPC9g246MK2M1ZFBA             4
+2069  v2WrKPkRI1TikXDKAi8VFw  zzwicjPC9g246MK2M1ZFBA             4
+
+[2070 rows x 3 columns],                      user_id             business_id  review_stars
+0     Q_QsCiaeQ5T_CfmidxEM7Q  --I7YYLada0tSLkORTHb5Q             5
+1     JSeKAxOqi-97y8fx5vnNSg  -1HW4ALuB331RgjwHOA0Nw             1
+2     1V38sXUk6_Y78xa7MCqMIQ  -5L8zOxibac-vBrsYtxXbQ             5
+3     jwfOpCgeob0itikBIfPi2Q  -Bdw-5H5C4AYSMGnAvmnzw             5
+4     JQ0c7JuzBcdoR6bMzN9mFQ  -BxWyEIQ6wypT-37MzZizQ             3
+...                      ...                     ...           ...
+2139  nZ6ctPATqhXIReKDq7doVg  zfiSQ1dl3vTJ-og96eqXGA             5
+2140  ni9oiXuaJDo86S5e1L-YYQ  zgGoxOsThXKAcs2lAgC9yg             5
+2141  xZ1wUASmpqU1Q6R7onSsew  znu3EN7tDFIXmiTwKvX1Ow             4
+2142  EVzpYvuyhBPb9u2sS-YJeg  zwNC-Ow4eIMan2__bS9-rg             1
+2143  gGCv9qdMRgAa39ao0Phr7g  zxsktAMsVBKj2PvvCV11UQ             3
+
+[2144 rows x 3 columns],                      user_id             business_id  review_stars
+0     8OeTLey-p-WaL9ErNEci1Q  --9e1ONYQuAa-CB_Rrw7Tw             3
+1     d43iQ50HjWIl4vN4rBgoVQ  -1VaIJza42Hjev6ukacCNg             4
+2     S0YQ47x5g8SfZe87KGvsJw  -6h3K1hj0d4DRcZNUtHDuw             3
+3     pr8_C12oHakeNB4ZPp_dig  -8ILwSisSrTzcyy_Z0o9oA             5
+4     pr8_C12oHakeNB4ZPp_dig  -8ILwSisSrTzcyy_Z0o9oA             5
+...                      ...                     ...           ...
+2120  mroiEu_625UKU4jqOop1qQ  zlpLjbwrKuNs8zROgB_qUQ             5
+2121  LjDgPY9EjK5j1qtyEHKAfw  zoiipnagfeUvIP-17Fh9_A             4
+2122  Apj8bnqWlnaiSu4YDl0wDA  zpoZ6WyQUYff18-z4ZU1mA             4
+2123  swDwGOEkjVJtDOgO5UU8bg  zrDi4gEaUi64lAMfJU51dw             4
+2124  7XPgmo8KJYIc-hN34w8Y7Q  zzUj3ej4vm_DtvRxNvWDEw             5
+
+[2125 rows x 3 columns],                      user_id             business_id  review_stars
+0     QYobbHEmhLGuS6QDqVRTLw  --cZ6Hhc9F7VkKXxHMVZSQ             4
+1     0gtEsazPeHr5rj2IAsZePg  -0NrB58jqKqJfuUCDupcsw             5
+2     XIBU2yXYPvJQPiEO9-47pQ  -45kMvS7h38CGaWugPY0rg             2
+3     yewf3rGkynR_-IN-4u-D8w  -5L8zOxibac-vBrsYtxXbQ             4
+4     QnW2x8E8AgwK3EQq8Q_6yA  -6h3K1hj0d4DRcZNUtHDuw             5
+...                      ...                     ...           ...
+2115  JW85V2BfiGF-2B8wsK723g  zqNgwQjj0_XAll-neGikIw             5
+2116  fExufa5x7mnvbVAwciJoAw  zqRTnP_JQv94nuoyO7xCQg             4
+2117  --ty7Z9fEt08E3dS3_qoSA  zsNEni7cr4lRnjd4AcO4kA             5
+2118  zwmThlRiY1LHfJ_7zNfGqg  zyEnTgWFUydT-Qz_3UK-IA             3
+2119  0UI9KTPdtkwl9lMdMT-Sgg  zzsU528uoRB6qZUGhKDa6w             4
+
+[2120 rows x 3 columns],                      user_id             business_id  review_stars
+0     QYKexxaOJQlseGWmc6soRg  --ujyvoQlwVoBgMYtADiLA             4
+1     QYKexxaOJQlseGWmc6soRg  --ujyvoQlwVoBgMYtADiLA             4
+2     QYKexxaOJQlseGWmc6soRg  --ujyvoQlwVoBgMYtADiLA             4
+3     OCjgTMSDcI0xmIsrf8KHww  -050d_XIor1NpCuWkbIVaQ             4
+4     SHyWxJxb-mKiNgHPUSu3_g  -1xCh7Cocn6IwFzhELyohA             4
+...                      ...                     ...           ...
+1960  URPjW8ckLuLDLR02uuLpTg  zoOxUVpuoar5_9KU61CLFw             4
+1961  aXxF0veD6vK4hY2K2k9gXg  zpC-0J9p7V26ZZAVses64A             3
+1962  pmOAOjeUVfnBf1sWM5GNPQ  zrDi4gEaUi64lAMfJU51dw             4
+1963  nNKxnbcqyys5PY_8ZZy5YA  zrTGcb83AsfyVTMrsCa65A             5
+1964  PF07QY_dBTNGavc8CYBv5w  zutMSVmRLPjEbeF8aFtSnQ             4
+
+[1965 rows x 3 columns],                      user_id             business_id  review_stars
+0     Cea45bU6zSRZSer822iobw  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     clyp9Ay89BEE1Cd2q4M_sA  --SrzpvFLwP_YFwB_Cetow             3
+2     5jJjY5_R06Og56VfjIc66A  --cZ6Hhc9F7VkKXxHMVZSQ             4
+3     8W8LDl9XHwpNE4Izsx3TpQ  -1xuC540Nycht_iWFeJ-dw             4
+4     isQxsxlCjj6P8GQ_uuFwew  -5NXoZeGBdx3Bdk70tuyCw             5
+...                      ...                     ...           ...
+2084  cJwE8DPjh_yzqOLh9FUjxQ  zv89ihIoUTzHo1eTAAwgvA             4
+2085  kAH6j6zwpg-Vy505f0RBtQ  zyw5DjrRks7a8OhmBsgCQQ             3
+2086  3Z70d8MHB6WhlMpIz9YdZA  zzSYBWuv_fXGtSgsO-6_1g             4
+2087  WOfakw1YXmtYcuaep0NcYQ  zzSYBWuv_fXGtSgsO-6_1g             4
+2088  0WygCUOgOMxucwZsrYru9w  zzwhN7x37nyjP0ZM8oiHmw             3
+
+[2089 rows x 3 columns],                      user_id             business_id  review_stars
+0     4FQVx4326l2UnatfCMfRGg  -050d_XIor1NpCuWkbIVaQ             5
+1     PK4CZEFUeSorBbjHp9FcLQ  -050d_XIor1NpCuWkbIVaQ             5
+2     u0rMrAa9kOj6c1WZ5hcpPw  -1vfRrlnNnNJ5boOVghMPA             5
+3     i7dva-DqwjyAtLVc2idhNA  -1xuC540Nycht_iWFeJ-dw             5
+4     KBVL9aPlcLVwqyFQ__EeIA  -4B9nqmqqWUxzbQarf40uQ             3
+...                      ...                     ...           ...
+2053  WfsF16BDB7fKzNfwhMP8MA  zqNgwQjj0_XAll-neGikIw             5
+2054  Srv9jOGELiNGIJEqhS5_uQ  zvezLicNkf8tTqZyYhP83w             3
+2055  8h1r7mXd-H225yDgc4EMPg  zxJlg4XCHNoFy78WZPv89w             3
+2056  F4fLFnCnrghErD2_e33mJQ  zyPGYeXF4XKCqNN1pjFWhg             5
+2057  LsetVkboPZGWbv61-DUdUw  zz3CqZhNx2rQ_Yp6zHze-A             2
+
+[2058 rows x 3 columns],                      user_id             business_id  review_stars
+0     XZaCs-Gs0SXdZgfG38GFYw  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     hdha6G3od9ZFd6x1SLwxhw  -1m9o3vGRA8IBPNvNqKLmA             5
+2     Os1yjehQfNF7JDAvDmjKfg  -1xuC540Nycht_iWFeJ-dw             4
+3     Os1yjehQfNF7JDAvDmjKfg  -1xuC540Nycht_iWFeJ-dw             4
+4     esJ5E0pfjQ0UhSDVaix6Pg  -59dl6bXMKpmv38TosZJlg             4
+...                      ...                     ...           ...
+2080  tU7OJ0GIoWtS25tcy84LxQ  zsQk990PubOHjr1YcLkQFw             5
+2081  e2l0lW2CK33ZK82ITYoFWA  zuVvDYJkKAbXQTTBauAqJQ             4
+2082  y5YNzZwQuYxgE-jSDcZLxA  zw9_mqWBn1QCfZg88w0Exg             2
+2083  SSpcxg_dCHV4lT5euanRGg  zwmps5SXn30g-f5wqg_r9A             3
+2084  R1FVpAyl_BtxHBWdau2VLg  zzSYBWuv_fXGtSgsO-6_1g             4
+
+[2085 rows x 3 columns],                      user_id             business_id  review_stars
+0     bs_FiiqQNyUg6Fh_WqyLyQ  -6tvduBzjLI1ISfs3F_qTg             4
+1     LfKXi3u8aRN8SHHBXGb3_A  -8AoSGOdZyDdTpT2oqX3zQ             2
+2     5uiCy0vSIknuDEHc7yHRkw  -Bdw-5H5C4AYSMGnAvmnzw             5
+3     5uiCy0vSIknuDEHc7yHRkw  -Bdw-5H5C4AYSMGnAvmnzw             4
+4     lZoaCeFcnThIT7OZVkc6qQ  -CfFjcCcGGDM9MVH_d42RQ             5
+...                      ...                     ...           ...
+2099  Y6XH1iNsuuGAcO5nODI6rg  zk6V9L20h4kDDj_dO9IitQ             5
+2100  Kc6fTOBttQsexPPVfe5XTg  zrYpLdnGKA_EmOhgRCy_vg             4
+2101  7Co3bpAF96UuUhb-1FsOmw  zwNLJ2VglfEvGu7DDZjJ4g             2
+2102  BpHrVG_nZ0s-tXg3lx56zA  zzlZJVkEhOzR2tJOLHcF2A             1
+2103  rAa-LxHwU8IP989kvMUJSA  zzzaIBwimxVej4tY6qFOUQ             3
+
+[2104 rows x 3 columns],                      user_id             business_id  review_stars
+0     jt3v30nfw7ZGfQQd-XZhzA  -2pQf1ceDZyE2ReCNbj-3A             3
+1     DJw9TpoF9ADvljEbgzKsyg  -3zffZUHoY8bQjGfPSoBKQ             2
+2     DJw9TpoF9ADvljEbgzKsyg  -3zffZUHoY8bQjGfPSoBKQ             4
+3     2-XLTj0Cfd81_XlmHo02Aw  -6tvduBzjLI1ISfs3F_qTg             5
+4     daSPgHKWaeAh9EgecvFy-Q  -6tvduBzjLI1ISfs3F_qTg             3
+...                      ...                     ...           ...
+1996  YQxd76rE_mCi1ii361GDNw  ztO1n2Kng54jJZPLJDzjfQ             3
+1997  vy6B3QGnkKRm5BUxb9nhqg  zvB0Vzhomsodw_iQ7FHY1Q             3
+1998  mxwMqra7TEZ6K4ML3DgPmA  zwNC-Ow4eIMan2__bS9-rg             5
+1999  CZnuW6YeZg7ZIiTbmI58BQ  zx_j6OuuHHa2afVoAZuLpA             5
+2000  xZyMY7_Q45WZIOxxmVU_2g  zzwicjPC9g246MK2M1ZFBA             3
+
+[2001 rows x 3 columns],                      user_id             business_id  review_stars
+0     M9RZJ4TTfYB2iosiEV30mg  --KCl2FvVQpvjzmZSPyviA             2
+1     z5BK-eiY_uobBh995Bi60w  -0DET7VdEQOJVJ_v6klEug             1
+2     nHjRBSbzPeqdq5_D3AirEg  -1xuC540Nycht_iWFeJ-dw             5
+3     ae7zi8F0B6l_JCITh1mXDg  -3zffZUHoY8bQjGfPSoBKQ             4
+4     wWhllrw0Y_Dl5rHEUDUdww  -95mbLJsa0CxXhpaNL4LvA             5
+...                      ...                     ...           ...
+2094  l3MXo1FTYZm9JeyM7rmU6Q  zsQk990PubOHjr1YcLkQFw             4
+2095  5BlMUED0B1kvCvd-O-B2Yw  ztP466jMUMtqLwwHqXbk9w             5
+2096  gHvs-QMu8megAZKDKN11dA  ztQH2Q99E3D-iSdfImqjcQ             5
+2097  9ks-80ZxeCZWNObzEbW4-Q  zw9_mqWBn1QCfZg88w0Exg             2
+2098  sQo9258dY4vvSEuOC6X1fg  zzSYBWuv_fXGtSgsO-6_1g             4
+
+[2099 rows x 3 columns],                      user_id             business_id  review_stars
+0     opPMmpahSirQ4nmNkIAnug  --U98MNlDym2cLn36BBPgQ             3
+1     je5k8a3qIOM0VJE5MaxsfQ  -050d_XIor1NpCuWkbIVaQ             4
+2     DQ79kTU_H8Wq8K3vEbzdFw  -9nai28tnoylwViuJVrYEQ             3
+3     x4TwK62HyLeO56zGsSN0yw  -9u2uFwhlj3Yq4mG5IweoA             5
+4     KZzdRSve51cpSb8G3RoVbg  -AD5PiuJHgdUcAK-Vxao2A             2
+...                      ...                     ...           ...
+2118  HxgbvA05jmRxKyJSq4ZmrA  zo_z6lMRcwHqQF_Z1VZLpg             3
+2119  YYkC8eFXC-PB6U9fjmW_JA  zuEJKjSkX-4qw8MlEcI0Xg             4
+2120  j6c0PKCAHiR6tI2EqZByow  zxsktAMsVBKj2PvvCV11UQ             3
+2121  DPg21t58vv1K6FheKt_tWw  zy6Hzao6lTmuJMZo4BemIg             1
+2122  824ib5uE5pePFQIW5I_T6Q  zyw5DjrRks7a8OhmBsgCQQ             1
+
+[2123 rows x 3 columns],                      user_id             business_id  review_stars
+0     JXHrhT72U6sZJQSkFfNzjw  -1m9o3vGRA8IBPNvNqKLmA             5
+1     wgJ9vNM3ahtwCKHedXgrow  -6tvduBzjLI1ISfs3F_qTg             4
+2     5iTdaHwTbms9D-Th3DNweQ  -7PX_FOoCwktlunImRyZdg             5
+3     3WzfK1ymtAaz189qmGiLWw  -888fFkw3R5YxjPJFdYeGg             5
+4     KYWOmqhJeXnjlo8cQRC2dA  -9nai28tnoylwViuJVrYEQ             4
+...                      ...                     ...           ...
+2141  _HcaC3P9pAB3sYr8bIXKOw  zsQk990PubOHjr1YcLkQFw             2
+2142  _HcaC3P9pAB3sYr8bIXKOw  zsQk990PubOHjr1YcLkQFw             4
+2143  oq2pK1hL2An_Oc_uynFxkA  zx_j6OuuHHa2afVoAZuLpA             5
+2144  WHmabbfgdSW-JrOU9ePMrA  zzUj3ej4vm_DtvRxNvWDEw             4
+2145  QYC3HlU2lVeocJSU_UP73A  zzjKekzQ6i4iR-qpo405Pw             3
+
+[2146 rows x 3 columns],                      user_id             business_id  review_stars
+0     FJQg60tFGV1nj0K_GMHuVA  -63pZrN9eEFoi-avMMx6Ug             1
+1     h4zY-bhSKlmt5abuDOnyvg  -6tvduBzjLI1ISfs3F_qTg             4
+2     6tlC85J2zsHpnrtHp3qX6Q  -7VzJ1aG5yuWB9LT42yhlw             3
+3     NVYsLQLS6nQVHui82zb4uQ  -865Ps6xb3h1LP67JcQ3mA             1
+4     3zTJVMca5uNTjJYQf76d3Q  -8O8sVCnaIKHP-596zN9UA             1
+...                      ...                     ...           ...
+2217  0KD6JNBvIQgwayTyvLt6Ww  ztmIXLuIAADzuTa4skUTgg             5
+2218  PsKLE5o92H7vwNyXL1xHPw  zuUWG7OdMv6awFRYhEYT5Q             1
+2219  DoGNqIcV70TVY1jy7xEDTw  zuVvDYJkKAbXQTTBauAqJQ             4
+2220  cX11m949T1tmViZ0tOdwyA  zvB0Vzhomsodw_iQ7FHY1Q             2
+2221  2pInNXbdv1GI88GPlj9aOQ  zzlZJVkEhOzR2tJOLHcF2A             4
+
+[2222 rows x 3 columns],                      user_id             business_id  review_stars
+0     ILe3tzgnbGSaZfpArtJdjA  -1xuC540Nycht_iWFeJ-dw             1
+1     ILe3tzgnbGSaZfpArtJdjA  -1xuC540Nycht_iWFeJ-dw             5
+2     GIkEueeahJdLXziC4yqbUw  -2pQf1ceDZyE2ReCNbj-3A             4
+3     I4OM03v7HHncaTjkop0UaQ  -3vXcKzJA_kVZDM8Yn3w_Q             1
+4     MqamCCspZhF_l0xPtGFbZw  -3vXcKzJA_kVZDM8Yn3w_Q             5
+...                      ...                     ...           ...
+2091  emFFLLncRBFGiUJT1n6U_Q  zswdqM8Av3KxVv9o7_6ORA             2
+2092  3q6qOQyqIXSYG1NSRyA8Ow  ztP466jMUMtqLwwHqXbk9w             5
+2093  _tWsCv3Hh0MZcy1qSv-Xog  zuUWG7OdMv6awFRYhEYT5Q             3
+2094  8B3hGCIDhKlK34EdDQUKEA  zxSfGIhK3hH3vVz_pS5eaA             3
+2095  Wiz1_ro72aIJ3s06ctxzTw  zyPGYeXF4XKCqNN1pjFWhg             4
+
+[2096 rows x 3 columns],                      user_id             business_id  review_stars
+0     VmlShd8k2tq7-O4TVx5R1Q  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     --ty7Z9fEt08E3dS3_qoSA  -1UMR00eXtwaeh59pEiDjA             5
+2     S-o3iFv-AFdgE4FXNMJ1Kw  -2A9emZwBK8zYHPnAmM0hw             3
+3     IHZ_G0f5GKBmGsN8cmoeRw  -6h3K1hj0d4DRcZNUtHDuw             1
+4     pG-0fg0xNjjpWiFjAJN_pQ  -6h3K1hj0d4DRcZNUtHDuw             4
+...                      ...                     ...           ...
+1988  kwRYb-bNRuXhUpjrGkzR0Q  zpWUBRCgivf1hiR-M5ZePg             4
+1989  PkF0hg5fNAHwxJrYrhUkBg  zr42_UsWfaIF-rcp37OpwA             5
+1990  j4KaTVeOxUyIRjdRO3vl0Q  zr93wrNyXzc-HW4IcK4iRQ             4
+1991  R3jMcisnWU-gjjSXgWNXvw  zrDi4gEaUi64lAMfJU51dw             5
+1992  2e5V6M4GNufEnbGJpVdCjw  zwANZuuXMSgBR5UXu19UBw             3
+
+[1993 rows x 3 columns],                      user_id             business_id  review_stars
+0     Y2DEuPMILo7wWNykBrSb8A  -050d_XIor1NpCuWkbIVaQ             4
+1     R4-68tlEQjtxpR2PN4lKag  -6h3K1hj0d4DRcZNUtHDuw             5
+2     Wn9tzrF4s_E_xe_MwsvgZA  -7EwIdxcRC5McO35DVfeSQ             5
+3     z2S2HYVNwCIBRESeMkJjjA  -7H-oXvCxJzuT42ky6Db0g             3
+4     m5b84-nPPVNLlDtZyVGZ3w  -888fFkw3R5YxjPJFdYeGg             5
+...                      ...                     ...           ...
+2017  Ncnr2fzHz7nTmjJ3RLqbew  zitXLajbETOuHQJfok4a4g             5
+2018  efDWQZJ5QX_uGhpVRLjo-Q  znWHLW1pt19HzW1VY6KfCA             4
+2019  Q8c3v5Xk60J7ptv_zYubDA  zoJZ_LgSBq3YznjrzXkG3Q             1
+2020  Ry1O_KXZHGRI8g5zBR3IcQ  zr8Ojsm-yNhvfTzBzcKU9w             5
+2021  SKwmLJr-T1imNAzOPu_FIg  zw9_mqWBn1QCfZg88w0Exg             2
+
+[2022 rows x 3 columns],                      user_id             business_id  review_stars
+0     hU46otnbSfdU5oI0zhJGoA  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     GrbKHOcLurbZhuXHxEW3RQ  -0DET7VdEQOJVJ_v6klEug             5
+2     Um2av9xV9nXTWVGEX9qWDg  -6tvduBzjLI1ISfs3F_qTg             4
+3     1ghFOCMBpo2bGaWu_c1tcg  -7d3UqQYYcBxbDH2do86sg             3
+4     3Z70d8MHB6WhlMpIz9YdZA  -8O8sVCnaIKHP-596zN9UA             4
+...                      ...                     ...           ...
+2140  OJDOFhFlUdYLsKLeXL2ulg  zeOJYl5UW4D5u3Vcj6QAoA             5
+2141  YlfYMCw8bLmPaJD8m7fcSA  zfOum9_rEhaLAqoAV3nYaQ             5
+2142  YlfYMCw8bLmPaJD8m7fcSA  zfOum9_rEhaLAqoAV3nYaQ             5
+2143  8fsZcLADFrPTbGrFqMACpg  zomc4vlPucjG4lD1fglOkw             4
+2144  ZUShG75J0pkHhSNoU_4LGg  zuwba6QEBIDZT0tJZmNhdQ             4
+
+[2145 rows x 3 columns],                      user_id             business_id  review_stars
+0     5Z-3tcM07Pyc4mOF2Rjt6Q  -050d_XIor1NpCuWkbIVaQ             5
+1     BWB9zU6iGKXi3V607mGumQ  -5L8zOxibac-vBrsYtxXbQ             4
+2     05c1IO1dxA9VVobtF7BtxQ  -6tvduBzjLI1ISfs3F_qTg             4
+3     wcDhhBk1d0_lCdvB8sds1g  -6tvduBzjLI1ISfs3F_qTg             5
+4     URb6znpCCVzd1kZvugedwg  -CFKgOGpYPIt8NnqidaZCw             4
+...                      ...                     ...           ...
+2093  Icl6FPyBNFm6VREuL32XEA  zqNgwQjj0_XAll-neGikIw             5
+2094  V-jhwg0WZsywUKs2fy5VTw  zs-T0uqKSHhYWSEok6oouw             3
+2095  asL1d04xS3y8YQtU5ota-g  zuVvDYJkKAbXQTTBauAqJQ             4
+2096  _e6SL8fagh-h7Rzg93uTwQ  zwNLJ2VglfEvGu7DDZjJ4g             2
+2097  bpWEBrNa3vCDLaTBAfyTBA  zze6IysT7bJFS8gvi6fZ2A             4
+
+[2098 rows x 3 columns],                      user_id             business_id  review_stars
+0     WU3XkIdG8qZwFW2wAFxsCw  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     ztgrRuhMQsrqnQw8XHhTVg  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     S0YQ47x5g8SfZe87KGvsJw  -0tgMGl7D9B10YjSN2ujLA             4
+3     5AJRqMc0y4yYW-YEz3FEuQ  -3zffZUHoY8bQjGfPSoBKQ             5
+4     FaAb-CoKW4xDvLTSPtEbgw  -6h3K1hj0d4DRcZNUtHDuw             3
+...                      ...                     ...           ...
+2079  ZF-1QU2jweLa59a5gYQptA  zsQk990PubOHjr1YcLkQFw             5
+2080  ldqh2aWLTW6D2RHDCj_2TA  zsQk990PubOHjr1YcLkQFw             4
+2081  qQxpmxc9wM8qzzKHtiUgJg  zw9_mqWBn1QCfZg88w0Exg             4
+2082  v1L-ehinZ9ZXhwmdm4S_Lw  zxSfGIhK3hH3vVz_pS5eaA             3
+2083  SHyWxJxb-mKiNgHPUSu3_g  zzBa0pQjM1gov00bXjYYXg             5
+
+[2084 rows x 3 columns],                      user_id             business_id  review_stars
+0     rKDLq635fyrmVzg4Gxkafg  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     mM5phAV3wjCXfYw0LUmcng  -1xuC540Nycht_iWFeJ-dw             3
+2     9qAt7wTgl6mYtxPGZGwyWw  -5NXoZeGBdx3Bdk70tuyCw             2
+3     YtZl1LIZWWZ2YZbBM2OgLA  -9nai28tnoylwViuJVrYEQ             4
+4     Jx3dP4kkKonDSrWCRH_oMw  -9u2uFwhlj3Yq4mG5IweoA             3
+...                      ...                     ...           ...
+2064  Fon3Ft5zVY_QlqBK2NAOJg  za9qr9ZZWLTfEgTfogRbUw             2
+2065  sOZfGLRjhcEjAKBLZKcJGg  zrTGcb83AsfyVTMrsCa65A             2
+2066  xWuppgH39exhfEaOwbeJqw  ztP466jMUMtqLwwHqXbk9w             5
+2067  HNsPd1ieGqZ3lvpjDhcd3A  zw74kL1IvT65yRvNLx5UxA             3
+2068  j4ouGADJ-kLSA-wlAxTyZg  zyAwesOPcP9I-I5Arw8_QA             1
+
+[2069 rows x 3 columns],                      user_id             business_id  review_stars
+0     zRkHxYXJf7JqIDtdA05bmw  -0DET7VdEQOJVJ_v6klEug             5
+1     ujcf18TG3epbrJ4nKJnWpw  -1UMR00eXtwaeh59pEiDjA             5
+2     Tmw8c42MbUC968uKahphAw  -2isRNVb6PDuBagELL5EBw             5
+3     LUxPj9ntwYDs6Ii9vPSZWg  -2pQf1ceDZyE2ReCNbj-3A             4
+4     NB4-jBvOM5Xt833RxTF5cQ  -3iE3lPp18Tn2ixqIRJB_w             4
+...                      ...                     ...           ...
+2057  dIIKEfOgo0KqUfGQvGikPg  zrDi4gEaUi64lAMfJU51dw             5
+2058  vf4vSva7sCI0K4UAjHrJgw  zrMpy_uQ5_77YapMkp8lUA             3
+2059  Ekp7bv1c2FjzR9nuH1uTFg  zwNC-Ow4eIMan2__bS9-rg             4
+2060  PPgyaeI9Y52VErV5uHTDYQ  zwNC-Ow4eIMan2__bS9-rg             5
+2061  JFLLKfQLk4Pfvu0UzMfheA  zzsOLFhgUw8gnjLTVVItFA             4
+
+[2062 rows x 3 columns],                      user_id             business_id  review_stars
+0     cEnN_26ZLSXtHIwVfiDMqg  --cZ6Hhc9F7VkKXxHMVZSQ             4
+1     w4zFlHj5k3Bry5Zt1FZCJw  --ujyvoQlwVoBgMYtADiLA             4
+2     XQUAcF-qeJwSqsTkH9htfA  -6h3K1hj0d4DRcZNUtHDuw             4
+3     0MSpBqRoHmtqRwMReFBSpw  -7BCZH437U5FjmNJ26llkg             4
+4     zg6LAy9gGLVH9JtcYP9gJg  -7H-oXvCxJzuT42ky6Db0g             5
+...                      ...                     ...           ...
+2127  5jJjY5_R06Og56VfjIc66A  zr8Ojsm-yNhvfTzBzcKU9w             4
+2128  0aHFybE0id9DD97QzAfNDQ  zs-T0uqKSHhYWSEok6oouw             4
+2129  8OGWYYJYGl8pLn9N6cXjxA  zvezLicNkf8tTqZyYhP83w             3
+2130  scppA9R4nmJOopmVUuqmEw  zwNC-Ow4eIMan2__bS9-rg             1
+2131  aKuX0l4dm3qFNqfjG467_A  zzwicjPC9g246MK2M1ZFBA             1
+
+[2132 rows x 3 columns],                      user_id             business_id  review_stars
+0     2Z0I9POv2N5p1_vOnCN9lw  --SrzpvFLwP_YFwB_Cetow             5
+1     htiVdsiY_rBmJc65aZ3YAA  --cZ6Hhc9F7VkKXxHMVZSQ             4
+2     tDfedUfC7n33WBQtkPD5aw  -0DET7VdEQOJVJ_v6klEug             3
+3     vpHvuj3Q_KsRS_qZGEnEQg  -2wh_ZsD2n5xFYgzppcxNg             4
+4     BkMqpJikNc3r5itc-ui6ww  -8ILwSisSrTzcyy_Z0o9oA             2
+...                      ...                     ...           ...
+2087  90HACkZ70GkabLK6jxG5pg  zwNC-Ow4eIMan2__bS9-rg             5
+2088  RX1D12KuO7FDcLZR5AOVrQ  zyw5DjrRks7a8OhmBsgCQQ             5
+2089  S6NV39MCXIzA01LermOv_w  zzsOLFhgUw8gnjLTVVItFA             4
+2090  S6NV39MCXIzA01LermOv_w  zzsOLFhgUw8gnjLTVVItFA             4
+2091  S6NV39MCXIzA01LermOv_w  zzsOLFhgUw8gnjLTVVItFA             4
+
+[2092 rows x 3 columns],                      user_id             business_id  review_stars
+0     UDEsNcES3AxzfKyRFLvt6Q  -050d_XIor1NpCuWkbIVaQ             2
+1     dR9OiTIjuzvDdoqjuulKrw  -050d_XIor1NpCuWkbIVaQ             4
+2     KItnA7RBQN_eiCT7ddTDXw  -0NrB58jqKqJfuUCDupcsw             3
+3     4Hqi1P0Y4AD0wzIQr6xtiw  -0RkJ_uIduNLWQrphbADRw             5
+4     EbTcQEy1NT7ZY9WZSkhLWA  -1UMR00eXtwaeh59pEiDjA             4
+...                      ...                     ...           ...
+1990  HkJ1p-QlRx6FJztgjr4Vnw  zgQHtqX0gqMw1nlBZl2VnQ             4
+1991  6Q-lmfBlse3-VcULgtp_vg  zidkKI_N1OPxsiddTOQH_Q             5
+1992  iYpP1bb2LN5RJaucO4Azlg  zm-nB9xWL0RWZ-zoL7JNuQ             1
+1993  2cYzMUmMqrGmj4w6UjgfBQ  zpw5S3QwUse1MH-Eerbnaw             4
+1994  _-gnSzjvS0lAwuvpUdJoyA  zwxBTPOR020qUXjzPTWBFw             1
+
+[1995 rows x 3 columns],                      user_id             business_id  review_stars
+0     Kp5KHBSmV-Htc9NeSjJfPA  --FBCX-N37CMYDfs790Bnw             3
+1     UGTQum1peLSeOZr08LERbA  --cZ6Hhc9F7VkKXxHMVZSQ             4
+2     Zl2GRJ_Mv4hfRMEPEE1lfA  -0WegMt6Cy966qlDKhu6jA             3
+3     fgkJ6KUlrmbKyLDQervxsw  -3zffZUHoY8bQjGfPSoBKQ             4
+4     5wm5MZ6KQF6yBRa67vVSZQ  -6tvduBzjLI1ISfs3F_qTg             4
+...                      ...                     ...           ...
+2055  dIIKEfOgo0KqUfGQvGikPg  zcsBSu5ihIfaVSWIvdMRzQ             4
+2056  DSZEYH2NABzSvFflOC85zA  zeOJYl5UW4D5u3Vcj6QAoA             3
+2057  rtRVb54VIXOUI_5mT1rhgQ  zfOum9_rEhaLAqoAV3nYaQ             4
+2058  hbispjYDOk4K_7EkgaSDng  zscpjfq8zkmuiKytwHCwrA             4
+2059  fNo8BpiCw1-XsprWF1JyMQ  zy6Hzao6lTmuJMZo4BemIg             2
+
+[2060 rows x 3 columns],                      user_id             business_id  review_stars
+0     w1CzRQ4dMme1qoKB1aesBg  -0tgMGl7D9B10YjSN2ujLA             4
+1     BnywXOmsaeNYIKJQWaQIlQ  -1xuC540Nycht_iWFeJ-dw             4
+2     SCo1UBoeN3bhRMkSYuiX1A  -45kMvS7h38CGaWugPY0rg             3
+3     N-Sy8I9byR2Q2gTI99nKxQ  -4TMQnQJW1yd6NqGRDvAeA             4
+4     yTQ30AcZT8FMB5HXXRioRw  -4w2eZqQJcS-UNuB1lCPFA             4
+...                      ...                     ...           ...
+2080  XOM2YxEhJahleLv3n0gwPQ  zrDi4gEaUi64lAMfJU51dw             3
+2081  XOM2YxEhJahleLv3n0gwPQ  zrDi4gEaUi64lAMfJU51dw             5
+2082  Drr9IQ_VnB-8yiUyt-jBPw  zw4Legbcu018p5WcZ74iWA             4
+2083  SX7xBRFGfrEjfXDqw0d-ew  zwNLJ2VglfEvGu7DDZjJ4g             4
+2084  ZxlQ7Lv2RzMm9sDfsRzyFQ  zzSYBWuv_fXGtSgsO-6_1g             4
+
+[2085 rows x 3 columns],                      user_id             business_id  review_stars
+0     3CYDgFXGK5M8qfF8COrXGQ  --cjBEbXMI2obtaRHNSFrA             5
+1     0TJ01iwzVLXtr_EYcfqoWQ  -1xuC540Nycht_iWFeJ-dw             4
+2     FREeRQtjdJU83AFtdETBBw  -2TBP3ZGu7M-FmfoNJvbrQ             4
+3     bpJLcSlkjCPtsFWwA_QIkQ  -3AVh1GtLRc-HOwORLuzaQ             2
+4     9CkCCyOt8xLApEXmiscqKw  -6tvduBzjLI1ISfs3F_qTg             5
+...                      ...                     ...           ...
+2081  6AurZhVCFgtBVcPR3upwqA  zfOum9_rEhaLAqoAV3nYaQ             5
+2082  jlu4CztcSxrKx56ba1a5AQ  zhE9euD7t-RlXmWk50rCxQ             3
+2083  YLXtmMLhNVJBPgwPlppaLA  zjwdU1OdlbKTGjm-IfD4TQ             3
+2084  H_-K6erSJYtzg3ZEvOg3EQ  zjygAC4qLf91b3KOdHQT-w             4
+2085  9Uh6UmN9CYsYFF3u-q9eUw  zsQk990PubOHjr1YcLkQFw             5
+
+[2086 rows x 3 columns],                      user_id             business_id  review_stars
+0     qB1M_McCvc2WUnYxx_FFLg  -1xuC540Nycht_iWFeJ-dw             4
+1     Lph6pJNcM2Hhrb6_5i3oBw  -7PX_FOoCwktlunImRyZdg             4
+2     fPaVv35kL9JF6je6w3PoHg  -95mbLJsa0CxXhpaNL4LvA             2
+3     fPaVv35kL9JF6je6w3PoHg  -95mbLJsa0CxXhpaNL4LvA             2
+4     kNCKozR1iBruWYhpZdc2JQ  -95mbLJsa0CxXhpaNL4LvA             4
+...                      ...                     ...           ...
+2043  jw0WR6JvVKOPJ1PF-NtdLA  zvB0Vzhomsodw_iQ7FHY1Q             5
+2044  rKkpHJkJ27xOwnhy_bMkvA  zw9_mqWBn1QCfZg88w0Exg             3
+2045  1f6eEQiFfMt5HLQbS2wlJg  zzBa0pQjM1gov00bXjYYXg             2
+2046  Lph6pJNcM2Hhrb6_5i3oBw  zzwhN7x37nyjP0ZM8oiHmw             3
+2047  Lph6pJNcM2Hhrb6_5i3oBw  zzwhN7x37nyjP0ZM8oiHmw             3
+
+[2048 rows x 3 columns],                      user_id             business_id  review_stars
+0     IpQ9GA-qmEUMfoOnmdU2XQ  --cZ6Hhc9F7VkKXxHMVZSQ             5
+1     yN4_omG3SfhS1rDPVN3eEQ  -3cJ2k_iwauMpy1WfI4NrA             4
+2     RLk_nNUXhhsnAwfqyhfOJA  -6tvduBzjLI1ISfs3F_qTg             3
+3     mz9vD8jY9NBlGB3RQ_4UHg  -6tvduBzjLI1ISfs3F_qTg             5
+4     feX4HQ9YmRgd0Y-4oqvh8A  -95mbLJsa0CxXhpaNL4LvA             5
+...                      ...                     ...           ...
+2024  fPjOYRRJPzsCO9t3NEPrKQ  zpoZ6WyQUYff18-z4ZU1mA             5
+2025  M3YpU8fRyTZAQIn08bDT4g  zrDi4gEaUi64lAMfJU51dw             4
+2026  lc9IZ7ZOOLBKMgSPmECAYQ  zxSfGIhK3hH3vVz_pS5eaA             5
+2027  4TenUuWdhO7-bVNXRMVBpQ  zySx88a8wu-mpPIkg5ijcQ             4
+2028  _-gnSzjvS0lAwuvpUdJoyA  zzmIMvqiBJ_-wVKg_OnGpw             5
+
+[2029 rows x 3 columns],                      user_id             business_id  review_stars
+0     CyAl5D-GjX-ZtqdQqG4_ew  --9e1ONYQuAa-CB_Rrw7Tw             2
+1     zBJGn10SfsO4Kaa8mkUpdA  --9e1ONYQuAa-CB_Rrw7Tw             2
+2     sUbfyji-MNuyoUsCLyonUA  -050d_XIor1NpCuWkbIVaQ             1
+3     kYKL1VvoI8bHjuOyq2_yUg  -0RkJ_uIduNLWQrphbADRw             5
+4     c3_AdjAlMy4EJYQhuXADgA  -5L8zOxibac-vBrsYtxXbQ             4
+...                      ...                     ...           ...
+2051  uKjqtyXguWShZlYaFXvbZw  zoUGIDxPby2YiHTuynyvtA             4
+2052  zFCuveEe6M-ijY1iy23IJg  zpIybGTZ0RqArG8BOX0ALQ             3
+2053  mecF9llIp-GHW-g5LTERxA  zqNgwQjj0_XAll-neGikIw             4
+2054  4VmGfeC47nery2r_OkFLWg  zrYpLdnGKA_EmOhgRCy_vg             4
+2055  cwueZl7VqnEiuY-c8CWaLQ  zyPGYeXF4XKCqNN1pjFWhg             5
+
+[2056 rows x 3 columns],                      user_id             business_id  review_stars
+0     kT35CUPqjLQMMjaEOXpeRA  -1UMR00eXtwaeh59pEiDjA             3
+1     Q6E66wyWs8OOC_KxDLT4MQ  -2isRNVb6PDuBagELL5EBw             3
+2     QahlkSKoHlEcfeRagmHXHQ  -6tvduBzjLI1ISfs3F_qTg             5
+3     EEmb61yI7Nit55CHflV0Gw  -AD5PiuJHgdUcAK-Vxao2A             3
+4     v63s_QngaH6ywFMNM_YclA  -AD5PiuJHgdUcAK-Vxao2A             1
+...                      ...                     ...           ...
+2005  0U52n_sqA9j6UmB4mNVT9A  zuCgnSkJa3aFB5s1-8ew4g             4
+2006  0U52n_sqA9j6UmB4mNVT9A  zuCgnSkJa3aFB5s1-8ew4g             2
+2007  qhRO8yTqX5MydH_7daU3ww  zuUWG7OdMv6awFRYhEYT5Q             3
+2008  goJ0_oi3C8scparBGVEukQ  zy6Hzao6lTmuJMZo4BemIg             1
+2009  O9PTIkqCyXLv8WpXVjkgfA  zzH3E5DA8eMzFwv2k5izyw             5
+
+[2010 rows x 3 columns],                      user_id             business_id  review_stars
+0     5RMrBxjIIvdTBl5prcAzvQ  --9e1ONYQuAa-CB_Rrw7Tw             1
+1     WnUDyIE3YWdHcON-i-1MKw  -0DET7VdEQOJVJ_v6klEug             3
+2     dtHhxDp8XspV_rOwGmhFEw  -1UMR00eXtwaeh59pEiDjA             1
+3     JmBs_hVnqHHidm1bbLy0IQ  -8QlV3b_9H4BAh6LgMIr1g             5
+4     Pi0l64sVG69_ov2j6MwePw  -ADtl9bLp8wNqYX1k3KuxA             2
+...                      ...                     ...           ...
+2036  fr1vE7Pp1ClHihymgbkTtQ  zrYpLdnGKA_EmOhgRCy_vg             5
+2037  cmUswSxbNcJosCufuoD2fw  zs-T0uqKSHhYWSEok6oouw             1
+2038  gYjP8zOIJaXh9MrhqqzwRg  zuVvDYJkKAbXQTTBauAqJQ             3
+2039  0JIiQelaItruoV6F9pWHvw  zyRhwC9zs34LeYYfGc4gBA             4
+2040  tt07cfD4E29GGSJqqfvaRg  zy_NHTqtfSrfTGGPoqy4Mw             3
+
+[2041 rows x 3 columns],                      user_id             business_id  review_stars
+0     _VTkMoIa11C9IA4zlYbsOA  -050d_XIor1NpCuWkbIVaQ             3
+1     3YK7REruC4FwDTOj8zUYcQ  -3zffZUHoY8bQjGfPSoBKQ             1
+2     TAxEXlveQ5JrRsZ3Uta8BA  -4TMQnQJW1yd6NqGRDvAeA             4
+3     JXu_ELboKx5DT6hkyBPlcA  -5L8zOxibac-vBrsYtxXbQ             5
+4     nOSWGrjT4HIpDohLAOpgLw  -6GJMc_Ln7csmvWWvY2iug             4
+...                      ...                     ...           ...
+2072  o22x7tpqwrTPIDUpnrR4lg  znWHLW1pt19HzW1VY6KfCA             3
+2073  XoxUcpaAhFuQ8qUV5zaWVg  zoYIwHGvnglmrZD0RqhRIA             4
+2074  2CALR5iCk-ZkyFcKJ27DUA  zoiipnagfeUvIP-17Fh9_A             3
+2075  lShUymBJ31NwL7og9VBqVg  zqNgwQjj0_XAll-neGikIw             5
+2076  3IYOwOPo4zpnaYUu4VHXbw  zr93wrNyXzc-HW4IcK4iRQ             4
+
+[2077 rows x 3 columns],                      user_id             business_id  review_stars
+0     6tlC85J2zsHpnrtHp3qX6Q  --cZ6Hhc9F7VkKXxHMVZSQ             3
+1     cowrs1tug_s6VZfoMkChIg  -1xuC540Nycht_iWFeJ-dw             5
+2     jwctwzboGhQmtC50Juxa9A  -6l_HnrJUgk0tMPSRY7lnw             4
+3     gwUNrClCimj5Tk4lRmrPSQ  -7PX_FOoCwktlunImRyZdg             4
+4     htiVdsiY_rBmJc65aZ3YAA  -8Oaw94x2pYJCVP8ZtuTTw             3
+...                      ...                     ...           ...
+2023  3D7Ie-Rmmhn1RzFrVieRZg  zr93wrNyXzc-HW4IcK4iRQ             5
+2024  SAPltgfFSgI1K9aUuOWcXw  zsQk990PubOHjr1YcLkQFw             5
+2025  8VZqEVrG8xrNGnxV67sUeA  ztP466jMUMtqLwwHqXbk9w             5
+2026  My2udpZVNoXSdcu3uU20pg  ztP466jMUMtqLwwHqXbk9w             5
+2027  spceyljVwAJ8vKjlI5wllQ  zzzaIBwimxVej4tY6qFOUQ             3
+
+[2028 rows x 3 columns],                      user_id             business_id  review_stars
+0     1RWb6brg_dV9KDkOQVc4nA  -092wE7j5HZOogMLAh40zA             5
+1     1RWb6brg_dV9KDkOQVc4nA  -092wE7j5HZOogMLAh40zA             5
+2     cTkwhMLSavNOO_swPKf-ZA  -1UMR00eXtwaeh59pEiDjA             3
+3     zWWcik1fRPZviBCQLC26FQ  -2wh_ZsD2n5xFYgzppcxNg             4
+4     ZD3Rr_K6EsvJ0dltVbnENA  -4-MzST67P_jnX4mh3MIcw             3
+...                      ...                     ...           ...
+2052  s79vzEzqavL_29pmraXZBA  zrTGcb83AsfyVTMrsCa65A             4
+2053  6ZtlIPI3gT6PT9-UVYxxgg  zvezLicNkf8tTqZyYhP83w             5
+2054  BF9Ju2Bo1Qx1Sl6s36rqxA  zvezLicNkf8tTqZyYhP83w             3
+2055  82kxXl_1K8M3cU66dhB8lw  zwNC-Ow4eIMan2__bS9-rg             5
+2056  eHqOdM7sWAsE-XNDbdk46w  zzSYBWuv_fXGtSgsO-6_1g             2
+
+[2057 rows x 3 columns],                      user_id             business_id  review_stars
+0     QotsNecIJWCOr_ZAywE8Gw  -3zffZUHoY8bQjGfPSoBKQ             4
+1     Ow07iTOW_JUer07MWNhazg  -6e0liTvH5EoB4HuncuQgA             5
+2     76V_yP6iFp9xYNnyWIzm8w  -7-uHFjQLH_uxPauYtd8iA             5
+3     zSp0l4VCndo7Q4Icv53kaA  -8Oaw94x2pYJCVP8ZtuTTw             4
+4     46HhzhpBfTdTSB5ceTx_Og  -8iwcXhLnyqbLgvcrJGgaw             5
+...                      ...                     ...           ...
+2032  q75HcQhe9nHInuJ_ZVqL-g  ztP466jMUMtqLwwHqXbk9w             5
+2033  hLVq7VSJBHZwqurwWoCmpg  zuUWG7OdMv6awFRYhEYT5Q             2
+2034  0CIK8y4r92aP-XMj-15sDQ  zuVvDYJkKAbXQTTBauAqJQ             3
+2035  DNlzbI54zCOa4to-vTWBJQ  zz3CqZhNx2rQ_Yp6zHze-A             2
+2036  YHWsLBS8jzZiPjKHMFOaAA  zz3CqZhNx2rQ_Yp6zHze-A             5
+
+[2037 rows x 3 columns],                      user_id             business_id  review_stars
+0     duymKKwUruH8GwbvcaFd0w  -050d_XIor1NpCuWkbIVaQ             5
+1     vcyweCcWRsWNdaAgszY3Pg  -050d_XIor1NpCuWkbIVaQ             1
+2     uEKuEB0lsvd-Ht8z4ekEiw  -2C96suwzrE_cqI1U69cLA             4
+3     tCWf4IGrXoLNcvxBnbW1qg  -4TMQnQJW1yd6NqGRDvAeA             5
+4     0cEESn4urCGTI5D1IyfWmA  -6tvduBzjLI1ISfs3F_qTg             3
+...                      ...                     ...           ...
+2030  WrhnuLDFmyu_bB-FLP_gsA  zgQHtqX0gqMw1nlBZl2VnQ             5
+2031  1zyE713RTVjBoO55_XjZiA  zrTGcb83AsfyVTMrsCa65A             3
+2032  fVJp0vs8wd-NGf0FmdKnyQ  zuVvDYJkKAbXQTTBauAqJQ             5
+2033  EpOp-olt_rjZRaVuPUKG-A  zw9_mqWBn1QCfZg88w0Exg             4
+2034  RmChtUHBmgo-glu3CtCE1A  zwNC-Ow4eIMan2__bS9-rg             5
+
+[2035 rows x 3 columns],                      user_id             business_id  review_stars
+0     zpnDr3EBaVU8QPNHE3eDbg  -1vfRrlnNnNJ5boOVghMPA             1
+1     9YuuHXoHsJ4tqefpNWu1Kg  -2pQf1ceDZyE2ReCNbj-3A             5
+2     PwItHyTNp7zzEm1Rm8NFfw  -3iE3lPp18Tn2ixqIRJB_w             3
+3     cG7-mlCp_cV8gfRC_9LW-Q  -95mbLJsa0CxXhpaNL4LvA             5
+4     m5b84-nPPVNLlDtZyVGZ3w  -BVqCPibTNPCNeT0uJsiRg             5
+...                      ...                     ...           ...
+1956  COAarFRXKGOuGsCCJl9alw  zidkKI_N1OPxsiddTOQH_Q             5
+1957  jwctwzboGhQmtC50Juxa9A  zkU-WMio8g6dpRJ2Y2xqvQ             4
+1958  mfHxb6gpXEH6Jj-LTFHkPA  zrDi4gEaUi64lAMfJU51dw             4
+1959  aRzBh8fCzIRpMwijyN4sLw  zydbdBR6-CM8UZ6WkW1DWA             3
+1960  wyODhqTQFfBum-B98JLLHw  zzSYBWuv_fXGtSgsO-6_1g             4
+
+[1961 rows x 3 columns],                      user_id             business_id  review_stars
+0     Goeb2D2E99xss3tMrX--FQ  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     BP7ZUDAL8nOPVy5vyZR4ug  -3zffZUHoY8bQjGfPSoBKQ             3
+2     Ry1O_KXZHGRI8g5zBR3IcQ  -5L8zOxibac-vBrsYtxXbQ             4
+3     htiVdsiY_rBmJc65aZ3YAA  -5L8zOxibac-vBrsYtxXbQ             4
+4     hLVq7VSJBHZwqurwWoCmpg  -7H-oXvCxJzuT42ky6Db0g             4
+...                      ...                     ...           ...
+2027  M0-TjTB8zwGzuaYlgE5Atw  zl4T9WtZi0TiIo2RFvc4Zw             5
+2028  jwKsSS7Rl5gvWfnc7XmMaA  zlpLjbwrKuNs8zROgB_qUQ             3
+2029  4Kg8QO7WSbkA8Jr-WNnkLw  zrYpLdnGKA_EmOhgRCy_vg             4
+2030  e0TeYGOQRM2PrYCAdho7lg  ztcdHj6EpUD7EemcntSsrg             1
+2031  QcgkeDbQj8t-JR14JzeYTQ  zwNLJ2VglfEvGu7DDZjJ4g             5
+
+[2032 rows x 3 columns],                      user_id             business_id  review_stars
+0     FTZyZbr1eF7s3Ss7uSLcXQ  -3AVh1GtLRc-HOwORLuzaQ             3
+1     uG_niiFqPt06a_UjDoOqsw  -3cJ2k_iwauMpy1WfI4NrA             3
+2     YwknePDCAeKC_3beXHPBeQ  -6h3K1hj0d4DRcZNUtHDuw             5
+3     t1YPu0h6t-7AOZ3Ska0UwA  -7EwIdxcRC5McO35DVfeSQ             3
+4     4wp4XI9AxKNqJima-xahlg  -8F04F54iDT6VgWPCgybug             5
+...                      ...                     ...           ...
+2013  E1mcFIOK7k_G08cki2oBuw  zZCTWJCK8JCNIW1gRwSpWg             5
+2014  0gtEsazPeHr5rj2IAsZePg  zgQHtqX0gqMw1nlBZl2VnQ             3
+2015  X8FXx55SqlUqE4h4vcSLtQ  zitXLajbETOuHQJfok4a4g             5
+2016  TVkU2gHhe05v_lgsE_NccA  zuVvDYJkKAbXQTTBauAqJQ             5
+2017  MDc00oCXZWo78vIP9ikdQQ  zzsOLFhgUw8gnjLTVVItFA             5
+
+[2018 rows x 3 columns],                      user_id             business_id  review_stars
+0     Srv9jOGELiNGIJEqhS5_uQ  --9e1ONYQuAa-CB_Rrw7Tw             3
+1     dTUiBhcbs8ihlo8IZycBpg  -06-Fdi30wJx-JA8P7CAng             4
+2     o0TZ2hroc7DK6CM73ll-1g  -1m9o3vGRA8IBPNvNqKLmA             4
+3     YpVvSMuQWQiRCHbbUjFzag  -6tvduBzjLI1ISfs3F_qTg             5
+4     C8m3uVCLVlQXcINE-OiF8Q  -9NL3jdo4CF8iSB8XAEUXQ             4
+...                      ...                     ...           ...
+2068  Nwq0AyciH1n9E9Z3AyasLg  zlpLjbwrKuNs8zROgB_qUQ             4
+2069  Nwq0AyciH1n9E9Z3AyasLg  zlpLjbwrKuNs8zROgB_qUQ             5
+2070  722_fCJ6HiUcidSi2nGkZA  znWHLW1pt19HzW1VY6KfCA             2
+2071  Ry1O_KXZHGRI8g5zBR3IcQ  zpGCFAt_MydbQN4EsXee6w             5
+2072  ZGiwU16rhGvWAYUzkWL0xw  zr2wA55AskfBJxrvUeDZRA             5
+
+[2073 rows x 3 columns],                      user_id             business_id  review_stars
+0     mzHRaYLoV-lwX79HghP6lw  -050d_XIor1NpCuWkbIVaQ             4
+1     52p2iAxobpwrBAYBtBmWHg  -1xuC540Nycht_iWFeJ-dw             5
+2     1n-OvM_eRgJy8_goUFJ-mw  -5brzniWtye3w__aEvCaAA             2
+3     y0ZU1w6YY4W-KtMeRXSYLg  -76didnxGiiMO80BjSpYsQ             4
+4     _aF9i9LKXOdyTdgyrFB1HQ  -9nai28tnoylwViuJVrYEQ             5
+...                      ...                     ...           ...
+2011  qCzx039NVrJkWnZEqQ1JKA  zgGoxOsThXKAcs2lAgC9yg             4
+2012  h2Mvbxv7oaZDeUxGh4BKEg  zidkKI_N1OPxsiddTOQH_Q             5
+2013  B4Rwp0SUYwO8lgSHVT9w5g  znc5ZpKCPANquABEm7SJuA             2
+2014  krLnUW1pmvUUdCdD_wGSAg  zr93wrNyXzc-HW4IcK4iRQ             4
+2015  6oljgiQto2Dkbn034ixA9Q  zufxiQ7fLYPXdxRrDXOeWw             2
+
+[2016 rows x 3 columns],                      user_id             business_id  review_stars
+0     MuhUC0v3qBBTj6D2DO0H_w  --9e1ONYQuAa-CB_Rrw7Tw             3
+1     pR0vABa2uMrQtzC97ewPtA  -3zffZUHoY8bQjGfPSoBKQ             5
+2     VHq5-cn5VsyrVqg1czI5Aw  -5L8zOxibac-vBrsYtxXbQ             4
+3     PwVeEN9hEQN3qCpvhubk3Q  -6h3K1hj0d4DRcZNUtHDuw             5
+4     SUN1OFD46bo4ApF8VaHR_g  -6tvduBzjLI1ISfs3F_qTg             5
+...                      ...                     ...           ...
+2106  KuZ3T71dIxKSNNQ8Wh1eOg  ztP466jMUMtqLwwHqXbk9w             2
+2107  gdJasOzvva2NxSpNjVXwvQ  zuCu5ff06l4Pe33qYe58MA             5
+2108  S0YQ47x5g8SfZe87KGvsJw  zuVvDYJkKAbXQTTBauAqJQ             2
+2109  bWzl8y3rE_l9QdEOQMFvew  zwNC-Ow4eIMan2__bS9-rg             4
+2110  XG9edK8wz0MEZ0g-CrFT1w  zzwicjPC9g246MK2M1ZFBA             1
+
+[2111 rows x 3 columns],                      user_id             business_id  review_stars
+0     7jrhS2KtnpBfewdn1mNFzw  --9e1ONYQuAa-CB_Rrw7Tw             2
+1     AqOovBhUSgnlpKBpKlsAEA  --cZ6Hhc9F7VkKXxHMVZSQ             5
+2     hAi-sBBQF43tQqVMmEqVew  -0NrB58jqKqJfuUCDupcsw             4
+3     -hexuVgGC9du0RpZNvr2DA  -6NrhIFET7iWi4d5538fiA             1
+4     DIauPrmee9V2P8x7lC_vkA  -6tvduBzjLI1ISfs3F_qTg             5
+...                      ...                     ...           ...
+2112  iUCLrHAWVdoDCWDJc1dA9w  zgAecXWgPlkthxKPR6Dtcg             3
+2113  tsqrqT_Rg_H4kNoGjZna4w  ziNGerrnVTaVHQ5kVngfZA             3
+2114  dmLmllWnCiIxnUWL_X9_DA  zjZbVmI5FGQflHL6rRMxoA             2
+2115  RBzKEvdYmfIX_FVjfBEzHA  zr42_UsWfaIF-rcp37OpwA             5
+2116  FIbOLYje5wUdPCZX1QXQwQ  zzsOLFhgUw8gnjLTVVItFA             5
+
+[2117 rows x 3 columns],                      user_id             business_id  review_stars
+0     F1d0aQcDvhwn9EfXC6vgMw  -0tgMGl7D9B10YjSN2ujLA             4
+1     F1d0aQcDvhwn9EfXC6vgMw  -0tgMGl7D9B10YjSN2ujLA             4
+2     F1d0aQcDvhwn9EfXC6vgMw  -0tgMGl7D9B10YjSN2ujLA             4
+3     Tmw8c42MbUC968uKahphAw  -34vSRcMz_RjN00dWIiQ3Q             5
+4     NjjgVgc3i4roSFNJVe-3Aw  -4TMQnQJW1yd6NqGRDvAeA             4
+...                      ...                     ...           ...
+2082  7mUfz466SXjPpa5lYu7CbQ  zu5dqKqPjJCycS5k-92Alg             4
+2083  CtIBG55GolSXI3qjcQFExg  zy-XZ2z_KmnISE1Gl99w1Q             4
+2084  0UI9KTPdtkwl9lMdMT-Sgg  zzwaS0xn1MVEPEf0hNLjew             4
+2085  0JIiQelaItruoV6F9pWHvw  zzwhN7x37nyjP0ZM8oiHmw             4
+2086  8hvd4RrseJmlbjqpSY9e_w  zzwicjPC9g246MK2M1ZFBA             4
+
+[2087 rows x 3 columns],                      user_id             business_id  review_stars
+0     PKEzKWv_FktMm2mGPjwd0Q  --9e1ONYQuAa-CB_Rrw7Tw             3
+1     Oay68SoCl5BcM4XAbt47zw  -050d_XIor1NpCuWkbIVaQ             5
+2     933NaWG9W6Z-1pXMFPKOoQ  -1xuC540Nycht_iWFeJ-dw             4
+3     nVNG_EGrrES_KaZx3USxZg  -6tvduBzjLI1ISfs3F_qTg             5
+4     kwRYb-bNRuXhUpjrGkzR0Q  -BSf1LtnOrtCWAzmumxUpw             4
+...                      ...                     ...           ...
+2120  YPyrFh8AImi-sgLDbt1-8A  zo-TpZ1pn-lcz_-Y4Zuo3A             1
+2121  wvVmiwklc1fcjAhy1BEQzw  zpGCFAt_MydbQN4EsXee6w             5
+2122  PEIaEPz_E2rvhBlHD1B2lA  zqoOlnAkumIi1A0HiqEqgg             5
+2123  XNPwLVwHPyrOaEQA_sI1wg  zzSYBWuv_fXGtSgsO-6_1g             4
+2124  1Lv_sp3yGTUw84C_tzZTfA  zzZfgEpwrpi4Ywdaj3OIuQ             5
+
+[2125 rows x 3 columns],                      user_id             business_id  review_stars
+0     rEsBrt6U7i8O4rC81lV6NQ  --6MefnULPED_I942VcFNA             4
+1     tH0uKD-vNwMoEc3Xk3Cbdg  --9e1ONYQuAa-CB_Rrw7Tw             4
+2     0UI9KTPdtkwl9lMdMT-Sgg  -050d_XIor1NpCuWkbIVaQ             4
+3     t8mdnPdc2n5YO_sdtJc43A  -050d_XIor1NpCuWkbIVaQ             4
+4     f2FwcTFyAgsN77zfQkQyGw  -0RkJ_uIduNLWQrphbADRw             5
+...                      ...                     ...           ...
+2041  gEZgGlBfmEffYxE4dxaYug  zrMGL9riavdJR4olXaACOQ             5
+2042  2D2bPTst5z5BdaHTdYTA-Q  zwmps5SXn30g-f5wqg_r9A             1
+2043  2D2bPTst5z5BdaHTdYTA-Q  zwmps5SXn30g-f5wqg_r9A             1
+2044  2D2bPTst5z5BdaHTdYTA-Q  zwmps5SXn30g-f5wqg_r9A             5
+2045  2D2bPTst5z5BdaHTdYTA-Q  zwmps5SXn30g-f5wqg_r9A             5
+
+[2046 rows x 3 columns],                      user_id             business_id  review_stars
+0     Rv8cduGW_BTlv7Ryz5JmGw  -4TMQnQJW1yd6NqGRDvAeA             3
+1     Eaf6pvLs5XvH1KF6Xwi-0g  -6tvduBzjLI1ISfs3F_qTg             4
+2     Svi9gzlnWitXSpCjYe-I-w  -6tvduBzjLI1ISfs3F_qTg             4
+3     YrKpGphRP2_jDbRW2sCyPQ  -6tvduBzjLI1ISfs3F_qTg             1
+4     zMzK6SOOue3hnZCb1KO81w  -6tvduBzjLI1ISfs3F_qTg             5
+...                      ...                     ...           ...
+2057  Ahix-3uCOXmeaTUv0xF_zw  zrJDRWzP0P4wTFq8-N_mzA             5
+2058  ZEA8vnoxMa016XzoDMyEDQ  ztP466jMUMtqLwwHqXbk9w             5
+2059  ZEA8vnoxMa016XzoDMyEDQ  ztP466jMUMtqLwwHqXbk9w             5
+2060  YIMeEHUYm69m-Mqf-NjPHw  zwNC-Ow4eIMan2__bS9-rg             4
+2061  lLHnyj8isVMiETgJh3mDZA  zzsOLFhgUw8gnjLTVVItFA             5
+
+[2062 rows x 3 columns],                      user_id             business_id  review_stars
+0     5Sc7wATsuzJk7QaJMP0uVg  --cZ6Hhc9F7VkKXxHMVZSQ             4
+1     dIIKEfOgo0KqUfGQvGikPg  -050d_XIor1NpCuWkbIVaQ             4
+2     94vJW8MDiIatG47e94xiNw  -0NrB58jqKqJfuUCDupcsw             4
+3     sxBTh9zgW7NBqG9R57L4wg  -1m9o3vGRA8IBPNvNqKLmA             5
+4     -9b4s874f_CnznTu4JorRg  -2AZoPSeQKhjXXBfNEP7PQ             4
+...                      ...                     ...           ...
+2059  mFwRTTDW0Yr-rFkTF2cFsw  zrJDRWzP0P4wTFq8-N_mzA             5
+2060  9YRFLVFVbHGAJ1weFx5zqw  zrTGcb83AsfyVTMrsCa65A             4
+2061  zH6racrZ7rUqqv_Qy6dZDQ  zuwba6QEBIDZT0tJZmNhdQ             1
+2062  Tmw8c42MbUC968uKahphAw  zwmps5SXn30g-f5wqg_r9A             1
+2063  StCSYeJ1I-G1LbdpW65kGQ  zzUj3ej4vm_DtvRxNvWDEw             3
+
+[2064 rows x 3 columns],                      user_id             business_id  review_stars
+0     ZksPFTgeXUKTlMHDaY2Lfw  -050d_XIor1NpCuWkbIVaQ             3
+1     SeWs1Ot7pJUsgYuLudbVHA  -1xuC540Nycht_iWFeJ-dw             5
+2     gUHGfOpInuzNVvoH6w0K9g  -BbnAc9YEO6pjvJGEtFbVQ             4
+3     aIDjxHCMgNdtApwFDllg6A  -BxWyEIQ6wypT-37MzZizQ             4
+4     PKEzKWv_FktMm2mGPjwd0Q  -CQokjildrY7UZezXCdEBw             5
+...                      ...                     ...           ...
+1996  asL1d04xS3y8YQtU5ota-g  zr93wrNyXzc-HW4IcK4iRQ             4
+1997  f2srwh0wNnjXWLfbyGmTVg  ztP466jMUMtqLwwHqXbk9w             3
+1998  JqjAthJThuVYgTh4iWDZ2A  zwNC-Ow4eIMan2__bS9-rg             4
+1999  xLCUiBJ-lxNsXQWrdaeFTA  zzSYBWuv_fXGtSgsO-6_1g             3
+2000  aLqp_fe64ugZFuwMpsXLiw  zzmIMvqiBJ_-wVKg_OnGpw             2
+
+[2001 rows x 3 columns],                      user_id             business_id  review_stars
+0     PkNs-Rw6MHQfu6j5pBZMMw  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     hik2LSrUYTsRYEx-Qqr2Wg  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     wcubg4QbsWBhc5bjlkCdDw  --cZ6Hhc9F7VkKXxHMVZSQ             5
+3     TQSLNRAtiXj1zyLZ3OAVrw  -050d_XIor1NpCuWkbIVaQ             5
+4     oRaw2DJZobrsB-Vx2l5Hdw  -25X5v1q3WU6s-craJSvTw             4
+...                      ...                     ...           ...
+2065  EiIOZMNUH-56IrvmjqeBtw  zrTGcb83AsfyVTMrsCa65A             5
+2066  spU_FM_BDJ8CeZYsfuWo6g  zr_bmtM-SBIKKp2feKMWXw             4
+2067  S1Am9rfV8pfdbAcA-UBKnQ  zrqeLHgpWke31dQZReit7w             2
+2068  s8AjXT8v6HreRiL9-k_IrQ  zuTA5DZ3FQL33hstBJktNQ             5
+2069  XbiKsujS_qxU3xsr0xUqmQ  zw4Legbcu018p5WcZ74iWA             4
+
+[2070 rows x 3 columns],                      user_id             business_id  review_stars
+0     R2XaXGhJalXesrHLfVKEAg  --FBCX-N37CMYDfs790Bnw             1
+1     Q9NlyapDA97_NA0qaq8w0A  -050d_XIor1NpCuWkbIVaQ             3
+2     YGE_rCB5AbmOY7C3UIbSaQ  -0NrB58jqKqJfuUCDupcsw             4
+3     sTRXW4mmFm0uLDLpf1VeYw  -0tgMGl7D9B10YjSN2ujLA             4
+4     FVw-kDU9z891eMCoa0oJPw  -6tvduBzjLI1ISfs3F_qTg             1
+...                      ...                     ...           ...
+2111  YOChRzTztTL_KooP9wEtSQ  zqQ9yqNh0EtCIXATGlBS0A             4
+2112  fw7GQ34xVS3cZpuV5UmMFA  zr2wA55AskfBJxrvUeDZRA             3
+2113  gWTOYTdpcm0xsgY6k57PGg  zsQk990PubOHjr1YcLkQFw             3
+2114  HMOBfZ434e83ngJbG9pyCA  ztO1n2Kng54jJZPLJDzjfQ             4
+2115  Q34Y13_vN3hHH61Hatd6CQ  zuwba6QEBIDZT0tJZmNhdQ             4
+
+[2116 rows x 3 columns],                      user_id             business_id  review_stars
+0     gYjP8zOIJaXh9MrhqqzwRg  -050d_XIor1NpCuWkbIVaQ             4
+1     m5b84-nPPVNLlDtZyVGZ3w  -2hOglg7Lh8ZgclQJ9ba2w             4
+2     C5QsUsQg5I3dMdLM02SXGA  -5L8zOxibac-vBrsYtxXbQ             3
+3     APmgGSugxZWucNp5nM9p1g  -Bdw-5H5C4AYSMGnAvmnzw             2
+4     m3uuD6l19Pz1ur5IeZz0Tw  -Bdw-5H5C4AYSMGnAvmnzw             3
+...                      ...                     ...           ...
+2077  i4zlrngUfDASv0bwrB8pjQ  zr93wrNyXzc-HW4IcK4iRQ             4
+2078  x405PCKq9UvYp0xsV5ecxg  zrDi4gEaUi64lAMfJU51dw             5
+2079  x405PCKq9UvYp0xsV5ecxg  zrDi4gEaUi64lAMfJU51dw             5
+2080  2lIVmLsEdxBtUMbTjZQIbQ  zrMGL9riavdJR4olXaACOQ             5
+2081  jVjuv-C8oMuD6n-MhgsMHg  zsQk990PubOHjr1YcLkQFw             4
+
+[2082 rows x 3 columns],                      user_id             business_id  review_stars
+0     HgeE8guC565OELCyWLmY6w  -382X_bWhJKPJKP1VfXOmw             3
+1     wregZkyJ3efquMrnrgqGQw  -3Haoc0l9DZRSXxIHi9oJg             1
+2     HVTf8ssOt4H4bujVQD4OsA  -6tvduBzjLI1ISfs3F_qTg             5
+3     KAkd4Wkwo846cbUxsyPgkw  -7H-oXvCxJzuT42ky6Db0g             3
+4     BAZTxYWS3x-wvw9ONIaflw  -9eNGMp8XiygI8t8QFuFWw             4
+...                      ...                     ...           ...
+2036  MmHCNElMsS8wgKOW5EU94g  zpoZ6WyQUYff18-z4ZU1mA             5
+2037  wqcO86hX2t2X9MsDIsIwnQ  zqoPpM4GppNhRp-PkhLeSg             3
+2038  wcDhhBk1d0_lCdvB8sds1g  zr93wrNyXzc-HW4IcK4iRQ             3
+2039  o22x7tpqwrTPIDUpnrR4lg  zsQk990PubOHjr1YcLkQFw             2
+2040  9kJpix8-zXRMJGcHADjRiw  zzSYBWuv_fXGtSgsO-6_1g             2
+
+[2041 rows x 3 columns],                      user_id             business_id  review_stars
+0     tXhscxwFTd-ayLTdPx_2yA  --9e1ONYQuAa-CB_Rrw7Tw             3
+1     EEmb61yI7Nit55CHflV0Gw  --FBCX-N37CMYDfs790Bnw             4
+2     Ry1O_KXZHGRI8g5zBR3IcQ  --cZ6Hhc9F7VkKXxHMVZSQ             4
+3     5jJjY5_R06Og56VfjIc66A  -2pmn-oTJeybmDrL-ojwrw             4
+4     BvDI3EUPf1yJQJh-P7Uqjg  -45kMvS7h38CGaWugPY0rg             4
+...                      ...                     ...           ...
+2065  XbiKsujS_qxU3xsr0xUqmQ  zkU-WMio8g6dpRJ2Y2xqvQ             4
+2066  dVYmwFWuFwuV3ay2VK5UbA  zoDilOV7nSQ3lXIhGOSbog             5
+2067  SR9KgvoaxcBsSd4Gds8LnQ  zpaXQga1MIqPc5nAWZXtdQ             4
+2068  YGE_rCB5AbmOY7C3UIbSaQ  zutMSVmRLPjEbeF8aFtSnQ             1
+2069  4wp4XI9AxKNqJima-xahlg  zuu87Wx0Sv2KCUzY_wGSKQ             4
+
+[2070 rows x 3 columns],                      user_id             business_id  review_stars
+0     BQLc7jSHfPXDvleNFJ6lyg  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     Yw9FQfnpZlt_wBdDHarJ9Q  -1xCh7Cocn6IwFzhELyohA             5
+2     tV1CLAYgwV4XTLgCHFYynA  -6tvduBzjLI1ISfs3F_qTg             5
+3     i2dkuiHX0WzQqDDnoQLg-Q  -7d3UqQYYcBxbDH2do86sg             1
+4     buos0UUa6BQNwhlZy_vAMA  -ADtl9bLp8wNqYX1k3KuxA             3
+...                      ...                     ...           ...
+2119  WsP8QHk2BP7x-2wMwKbDeg  zra20XPGVL9P3i5hMoKjig             5
+2120  -VNv58eLhbQpz787rcD8VA  zsQk990PubOHjr1YcLkQFw             5
+2121  Kf4UB9nNa1tdvMq0CjCgew  zzmIMvqiBJ_-wVKg_OnGpw             5
+2122  Kf4UB9nNa1tdvMq0CjCgew  zzmIMvqiBJ_-wVKg_OnGpw             5
+2123  8TU1OG9HmTasXswP5_Dniw  zzsOLFhgUw8gnjLTVVItFA             5
+
+[2124 rows x 3 columns],                      user_id             business_id  review_stars
+0     77sBf7U2Heve6AI4Gd0qyg  -050d_XIor1NpCuWkbIVaQ             5
+1     9oU0agQ2FguUvArFMLZstw  -050d_XIor1NpCuWkbIVaQ             5
+2     D5Cmz4luMLa0WD4LjYgpKQ  -0RkJ_uIduNLWQrphbADRw             3
+3     PA-nOTRBEhWlzXiAi9FMBA  -6h3K1hj0d4DRcZNUtHDuw             4
+4     VQcD7dxyWUCuQMC1mK0Usg  -BSf1LtnOrtCWAzmumxUpw             1
+...                      ...                     ...           ...
+1994  hxTvxWgPHS-OTEoZTncXRQ  zqRTnP_JQv94nuoyO7xCQg             5
+1995  aQTILlaOidF-CvonlXRQ_A  zs710LuQ8y10YsQHIjxjyw             3
+1996  Eaai36jQHU5IqPezom4w4A  zuVvDYJkKAbXQTTBauAqJQ             3
+1997  KAkd4Wkwo846cbUxsyPgkw  zzBa0pQjM1gov00bXjYYXg             4
+1998  ZnIaEvJwrxlBUjimIpx2Qw  zzBa0pQjM1gov00bXjYYXg             3
+
+[1999 rows x 3 columns],                      user_id             business_id  review_stars
+0     Kw4lH6C5wSrYVxaDP68pfA  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     bdXsGvf3k-GFGETQSa68ng  -050d_XIor1NpCuWkbIVaQ             5
+2     PKEzKWv_FktMm2mGPjwd0Q  -3zffZUHoY8bQjGfPSoBKQ             5
+3     PKEzKWv_FktMm2mGPjwd0Q  -3zffZUHoY8bQjGfPSoBKQ             4
+4     iXGoQVfBXU0CrwrRBWXozA  -6tvduBzjLI1ISfs3F_qTg             5
+...                      ...                     ...           ...
+2147  iSC96O2NjQc3JExGUHQG0Q  zpoZ6WyQUYff18-z4ZU1mA             5
+2148  Tf7APfEzH-UBw3r3p5JF7A  zr42_UsWfaIF-rcp37OpwA             5
+2149  sbb2XUj9aYh5zP6gTJ14lw  zuUWG7OdMv6awFRYhEYT5Q             1
+2150  6RI4tZVIt3Ekg1HNrpFkbg  zwNC-Ow4eIMan2__bS9-rg             4
+2151  3h3qmd0qgTA_-hnlcCodFw  zxVw9U56heInhfyprhkxIg             4
+
+[2152 rows x 3 columns],                      user_id             business_id  review_stars
+0     T_mcCDS5mfVfGkYX799aBw  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     -RSW2tZMqa-SLrP-Uu0SLg  --I7YYLada0tSLkORTHb5Q             3
+2     OTjWB762JL3hmwnZk7DrKw  -0DET7VdEQOJVJ_v6klEug             4
+3     frlKbObavggbdI6cWYO8XA  -92cC6-X87HQ1DE1UHOx3w             3
+4     ImQcYcuEisN7zVlTKSPR_g  -AD5PiuJHgdUcAK-Vxao2A             3
+...                      ...                     ...           ...
+2033  aAN9XxvBGFrPGhuaJ2YuDQ  zluk4cL7Ch-uRlRply42ZQ             5
+2034  Ml0ODMSIdxsUu6ZsiJ5J8A  zrYpLdnGKA_EmOhgRCy_vg             5
+2035  g_SAgyVPSs_Sf3vtEKVFnA  zsyQEMYhIDcdGLbf-kYlRw             1
+2036  i8ZU6iDLP5r1dVUCxKVv6g  zsyQEMYhIDcdGLbf-kYlRw             3
+2037  yHykh6VFpsH_V62bRaq3FQ  zw4Legbcu018p5WcZ74iWA             4
+
+[2038 rows x 3 columns],                      user_id             business_id  review_stars
+0     u6vkDavGOpGOWM7VdPwMjw  -1m9o3vGRA8IBPNvNqKLmA             5
+1     wxQCLMnuVYbdtmQCc2ryZg  -1m9o3vGRA8IBPNvNqKLmA             5
+2     Jbvk_EtNS303eBobAPl6tg  -1xuC540Nycht_iWFeJ-dw             5
+3     LGSCqlNcHHv0cOF8u_eBxg  -1xuC540Nycht_iWFeJ-dw             5
+4     YlfYMCw8bLmPaJD8m7fcSA  -4TMQnQJW1yd6NqGRDvAeA             5
+...                      ...                     ...           ...
+2065  qy47UXcmGYsPhDSc6iHWPA  zkhBU5qW_zCy0q4OEtIrsA             1
+2066  0ygWZ_gXF8qTm0bY95JJqA  znNyiHZs5TAX64WonjJ4dg             3
+2067  nZ6ctPATqhXIReKDq7doVg  zphdECSP076V5-43O0aGvg             5
+2068  5Wg5OanfZ4-2dCxEo-qjsw  zpoZ6WyQUYff18-z4ZU1mA             4
+2069  Y4PuxA3yRL-j02kDMhy1zQ  zuUWG7OdMv6awFRYhEYT5Q             3
+
+[2070 rows x 3 columns],                      user_id             business_id  review_stars
+0     EnttXKyhOn4fW3Vwrx5RDg  --cZ6Hhc9F7VkKXxHMVZSQ             3
+1     8sjJVxEOTko2iH1n-OUsDw  --cjBEbXMI2obtaRHNSFrA             4
+2     qExRQH6XkSa91EGwvNX4jQ  --g-a85VwrdZJNf0R95GcQ             4
+3     yis0tDX83YnFLzUbKZ_KFg  -4TMQnQJW1yd6NqGRDvAeA             3
+4     YEiJOtOBBRKEpRuvZNA9Cg  -8QlV3b_9H4BAh6LgMIr1g             5
+...                      ...                     ...           ...
+2026  rafOdUsRNgi0ISSmi9IUow  zw4Legbcu018p5WcZ74iWA             5
+2027  HEvyblFw4I-UsMqgPGYY_Q  zwNC-Ow4eIMan2__bS9-rg             4
+2028  HEvyblFw4I-UsMqgPGYY_Q  zwNC-Ow4eIMan2__bS9-rg             5
+2029  HEvyblFw4I-UsMqgPGYY_Q  zwNC-Ow4eIMan2__bS9-rg             5
+2030  JXHrhT72U6sZJQSkFfNzjw  zwNC-Ow4eIMan2__bS9-rg             5
+
+[2031 rows x 3 columns],                      user_id             business_id  review_stars
+0     05A1WpXkjCbVHCodTSc6sg  --cZ6Hhc9F7VkKXxHMVZSQ             5
+1     dIIKEfOgo0KqUfGQvGikPg  -0WegMt6Cy966qlDKhu6jA             2
+2     Qx54otvZKuG0VJXK1nme0Q  -3oxnPPPU3YoxO9M1I2idg             5
+3     xavCcqaAiDpWOXe_V6HI2g  -63pZrN9eEFoi-avMMx6Ug             1
+4     Zl2GRJ_Mv4hfRMEPEE1lfA  -6tvduBzjLI1ISfs3F_qTg             4
+...                      ...                     ...           ...
+2067  WwW0bh9cXtyl4ruIKjlAqg  zuVvDYJkKAbXQTTBauAqJQ             3
+2068  _S7P6eKBi0Lm-BLXut6HcQ  zw4Legbcu018p5WcZ74iWA             3
+2069  yDHLETezfJ23Dj5ldU2BZQ  zwNC-Ow4eIMan2__bS9-rg             5
+2070  j5lm1Eed_qDJb7mKte2Rew  zxsktAMsVBKj2PvvCV11UQ             4
+2071  tYWPNtP8w98Efavvko2mRQ  zzCsh8Rx40ZXcyDrzFnfOQ             1
+
+[2072 rows x 3 columns],                      user_id             business_id  review_stars
+0     HVJgTH5qu0goywOHNpOjPA  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     HJj82f-csBI7jjgenwqhvw  --FBCX-N37CMYDfs790Bnw             3
+2     LUxPj9ntwYDs6Ii9vPSZWg  --cZ6Hhc9F7VkKXxHMVZSQ             4
+3     UDFIZXP0kOb2xKoYToTS6w  -1xuC540Nycht_iWFeJ-dw             5
+4     CZxTyU7RJSybqjCCtO970w  -382X_bWhJKPJKP1VfXOmw             1
+...                      ...                     ...           ...
+2047  3tiNR-Wblfke4LMNiXvEEw  zrTGcb83AsfyVTMrsCa65A             3
+2048  hJ1ODk_lPKZ9iJxlxTOqnA  zs710LuQ8y10YsQHIjxjyw             3
+2049  sTvGHkUu1u1_SWUstqafjQ  zsl5aN9J7gTu_s3UVVJ8aQ             1
+2050  1FkT3LpFJdsY_pxq4DGmFA  zv89ihIoUTzHo1eTAAwgvA             4
+2051  vk2oHVeLHKz_opAj3kx9pg  zzlZJVkEhOzR2tJOLHcF2A             4
+
+[2052 rows x 3 columns],                      user_id             business_id  review_stars
+0     3o8c_R-Kv5UOoXXuMEOZAw  --9e1ONYQuAa-CB_Rrw7Tw             3
+1     58L4aDYuyKd67ooGEzch8g  -1m9o3vGRA8IBPNvNqKLmA             5
+2     CgXv7VMU_rbobJaNi4wilA  -1xuC540Nycht_iWFeJ-dw             5
+3     DlzcV02-wFyLxQJWdKzPKQ  -6tvduBzjLI1ISfs3F_qTg             4
+4     6xmBNYK7epiFGmRt0bBxHg  -9eNGMp8XiygI8t8QFuFWw             4
+...                      ...                     ...           ...
+2030  0uCWbprsjcEwotwKRVKpWQ  zwNC-Ow4eIMan2__bS9-rg             3
+2031  i18oz-2TnGrOJewfisie4g  zwkif4XLEDqdEwEgTWLIVQ             5
+2032  W9MPolPlUiUEXYfGnYiHEQ  zxHN6Rx5MUlVO-qpyuAcLw             4
+2033  6MM9Yqn7UBM8tmpSHQHAAg  zy2YxxATFN-VCcpcUJTsaw             4
+2034  cAKdzi03q2kabJYuWbnjpw  zzSYBWuv_fXGtSgsO-6_1g             2
+
+[2035 rows x 3 columns],                      user_id             business_id  review_stars
+0     qtStklaTv9mSxtzpXkf9rg  -0Sgh0QlUKVsWosCWJzGqQ             1
+1     fwSsSQXLvip6MkayAa_vyQ  -2q4dnUw0gGJniGW2aPamQ             3
+2     Gb9Y_f1xslY1mDvvHBXaLg  -5XuRAfrjEiMN77J4gMQZQ             4
+3     6CP6hEn7YQeEuowKcRnoaA  -6tvduBzjLI1ISfs3F_qTg             5
+4     zWWcik1fRPZviBCQLC26FQ  -7EwIdxcRC5McO35DVfeSQ             2
+...                      ...                     ...           ...
+1984  P1cF6tuUES0jMpoTdWZSlQ  zrTGcb83AsfyVTMrsCa65A             4
+1985  i4zlrngUfDASv0bwrB8pjQ  zra20XPGVL9P3i5hMoKjig             4
+1986  uU7GIgzs4-5Dtp9Vuymb3A  ztxAbArApdQIhMoPF_ttiA             4
+1987  -UL3PJ8kUwmqBuACamd7Lw  zvezLicNkf8tTqZyYhP83w             4
+1988  Y2Mnmd9Tc2T8q3CAlyJRsg  zwNC-Ow4eIMan2__bS9-rg             5
+
+[1989 rows x 3 columns],                      user_id             business_id  review_stars
+0     QRXsIlJoL_Ar7IRzU94jzg  -0RkJ_uIduNLWQrphbADRw             5
+1     AedJ9prHZvr3wBJ_eTsd8g  -6tvduBzjLI1ISfs3F_qTg             4
+2     5JrVWogzqxo6gnaEvlf8Sg  -95mbLJsa0CxXhpaNL4LvA             5
+3     5JrVWogzqxo6gnaEvlf8Sg  -95mbLJsa0CxXhpaNL4LvA             5
+4     ZqIcKvcz6S6ms9iUWcAGgw  -AD5PiuJHgdUcAK-Vxao2A             4
+...                      ...                     ...           ...
+1973  JX7mjMODvt96vQIj9ENzhw  zrTGcb83AsfyVTMrsCa65A             4
+1974  JX7mjMODvt96vQIj9ENzhw  zrTGcb83AsfyVTMrsCa65A             4
+1975  VMnunJV8X1R-np1oh3qr7g  zrTGcb83AsfyVTMrsCa65A             5
+1976  evS0cCehNU_EiDiD3286Jw  zuwba6QEBIDZT0tJZmNhdQ             5
+1977  evS0cCehNU_EiDiD3286Jw  zuwba6QEBIDZT0tJZmNhdQ             4
+
+[1978 rows x 3 columns],                      user_id             business_id  review_stars
+0     2-XLTj0Cfd81_XlmHo02Aw  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     S9RnwU72ppCeBEhmDXVd0A  -0NrB58jqKqJfuUCDupcsw             5
+2     zZkUkK9M0v02qHBCCm5zaA  -1xuC540Nycht_iWFeJ-dw             5
+3     xEXQBoPjAoYYj9xdPx7nEA  -4TMQnQJW1yd6NqGRDvAeA             5
+4     uomQ49wGq4EyDxkE_-MNsA  -4g68Hwm892_KPUuW5g1_Q             3
+...                      ...                     ...           ...
+2023  IGQ6gcSxjmARqTxIdDmFnA  zhVrl8N_zMW8f9NuoluG6Q             4
+2024  sFJjEc7ytSUV28Y7PpdMjQ  zktCQRlDtF6XmOpqKBz1mA             5
+2025  mzHRaYLoV-lwX79HghP6lw  zr93wrNyXzc-HW4IcK4iRQ             3
+2026  RI_k6G5Gi1gqWykHkQoMLg  zsQk990PubOHjr1YcLkQFw             1
+2027  m5b84-nPPVNLlDtZyVGZ3w  zyw5DjrRks7a8OhmBsgCQQ             3
+
+[2028 rows x 3 columns],                      user_id             business_id  review_stars
+0     seR0RklSV0nbfXv31LtSxg  -4lgvwr6d8ztCPlCXl-NFA             5
+1     LzGhzxV-e8fQ-vNqLGLsuw  -6tvduBzjLI1ISfs3F_qTg             5
+2     sbrrFyYuGEGDO3VG6tomiA  -7EwIdxcRC5McO35DVfeSQ             3
+3     FOy0Qrkw54VKDEWIw7T-jw  -95mbLJsa0CxXhpaNL4LvA             3
+4     0U52n_sqA9j6UmB4mNVT9A  -I7Vz5eDjc63xKmmt4Qx4g             3
+...                      ...                     ...           ...
+2020  e1z9K45idYRUBn7Sps6T1w  zW3o84i03nsJdFkA-b4cRA             3
+2021  BZFnb8yf5gsyLEJKZlw84Q  zZ7KDK3GAkBUZzsaqB1A4Q             5
+2022  k4_Va4k1fYCuHPCKZwzKfQ  zaxK3ea92mvEBRy-jttngg             5
+2023  -PTtMZYVawqKC6-vIds9lQ  zbzaSfV_7pYbSuAioOTJyA             5
+2024  ec083MQy5vBzj2nooDN9-w  zzmIMvqiBJ_-wVKg_OnGpw             5
+
+[2025 rows x 3 columns],                      user_id             business_id  review_stars
+0     nwn-39vTU5OP1H6iiqMPyQ  -1xuC540Nycht_iWFeJ-dw             4
+1     DlzrAmLBu-g8XrnH7A2WHw  -3zffZUHoY8bQjGfPSoBKQ             4
+2     -ARdx8hOcEWlMDjzwLYZ_g  -7H-oXvCxJzuT42ky6Db0g             4
+3     3VSXGpollr0CAee0_BROtw  -7H-oXvCxJzuT42ky6Db0g             4
+4     bcxc4OF5SDiJ4xnNMBZUQQ  -95mbLJsa0CxXhpaNL4LvA             3
+...                      ...                     ...           ...
+1981  iNQZmBJm-hDmHTX7q9OEAw  zoIEe7uhsQT2EyiFLIfhrw             3
+1982  qLkmShQi5TilOST6C0pYSg  zoIEe7uhsQT2EyiFLIfhrw             4
+1983  udpfGxriuoBdWRBdplJl-w  zpoZ6WyQUYff18-z4ZU1mA             5
+1984  lHqA_D7nAK9xw_Xg08dM_w  zrTGcb83AsfyVTMrsCa65A             3
+1985  aLqp_fe64ugZFuwMpsXLiw  zwg2PdDB6hac2mMjYkUhaQ             4
+
+[1986 rows x 3 columns],                      user_id             business_id  review_stars
+0     VUrTgQhEB4Vo04xbnNiNyQ  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     gRciKaIcEKCKMg2UTMz4-Q  -3cJ2k_iwauMpy1WfI4NrA             4
+2     lHzsNalgcq19djM7E88nlg  -6tvduBzjLI1ISfs3F_qTg             5
+3     lHzsNalgcq19djM7E88nlg  -6tvduBzjLI1ISfs3F_qTg             5
+4     OdBRr5nQqbnlKguqJSI_ug  -BSf1LtnOrtCWAzmumxUpw             4
+...                      ...                     ...           ...
+2038  rRrFcSEZOTw6iZagsIwTFQ  zpC-0J9p7V26ZZAVses64A             4
+2039  TPp1sJ4DO5_kBoUk30bFRQ  zra20XPGVL9P3i5hMoKjig             4
+2040  0N91KZHstHSnKwJVRa2p2g  zuUWG7OdMv6awFRYhEYT5Q             2
+2041  qSJdtutqvDrZQSXcHXyBwQ  zuVvDYJkKAbXQTTBauAqJQ             3
+2042  il9YGi12gRza4IcfskDcRw  zuwba6QEBIDZT0tJZmNhdQ             4
+
+[2043 rows x 3 columns],                      user_id             business_id  review_stars
+0     0mKUbIUXOvH0cHcGQ1KGqg  -050d_XIor1NpCuWkbIVaQ             4
+1     nmtyeEpbSa-zJKaF9qbmdA  -2C96suwzrE_cqI1U69cLA             4
+2     h1UcaSPIPpQqMiWf12Csqw  -3Haoc0l9DZRSXxIHi9oJg             2
+3     6z9ERfBvRF3HOXLNTNkdpg  -7H-oXvCxJzuT42ky6Db0g             4
+4     BPL8bDIem9Dfx6JeV8KJLg  -7H-oXvCxJzuT42ky6Db0g             4
+...                      ...                     ...           ...
+2084  9HBhAEu9PuLm_P8pW4AYIw  zsQk990PubOHjr1YcLkQFw             4
+2085  RoJCMSycQZGEefAh8-OHJg  zsQk990PubOHjr1YcLkQFw             1
+2086  jdjIEOJjNcy5CUuM2r-Zug  zunMkZ4U2eVojempQtLngg             4
+2087  KbtcIPQdfmXToZV24trjVg  zv7ApWWtKbu1r_qNK4SFrg             4
+2088  0GTanD35lGadNgiDp_a8cQ  zwNC-Ow4eIMan2__bS9-rg             3
+
+[2089 rows x 3 columns],                      user_id             business_id  review_stars
+0     AKXqbuifvfvNEpr3Qs51hQ  -050d_XIor1NpCuWkbIVaQ             4
+1     k3coNhQlMq2_Mvw6pSUahw  -2pQf1ceDZyE2ReCNbj-3A             5
+2     QrwyI3WLDjaBhtNqDXlwzQ  -5L8zOxibac-vBrsYtxXbQ             3
+3     jBA4kbPRYCFYGYjhuRQjGA  -6sE5v4OrVGmWxdIrbs-RQ             4
+4     W9MPolPlUiUEXYfGnYiHEQ  -6tvduBzjLI1ISfs3F_qTg             4
+...                      ...                     ...           ...
+1984  HuPF1XOx3N6U5BEYnTWqKA  zr93wrNyXzc-HW4IcK4iRQ             4
+1985  alUuOskFSl1bODjnce2PpQ  zs682_KLZ6bwPEgk0OvAyA             3
+1986  AS9RXVUliJQ5GTQXFBHGFw  zsyQEMYhIDcdGLbf-kYlRw             2
+1987  vupnMb60HSaTZrMPYsNsiw  zuVvDYJkKAbXQTTBauAqJQ             3
+1988  OVBoQ6NIsullZL04j-Nmjw  zwNC-Ow4eIMan2__bS9-rg             4
+
+[1989 rows x 3 columns],                      user_id             business_id  review_stars
+0     B6wnNghKgXmIrbn5k1pKBQ  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     sOZfGLRjhcEjAKBLZKcJGg  -0WegMt6Cy966qlDKhu6jA             2
+2     tIUMwnnBZ3XB-yt7GeRmzg  -25X5v1q3WU6s-craJSvTw             3
+3     4xHcvxzuh71vZpwi9jWe4A  -8Oaw94x2pYJCVP8ZtuTTw             3
+4     17f-n5Rouu89FSKuc4c7xw  -95mbLJsa0CxXhpaNL4LvA             5
+...                      ...                     ...           ...
+2023  loOoIBFpGbkx8WaIpQndiA  zpoZ6WyQUYff18-z4ZU1mA             4
+2024  wnO99pBbGqwqOoTQM25iCw  zpoZ6WyQUYff18-z4ZU1mA             4
+2025  aBwuFN_u8mfzSDQ6oDHwpA  zrTGcb83AsfyVTMrsCa65A             3
+2026  aBrClQ9GLt8G-5DRdCI_5w  zsQk990PubOHjr1YcLkQFw             5
+2027  jdjIEOJjNcy5CUuM2r-Zug  ztP466jMUMtqLwwHqXbk9w             1
+
+[2028 rows x 3 columns],                      user_id             business_id  review_stars
+0     r1BNhoXQKv0DqI0yLp_HFQ  -3cJ2k_iwauMpy1WfI4NrA             3
+1     9_88RmBWWdqeDe2dxxSFkQ  -8jeDY-TJ_e6w7h0c--A-w             4
+2     omSG16AeMvabwK98cFymOA  -92cC6-X87HQ1DE1UHOx3w             5
+3     k6Y8yT_EJtL5hhwnYPDUfg  -AtzcXIwEP6yO7rM9CM9ww             5
+4     TF9eVTIQm--1VIQcf9CU2w  -Bdw-5H5C4AYSMGnAvmnzw             2
+...                      ...                     ...           ...
+2141  -kQCPAiPvdBPbY7nnUu-UA  zwNLJ2VglfEvGu7DDZjJ4g             5
+2142  -kQCPAiPvdBPbY7nnUu-UA  zwNLJ2VglfEvGu7DDZjJ4g             5
+2143  -kQCPAiPvdBPbY7nnUu-UA  zwNLJ2VglfEvGu7DDZjJ4g             5
+2144  OVYP73aNQaEKLf4w4_40SA  zx_j6OuuHHa2afVoAZuLpA             4
+2145  oB6Db6ZRqxjkHL29U-S3cQ  zy6Hzao6lTmuJMZo4BemIg             5
+
+[2146 rows x 3 columns],                      user_id             business_id  review_stars
+0     utzLUmjVzQzXSJlWXxBDag  -2wh_ZsD2n5xFYgzppcxNg             4
+1     _a7O6G9QY9dHxESCrTu97w  -6NrhIFET7iWi4d5538fiA             5
+2     ZNvSWTAsKbu9wKz7WCUnyw  -6tvduBzjLI1ISfs3F_qTg             3
+3     i66FwAM4aToSq-a3pRe3Iw  -ADtl9bLp8wNqYX1k3KuxA             5
+4     i66FwAM4aToSq-a3pRe3Iw  -ADtl9bLp8wNqYX1k3KuxA             5
+...                      ...                     ...           ...
+2032  AVVEFYHmFUa9oUhy2DIQFA  zs-T0uqKSHhYWSEok6oouw             4
+2033  Cjbey0IXGL3am4PkBwF8VQ  ztxAbArApdQIhMoPF_ttiA             3
+2034  OnQy9hlYzOPbPcs9iledYA  zw4Legbcu018p5WcZ74iWA             4
+2035  vj-gGhmf8zw4FJiJ4oWGjQ  zySx88a8wu-mpPIkg5ijcQ             4
+2036  DIqmYwkcPFcYnEpWvzXeOQ  zzSYBWuv_fXGtSgsO-6_1g             5
+
+[2037 rows x 3 columns],                      user_id             business_id  review_stars
+0     UQa9RqoJZWAawzqN-2pT2Q  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     jVkOyGV7CybBfqk6vF3Q-A  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     U2sN2-HGvh27FyXKFlvkBg  -050d_XIor1NpCuWkbIVaQ             4
+3     x0cMhVpUcYYHoLdrWSNIMg  -0NrB58jqKqJfuUCDupcsw             4
+4     I7a310ZBwdxxKreeqYXGqg  -1vfRrlnNnNJ5boOVghMPA             1
+...                      ...                     ...           ...
+2132  f9Krj8KzrcbfRUvspd8dEg  zs710LuQ8y10YsQHIjxjyw             4
+2133  I5gQwMvl7mBH-sp2mu_idQ  ztP466jMUMtqLwwHqXbk9w             5
+2134  3vGiPNH4yCAj88-kfdvbjw  zwkif4XLEDqdEwEgTWLIVQ             5
+2135  wAHvCjMffHf9xCWFhgkRzg  zxSfGIhK3hH3vVz_pS5eaA             1
+2136  ma6206bmu-a_Ja7Iv-yRCw  zy5UZvaG4iOLSbxuophtTQ             3
+
+[2137 rows x 3 columns],                      user_id             business_id  review_stars
+0     KsNqiiK48JTtQJcquiA7NQ  --6MefnULPED_I942VcFNA             3
+1     IARHpFPTjPp2fIQG52DafA  --9e1ONYQuAa-CB_Rrw7Tw             4
+2     NTwPX_JLEwJ9ccvhtcbWuw  -01XupAWZEXbdNbxNg5mEg             2
+3     NTwPX_JLEwJ9ccvhtcbWuw  -01XupAWZEXbdNbxNg5mEg             1
+4     jt3v30nfw7ZGfQQd-XZhzA  -5L8zOxibac-vBrsYtxXbQ             2
+...                      ...                     ...           ...
+1964  qSNUvp6l7kkKXdQH6KhngQ  zrDi4gEaUi64lAMfJU51dw             5
+1965  Z7xuJ9P_rMtBvi4aFmP7zw  zrnP9HqoF-RI9jqoW8pytA             2
+1966  aHX4jtJYIdRuJip7sSKSnw  zuVvDYJkKAbXQTTBauAqJQ             5
+1967  RowxQgaC5cpOXNDXX3snjw  zufxiQ7fLYPXdxRrDXOeWw             4
+1968  1O638BDK_fWuxgTVJwff-A  zw4Legbcu018p5WcZ74iWA             2
+
+[1969 rows x 3 columns],                      user_id             business_id  review_stars
+0     agTG39Xuad2batlT3m-y5A  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     rA97zeqOrUYuEM69n0Xn4w  -050d_XIor1NpCuWkbIVaQ             4
+2     45tYBtzRSaGa8TsukQE0Lg  -0RkJ_uIduNLWQrphbADRw             5
+3     5g5BjhARiZ4zw0SthMH0OQ  -0WegMt6Cy966qlDKhu6jA             3
+4     P2sQVHyHmy4WA0I7NI5hWg  -6tvduBzjLI1ISfs3F_qTg             4
+...                      ...                     ...           ...
+1992  B5Gyxz-FbsLDc0VXoaj5jQ  zpoZ6WyQUYff18-z4ZU1mA             4
+1993  0TJ01iwzVLXtr_EYcfqoWQ  zw4Legbcu018p5WcZ74iWA             5
+1994  UVVzF9WtTkTODPBTetJUDw  zwNC-Ow4eIMan2__bS9-rg             5
+1995  g2uNtyAV9cX4ZyDJ3ygQcw  zx_j6OuuHHa2afVoAZuLpA             4
+1996  AlzerMK7z84E4KU6GjPzIQ  zzwhN7x37nyjP0ZM8oiHmw             4
+
+[1997 rows x 3 columns],                      user_id             business_id  review_stars
+0     tgyMunSEYZLDM216Ga9zlg  -050d_XIor1NpCuWkbIVaQ             5
+1     8VZqEVrG8xrNGnxV67sUeA  -1UMR00eXtwaeh59pEiDjA             1
+2     J1w_rl49WOD2wVex2uoWYQ  -4TMQnQJW1yd6NqGRDvAeA             5
+3     yuXi6ZQvNgBkU3QLTvA4nQ  -6tvduBzjLI1ISfs3F_qTg             4
+4     8teQ4Zc9jpl_ffaPJUn6Ew  -81lDCanrjjACwpMTcF3tg             4
+...                      ...                     ...           ...
+2031  OdhUSNW6TIeYw9rIM1CDUA  zrDi4gEaUi64lAMfJU51dw             4
+2032  Fe4o6TmWaSB9ZWFNll8T0Q  zra20XPGVL9P3i5hMoKjig             4
+2033  q4O6ty6-tMeG1nc0Vi4hAw  zs-T0uqKSHhYWSEok6oouw             4
+2034  HXOfPXPMvdXNpQ_l0RRjKw  zw4Legbcu018p5WcZ74iWA             5
+2035  ImnJ5KKaWWNjj1E9kEArmQ  zwNC-Ow4eIMan2__bS9-rg             5
+
+[2036 rows x 3 columns],                      user_id             business_id  review_stars
+0     nUjRBE88CYXP7g69jnfYbQ  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     i7yAlDwvt7FP-1IJWkhAQw  -5L8zOxibac-vBrsYtxXbQ             1
+2     z6VZrWNIAVw8Nv1w065tLg  -5pn5F6pFkbrBv6L8d8CoQ             3
+3     PNzbj1UNjIRYiYwpIXzNXA  -6tvduBzjLI1ISfs3F_qTg             4
+4     zcDVJ2FLanBw3ZfT_zpL-A  -6tvduBzjLI1ISfs3F_qTg             5
+...                      ...                     ...           ...
+2009  OyAfSC4KjjlsT0AorOySqg  zqRTnP_JQv94nuoyO7xCQg             4
+2010  KrGbGShQn8X7_mbIUBcZRw  zrDi4gEaUi64lAMfJU51dw             4
+2011  dvaLCoQykxcTy8fwuUGvNQ  zrDi4gEaUi64lAMfJU51dw             3
+2012  F3dKpfp0EpxkL-rDZSKzvA  zrcs31Gt6HuWX_RCWW-mCQ             4
+2013  hJ1ODk_lPKZ9iJxlxTOqnA  ztzjD1Zs5tfMZTYKXkmL9Q             4
+
+[2014 rows x 3 columns],                      user_id             business_id  review_stars
+0     M6uDHCxhZybBdngFuBmrHg  --FBCX-N37CMYDfs790Bnw             2
+1     kPaqBMv4mU-N80Fzd8vU3A  -050d_XIor1NpCuWkbIVaQ             3
+2     pu_AQig2fw40PshvtgONPQ  -050d_XIor1NpCuWkbIVaQ             3
+3     pC4K544W5_b2B2BvG4Lp_g  -0RkJ_uIduNLWQrphbADRw             2
+4     5wLfcAChErk8nlatCfyw2g  -1vfRrlnNnNJ5boOVghMPA             2
+...                      ...                     ...           ...
+2055  zx3y74_pvIRuQSVIrgzCew  zrDi4gEaUi64lAMfJU51dw             4
+2056  wregZkyJ3efquMrnrgqGQw  zsMMlOYtXm8SNy0bl1leBA             4
+2057  rtRVb54VIXOUI_5mT1rhgQ  ztP466jMUMtqLwwHqXbk9w             3
+2058  blKDVAIT4-AIjYUUZPD7jA  zu7DiVAX0wO4f8rGPU8URg             4
+2059  SCo1UBoeN3bhRMkSYuiX1A  zyPGYeXF4XKCqNN1pjFWhg             4
+
+[2060 rows x 3 columns],                      user_id             business_id  review_stars
+0     U7NLhaVfOJrHb9XLsZbJnQ  --Rsj71PBe31h5YljVseKA             4
+1     5uiCy0vSIknuDEHc7yHRkw  -050d_XIor1NpCuWkbIVaQ             4
+2     h6Xa2hTn_nK4UawszB22XQ  -092wE7j5HZOogMLAh40zA             4
+3     4ULkSSMp3-JH8HegrlfgzQ  -1UMR00eXtwaeh59pEiDjA             3
+4     Z7xuJ9P_rMtBvi4aFmP7zw  -1xuC540Nycht_iWFeJ-dw             1
+...                      ...                     ...           ...
+2058  zaE6VkvJwU1_TTwEyUlBDQ  zlpLjbwrKuNs8zROgB_qUQ             4
+2059  0wBTSc0i-QFVDa_uRLzoZg  zqRTnP_JQv94nuoyO7xCQg             5
+2060  fgkJ6KUlrmbKyLDQervxsw  zsQk990PubOHjr1YcLkQFw             4
+2061  MZuvl0oUK3QSv7faGx9i5w  zuUWG7OdMv6awFRYhEYT5Q             2
+2062  y4xrOPXEB75lJaLjr7Rtaw  zuwba6QEBIDZT0tJZmNhdQ             1
+
+[2063 rows x 3 columns],                      user_id             business_id  review_stars
+0     SsCup4MMH8DU1wOKYWA47w  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     xTj63CaRFGnxjrAXABDkag  -1u4Q4U6OZ-CvqoxUh7gKg             4
+2     r3jdC_fWwuYsf8HD56zA3Q  -6tvduBzjLI1ISfs3F_qTg             5
+3     oTMyCJ1c40GbCazd9yCAhQ  -8QlV3b_9H4BAh6LgMIr1g             5
+4     PkeDOqXbgEOkR-aKUHoQ_A  -9Ff8WEoiFsw_mfmJ4Nlcw             4
+...                      ...                     ...           ...
+2063  QkP-bFZji7vWGYpCYLQseA  ztQH2Q99E3D-iSdfImqjcQ             4
+2064  WctzEjvrh5p5Jp6Ab8fPPQ  zv89ihIoUTzHo1eTAAwgvA             3
+2065  cMBBdTgE_--eCakk7nMbVA  zy6Hzao6lTmuJMZo4BemIg             1
+2066  cMBBdTgE_--eCakk7nMbVA  zy6Hzao6lTmuJMZo4BemIg             1
+2067  7hJULn2o6Zv1Lwd860YCGQ  zyw5DjrRks7a8OhmBsgCQQ             4
+
+[2068 rows x 3 columns],                      user_id             business_id  review_stars
+0     YTuksHb6YsMI62BqEG_eRA  -7H-oXvCxJzuT42ky6Db0g             1
+1     YTuksHb6YsMI62BqEG_eRA  -7H-oXvCxJzuT42ky6Db0g             2
+2     65hdaPSNt2qQgarrbp5awg  -8QlV3b_9H4BAh6LgMIr1g             4
+3     ZylX_y6I3qyp0d1y1sWIOg  -9nai28tnoylwViuJVrYEQ             5
+4     fUWFHqn-wm8X1gTxK2zqsg  -AliE9BXGQl8pIrdlpCOxQ             5
+...                      ...                     ...           ...
+1949  jaRClBuLprmG26t-hiJL5Q  zuVvDYJkKAbXQTTBauAqJQ             4
+1950  D6SEKcIne80A0AhwiEV2Rg  zyPGYeXF4XKCqNN1pjFWhg             5
+1951  D6SEKcIne80A0AhwiEV2Rg  zyPGYeXF4XKCqNN1pjFWhg             5
+1952  D6SEKcIne80A0AhwiEV2Rg  zyPGYeXF4XKCqNN1pjFWhg             5
+1953  GERRIWMslcP4-O6mLErPSQ  zzUj3ej4vm_DtvRxNvWDEw             4
+
+[1954 rows x 3 columns],                      user_id             business_id  review_stars
+0     vHHjaq9pSuwq8uCrQ85qlw  --cjBEbXMI2obtaRHNSFrA             4
+1     eWD-kLqwCf1MaZxvO4yDLA  -1xuC540Nycht_iWFeJ-dw             4
+2     5VJlTN7a3kXkHOctR04MaQ  -6tvduBzjLI1ISfs3F_qTg             2
+3     TbhyP24zYZqZ2VJZgu1wrg  -76didnxGiiMO80BjSpYsQ             4
+4     l-SC6CGdKImb26rFnmhOyA  -9eNGMp8XiygI8t8QFuFWw             2
+...                      ...                     ...           ...
+1967  lQGJcwX105k17081f6pulg  zlpLjbwrKuNs8zROgB_qUQ             3
+1968  U2sN2-HGvh27FyXKFlvkBg  zrTGcb83AsfyVTMrsCa65A             2
+1969  TjLuNZHUokRUZc6vNJ3Abg  zt9RLUIU32fZYOBh2L0NNQ             3
+1970  OLR4DvqFxCKLOEHqfAxpqQ  zwNC-Ow4eIMan2__bS9-rg             1
+1971  j0QaeP3Ymo7Nge_RBOPSyA  zzUj3ej4vm_DtvRxNvWDEw             4
+
+[1972 rows x 3 columns],                      user_id             business_id  review_stars
+0     VayqAxq3cxnA9wxwxS65pQ  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     YwTA18gfITTzJ1EvfMzAmg  -1VaIJza42Hjev6ukacCNg             5
+2     _GX0dMS_5sJoaKmDfY8SwA  -3zffZUHoY8bQjGfPSoBKQ             5
+3     VY6tOLt_ahzJLt12MoTKUw  -6e0liTvH5EoB4HuncuQgA             5
+4     6aSVrKFKo8GyfmU6VmGYTg  -6h3K1hj0d4DRcZNUtHDuw             4
+...                      ...                     ...           ...
+2026  6xGTlUEbAe0ZgEP7T11r2Q  zidkKI_N1OPxsiddTOQH_Q             4
+2027  _wSQ2HMlA1TZqyPYTzh6wQ  zoiipnagfeUvIP-17Fh9_A             3
+2028  o5hk57cqhWnV1sULPvq1jw  zrYpLdnGKA_EmOhgRCy_vg             5
+2029  OLn8EvPsu4hNug8V5PF2jA  zw9_mqWBn1QCfZg88w0Exg             3
+2030  OLn8EvPsu4hNug8V5PF2jA  zw9_mqWBn1QCfZg88w0Exg             3
+
+[2031 rows x 3 columns],                      user_id             business_id  review_stars
+0     8USC843xfJ4peZ75u2KM4g  -1m9o3vGRA8IBPNvNqKLmA             5
+1     re7EBvr-fjM9P9NW2a23_g  -45kMvS7h38CGaWugPY0rg             5
+2     9jsBpPA-1h6ZPxxm01Za-w  -6tvduBzjLI1ISfs3F_qTg             4
+3     lK-nDdaTfvhuhUowIyOpmw  -ADtl9bLp8wNqYX1k3KuxA             5
+4     CmahoXBP17HudYGYt2Brdg  -BbnAc9YEO6pjvJGEtFbVQ             5
+...                      ...                     ...           ...
+2036  XaMwHlRaUfsSjBewVAbiQw  zqoPpM4GppNhRp-PkhLeSg             3
+2037  9fek8sBMCATlL4k0YwtFdg  ztP466jMUMtqLwwHqXbk9w             5
+2038  XNzChtoNOw706kps82x0Kg  zw9_mqWBn1QCfZg88w0Exg             5
+2039  KyMkKb5IohKb0S7v4Jv-oA  zwNC-Ow4eIMan2__bS9-rg             4
+2040  0amUDN39lxE3uL_ODAS5jA  zzSYBWuv_fXGtSgsO-6_1g             5
+
+[2041 rows x 3 columns],                      user_id             business_id  review_stars
+0     x-Gbs8sVid3yhJIoHD6Gfw  --6MefnULPED_I942VcFNA             2
+1     CjvFxl6_7AK3lw5O49MN8g  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     _gMoSkiPNjZlw-bTLrwYkw  -0NrB58jqKqJfuUCDupcsw             4
+3     wnO99pBbGqwqOoTQM25iCw  -2nfJ8yK54A7Md2RzmMR4g             4
+4     YGE_rCB5AbmOY7C3UIbSaQ  -7EwIdxcRC5McO35DVfeSQ             4
+...                      ...                     ...           ...
+2097  gUHGfOpInuzNVvoH6w0K9g  zlKejFexreLRpZZN0lCCmA             3
+2098  UTgf-OU69QpcW-xvSojuvA  ztP466jMUMtqLwwHqXbk9w             5
+2099  DCcweTztEpGjZrtHhCWMcQ  zu5dqKqPjJCycS5k-92Alg             4
+2100  Os1yjehQfNF7JDAvDmjKfg  zw4Legbcu018p5WcZ74iWA             5
+2101  zhcHzAEeBlv41aW_odTxNg  zyRhwC9zs34LeYYfGc4gBA             5
+
+[2102 rows x 3 columns],                      user_id             business_id  review_stars
+0     N0gKP9YdO0ivwgwyy_KCYQ  --I7YYLada0tSLkORTHb5Q             2
+1     UmBJuGTOR1pn4QHqCuroHQ  -0NhdsDJsdarxyDPR523ZQ             3
+2     ZD76B53WiEdv3g2lNgTbNg  -1xuC540Nycht_iWFeJ-dw             4
+3     _qXAML1zdrHe8vgE4dPymg  -BSf1LtnOrtCWAzmumxUpw             4
+4     Yl7OYdHuYmr7K-IW9_ayng  -BbnAc9YEO6pjvJGEtFbVQ             4
+...                      ...                     ...           ...
+2087  5daHu02u5o04mm4E7cHm5g  zjygAC4qLf91b3KOdHQT-w             4
+2088  I1_ouMXiPPIJZuWKh5N36Q  zmr6B0JgnzsW9lRFtwWOrQ             3
+2089  FFLDVmktx5kkAANhTR0Szg  zrYpLdnGKA_EmOhgRCy_vg             3
+2090  Grer2CtCAJHhTRzpsuAhnA  zuwba6QEBIDZT0tJZmNhdQ             1
+2091  nF2TR0yfB2tx3VzAMvdlgQ  zxJlg4XCHNoFy78WZPv89w             3
+
+[2092 rows x 3 columns],                      user_id             business_id  review_stars
+0     re3AdczLFP4D7xwI6DkBNA  -050d_XIor1NpCuWkbIVaQ             4
+1     GcQIifJoiOxLcmRj62DZ3g  -2C96suwzrE_cqI1U69cLA             4
+2     OPtv-lFAgcddoUuHCcTHUQ  -2C96suwzrE_cqI1U69cLA             4
+3     XUwYlVRuyoImgtaw8Cjztg  -2pQf1ceDZyE2ReCNbj-3A             4
+4     xDQuO9ncRnOt7nu6oWKX8A  -6h3K1hj0d4DRcZNUtHDuw             4
+...                      ...                     ...           ...
+2025  OrecZAo5K2qBM6Yvg8-bpA  zswdqM8Av3KxVv9o7_6ORA             2
+2026  75F5X2UH3imcfrgFR-9toA  ztP466jMUMtqLwwHqXbk9w             3
+2027  1ytiiO6xC4Oc7SND0AKZhw  zutT311xSgH_Gbdza_jc1w             5
+2028  -Lcp9BDlDDo7j3aIGJWjYg  zwNC-Ow4eIMan2__bS9-rg             5
+2029  QPREECpJrp8Dj3_TK22oqg  zwNC-Ow4eIMan2__bS9-rg             5
+
+[2030 rows x 3 columns],                      user_id             business_id  review_stars
+0     4hBhtCSgoxkrFgHa4YAD-w  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     TcrnuDDjpO6jjFbO_CwiTQ  -050d_XIor1NpCuWkbIVaQ             2
+2     QTZvgss0rIfPmauPaSj2nw  -45kMvS7h38CGaWugPY0rg             5
+3     uVwT5WRxRVF0inea5Ey9XQ  -6tvduBzjLI1ISfs3F_qTg             4
+4     YvzoOqfBProz9SveFwJYOw  -7BCZH437U5FjmNJ26llkg             4
+...                      ...                     ...           ...
+2067  GGjzQnNZb4IDGfzACvNquQ  zlpLjbwrKuNs8zROgB_qUQ             2
+2068  TbhyP24zYZqZ2VJZgu1wrg  zqPAwZbi5rS1dyHrKzDpMg             4
+2069  aUWhxGW0EJef4VE4MY2wwg  zrdQ0X9yT3p8Ho99evHB2A             2
+2070  aGXrjjoMeDCNXIv9uw56kQ  zsR57scngUPI5W686GmSGA             1
+2071  67IMqiMGTTlobnDMEWszmw  zuu87Wx0Sv2KCUzY_wGSKQ             5
+
+[2072 rows x 3 columns],                      user_id             business_id  review_stars
+0     ehUIsmNgA8WfiN5X2bVbGQ  --cZ6Hhc9F7VkKXxHMVZSQ             4
+1     kIiefV2aDz7NPsLeTsUtHw  -1UMR00eXtwaeh59pEiDjA             3
+2     jwKsSS7Rl5gvWfnc7XmMaA  -3zffZUHoY8bQjGfPSoBKQ             5
+3     aHX4jtJYIdRuJip7sSKSnw  -4TMQnQJW1yd6NqGRDvAeA             5
+4     WXvky5ZfBqikw7tgdwE0Sw  -6tvduBzjLI1ISfs3F_qTg             3
+...                      ...                     ...           ...
+2041  wdBa3hQVQJAx_X-dOFfepw  zlpLjbwrKuNs8zROgB_qUQ             2
+2042  pv9U3IGX-epcrJyy8kg56A  zoUGIDxPby2YiHTuynyvtA             4
+2043  Aiy2pyA2d_tx3VhF3UDXeA  zusXbyXnJfS1Q-pZE9elmQ             1
+2044  a3tGYP1q3meIvu1Y9DPxAw  zwNLJ2VglfEvGu7DDZjJ4g             1
+2045  9u8D55VqYWZWdgTO0FxuYA  zzzaIBwimxVej4tY6qFOUQ             4
+
+[2046 rows x 3 columns],                      user_id             business_id  review_stars
+0     JSVSbCeCMxtIzA5DpyU2qQ  -0aOudcaAyac0VJbMX-L1g             2
+1     njbzzoW5Ex8K9siqF4eVYg  -1VaIJza42Hjev6ukacCNg             5
+2     gJm0HnCtVPTj3GKCEGAsIQ  -7EwIdxcRC5McO35DVfeSQ             4
+3     Hzfi49R6gs9LRJP1ZKnMgA  -7H-oXvCxJzuT42ky6Db0g             3
+4     mgBV3YmtaEqKmvrOHKQXfA  -7PX_FOoCwktlunImRyZdg             5
+...                      ...                     ...           ...
+2113  VbiNVc4pAWtxvGG9y-IfQg  zr42_UsWfaIF-rcp37OpwA             5
+2114  b7rchNJEp6Gaw0bHR-4s4g  zr42_UsWfaIF-rcp37OpwA             2
+2115  dw0qjkpvZRq5asg-JbvDsQ  ztP466jMUMtqLwwHqXbk9w             3
+2116  x16Fl_5h9aX4tn38kKSGHw  zuwba6QEBIDZT0tJZmNhdQ             3
+2117  vd5wfQ2L8fszYBHDPza9yw  zxSfGIhK3hH3vVz_pS5eaA             2
+
+[2118 rows x 3 columns],                      user_id             business_id  review_stars
+0     X86vXWcxSzuCfMJyOnx1UQ  -5XuRAfrjEiMN77J4gMQZQ             4
+1     22PgKKeyH9T1_d-NAeCOmg  -6tvduBzjLI1ISfs3F_qTg             5
+2     eU77PxGTK58WVRWoXULlEw  -6tvduBzjLI1ISfs3F_qTg             2
+3     k5qv7cG89Rpup6wyD0g7GA  -76didnxGiiMO80BjSpYsQ             2
+4     sbb2XUj9aYh5zP6gTJ14lw  -7H-oXvCxJzuT42ky6Db0g             3
+...                      ...                     ...           ...
+2040  4ba1IRpCkNOV1y0u2w0khg  ztxAbArApdQIhMoPF_ttiA             5
+2041  nuUUp2tP1_U5bNGWxQn3mg  zuwba6QEBIDZT0tJZmNhdQ             5
+2042  Te7_l78PIzdfiu9ki3Jrbg  zwNC-Ow4eIMan2__bS9-rg             5
+2043  z8wN6EQuw_JF-zTjcNgsLw  zwNC-Ow4eIMan2__bS9-rg             5
+2044  z8wN6EQuw_JF-zTjcNgsLw  zwNC-Ow4eIMan2__bS9-rg             1
+
+[2045 rows x 3 columns],                      user_id             business_id  review_stars
+0     2AZaPPRAWhDDO7k-jlpfwg  -050d_XIor1NpCuWkbIVaQ             5
+1     PKEzKWv_FktMm2mGPjwd0Q  -0RkJ_uIduNLWQrphbADRw             5
+2     8B6EbR1981YdVaBhH6UHCg  -0tgMGl7D9B10YjSN2ujLA             2
+3     XxIpna6nKPqK8mFIgzO8gQ  -2pQf1ceDZyE2ReCNbj-3A             2
+4     QyOjGyQS6mI-o8HVpVq8fQ  -4eA7Um2eiOKsGLmcXNx_w             3
+...                      ...                     ...           ...
+2050  gngidXb0CIwbGZ4vuACJLA  zqNgwQjj0_XAll-neGikIw             3
+2051  -NWJI92Jol3cCOfLq7fWaQ  zr42_UsWfaIF-rcp37OpwA             1
+2052  EgSFKMAhBJsdHzYLvb2DnQ  zr93wrNyXzc-HW4IcK4iRQ             3
+2053  Cjbey0IXGL3am4PkBwF8VQ  zuVvDYJkKAbXQTTBauAqJQ             4
+2054  TJTn57lXyxuRKTm9nyy4hA  zzmIMvqiBJ_-wVKg_OnGpw             1
+
+[2055 rows x 3 columns],                      user_id             business_id  review_stars
+0     s7Ng36gaqCu6nYzUlcai1A  --6MefnULPED_I942VcFNA             3
+1     1PaEnmMlndFCKAMfXknW7A  --9e1ONYQuAa-CB_Rrw7Tw             2
+2     KeuwC8E1238SP6xyKpBM6w  -050d_XIor1NpCuWkbIVaQ             3
+3     WHe5tyJbVpkvO_3meMUrdg  -6h3K1hj0d4DRcZNUtHDuw             3
+4     5SLlPzF9WxaKe0aHQuxhtA  -8iwcXhLnyqbLgvcrJGgaw             4
+...                      ...                     ...           ...
+2015  Gg-sbLdsbSPEt5mbOlgejg  zjvnqTjBp56NhMp1GrlO5g             3
+2016  -EdUe9pXOgWXVEDnNHswgg  zmJp4ocFlteqlLVvTYieDQ             5
+2017  gxYsLtosNDh9EAoT87MD8g  zoDilOV7nSQ3lXIhGOSbog             5
+2018  jfYO9Y76N5BmfiCg-cTUXw  ztP466jMUMtqLwwHqXbk9w             3
+2019  TbhyP24zYZqZ2VJZgu1wrg  zyw5DjrRks7a8OhmBsgCQQ             2
+
+[2020 rows x 3 columns],                      user_id             business_id  review_stars
+0     WeVkkF5L39888IPPlRhNpg  -0mm8pqBSIOYZQHeo8XnkA             5
+1     esJ5E0pfjQ0UhSDVaix6Pg  -6GJMc_Ln7csmvWWvY2iug             4
+2     m5b84-nPPVNLlDtZyVGZ3w  -9u2uFwhlj3Yq4mG5IweoA             3
+3     8hJM27VoDr3rrOqWSQfrLw  -Bf8BQ3yMk8U2f45r2DRKw             3
+4     ts-wroJzndSBODWzfzxyFw  -CfFjcCcGGDM9MVH_d42RQ             5
+...                      ...                     ...           ...
+2080  0dq24xM1599KBkclBxgeiw  zoJZ_LgSBq3YznjrzXkG3Q             3
+2081  Qku2_2s2rXOj5BxkuHp0EA  zrYpLdnGKA_EmOhgRCy_vg             4
+2082  ILe3tzgnbGSaZfpArtJdjA  zw4Legbcu018p5WcZ74iWA             4
+2083  Kp5KHBSmV-Htc9NeSjJfPA  zw9_mqWBn1QCfZg88w0Exg             3
+2084  Kp5KHBSmV-Htc9NeSjJfPA  zw9_mqWBn1QCfZg88w0Exg             3
+
+[2085 rows x 3 columns],                      user_id             business_id  review_stars
+0     JXu_ELboKx5DT6hkyBPlcA  --cZ6Hhc9F7VkKXxHMVZSQ             5
+1     gZuMa5-ld710NYeCtaJBgA  -3zffZUHoY8bQjGfPSoBKQ             5
+2     b0UcRHvNzY9oce0Zd5feDA  -4EHrrnzXy_vTsccHgYTWQ             2
+3     A43IClICYyJ7Fcg1cEyquw  -7H-oXvCxJzuT42ky6Db0g             3
+4     xPpqpudzcB2EwyHhIsAjlw  -8JaNeG3etLgOVyg2gOIiA             2
+...                      ...                     ...           ...
+1927  S9RnwU72ppCeBEhmDXVd0A  zu5dqKqPjJCycS5k-92Alg             4
+1928  Srv9jOGELiNGIJEqhS5_uQ  zu5dqKqPjJCycS5k-92Alg             4
+1929  ntfqu139JV_8g81D_36WEA  zwNLJ2VglfEvGu7DDZjJ4g             5
+1930  QTZvgss0rIfPmauPaSj2nw  zyPGYeXF4XKCqNN1pjFWhg             5
+1931  GnZoOPrN-mgf3qHmax30yA  zyRhwC9zs34LeYYfGc4gBA             5
+
+[1932 rows x 3 columns],                      user_id             business_id  review_stars
+0     Tk_FWXueutKii3f9yJFsdw  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     ZefNxXRVAPNy7983Rz5J1w  -3zffZUHoY8bQjGfPSoBKQ             5
+2     tDb-EDd6MV26tGwk6U8QOw  -3zffZUHoY8bQjGfPSoBKQ             4
+3     23ru7_FeiKitUEbwCnuSeQ  -5L8zOxibac-vBrsYtxXbQ             4
+4     0I-VTNKLS9vXsVNjLwuChQ  -6h3K1hj0d4DRcZNUtHDuw             5
+...                      ...                     ...           ...
+2008  -MVzfNZ136z0Fw6_7qH9jw  ztP466jMUMtqLwwHqXbk9w             3
+2009  CyAl5D-GjX-ZtqdQqG4_ew  ztxAbArApdQIhMoPF_ttiA             3
+2010  UNiyLSXVBcIe525ivue7aA  zwNLJ2VglfEvGu7DDZjJ4g             5
+2011  NjZ-Xabx-K60tlGdDsEXZQ  zydbdBR6-CM8UZ6WkW1DWA             1
+2012  NB4-jBvOM5Xt833RxTF5cQ  zzUj3ej4vm_DtvRxNvWDEw             3
+
+[2013 rows x 3 columns],                      user_id             business_id  review_stars
+0     uEKuEB0lsvd-Ht8z4ekEiw  -1xuC540Nycht_iWFeJ-dw             5
+1     KrT4LHYdRt-m1DMPtVKN4w  -3zffZUHoY8bQjGfPSoBKQ             5
+2     9eQIGbBCrTfmedDFYQC98Q  -6tvduBzjLI1ISfs3F_qTg             5
+3     clyp9Ay89BEE1Cd2q4M_sA  -7XWJYkutqhIxLen7Grg1g             3
+4     dIIKEfOgo0KqUfGQvGikPg  -A9sm-E6uQxWTJ_MuyOzFw             4
+...                      ...                     ...           ...
+2027  z6VZrWNIAVw8Nv1w065tLg  ztNhD9plB8Tt_5x_mfNtzg             4
+2028  YpjP8BuYTHIHIvh2AC0s5g  zwmps5SXn30g-f5wqg_r9A             5
+2029  TeLIBePV9QNsv4xT3luMQQ  zyPGYeXF4XKCqNN1pjFWhg             4
+2030  ZGiwU16rhGvWAYUzkWL0xw  zzlZJVkEhOzR2tJOLHcF2A             4
+2031  ZGiwU16rhGvWAYUzkWL0xw  zzlZJVkEhOzR2tJOLHcF2A             4
+
+[2032 rows x 3 columns],                      user_id             business_id  review_stars
+0     y5QfAKgk-_DUArxx0EiYRw  --KCl2FvVQpvjzmZSPyviA             5
+1     NGLufCod1pP760aBucp3tw  -1xuC540Nycht_iWFeJ-dw             5
+2     j-1qkha4h87wMfNfwPvfqQ  -3zffZUHoY8bQjGfPSoBKQ             5
+3     mswloq-IjRr9yXLhBqBPAw  -3zffZUHoY8bQjGfPSoBKQ             4
+4     dIIKEfOgo0KqUfGQvGikPg  -4TMQnQJW1yd6NqGRDvAeA             5
+...                      ...                     ...           ...
+2143  F6roFjNdk4MRcP5rrLE2Fw  zrcs31Gt6HuWX_RCWW-mCQ             4
+2144  WeVkkF5L39888IPPlRhNpg  zrcs31Gt6HuWX_RCWW-mCQ             4
+2145  hDSeawZ10uiqU8lZk6knUg  ztG_sG9ugajX9crrzh0UyA             5
+2146  4wp4XI9AxKNqJima-xahlg  zzBa0pQjM1gov00bXjYYXg             4
+2147  48jO6g4cJSwvUEcCsOXbzA  zzUj3ej4vm_DtvRxNvWDEw             4
+
+[2148 rows x 3 columns],                      user_id             business_id  review_stars
+0     SBi0TYUSIrct8WSTyK6DFg  --cZ6Hhc9F7VkKXxHMVZSQ             4
+1     k6qJj4rXbT0iuU6RJxBeVQ  -3zffZUHoY8bQjGfPSoBKQ             5
+2     gS4QCL6j_umAyfJXBGAZJQ  -7XWJYkutqhIxLen7Grg1g             3
+3     2Z29fLaeLtGnNroTuHyJ2A  -95mbLJsa0CxXhpaNL4LvA             4
+4     Cuobl6-IzrkennzlPnMTBw  -9u2uFwhlj3Yq4mG5IweoA             4
+...                      ...                     ...           ...
+2020  lZoaCeFcnThIT7OZVkc6qQ  zuVvDYJkKAbXQTTBauAqJQ             1
+2021  Wl9nfg6h1PF5R8vKkps9jw  zx_j6OuuHHa2afVoAZuLpA             3
+2022  U30MueFijfpUGbW39c1Arw  zyPGYeXF4XKCqNN1pjFWhg             4
+2023  iqhra1MRbjLWxrTkw4yqkA  zyRhwC9zs34LeYYfGc4gBA             4
+2024  74goFJSWzAwmk69XfPqEag  zz3CqZhNx2rQ_Yp6zHze-A             4
+
+[2025 rows x 3 columns],                      user_id             business_id  review_stars
+0     Jbd1x8jj3EgOkQMZ3RImKw  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     nLN_gehnTY6vRgpNJP2tOg  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     e6iCOIhtupBCiw-VwBvJ4A  -0aIra_B6iALlfqAriBSYA             5
+3     IJABCqLsGgT8DxqujUQmiA  -3zffZUHoY8bQjGfPSoBKQ             5
+4     LAwyrUSg6BrQUK3Pr-NK5Q  -8iwcXhLnyqbLgvcrJGgaw             3
+...                      ...                     ...           ...
+1959  pj5MOVaZkHmgCD0Atxw0wA  zoDilOV7nSQ3lXIhGOSbog             3
+1960  ldqh2aWLTW6D2RHDCj_2TA  zpoZ6WyQUYff18-z4ZU1mA             4
+1961  e6iCOIhtupBCiw-VwBvJ4A  zqNgwQjj0_XAll-neGikIw             5
+1962  _BQMCYEIfsn_Ldb4W3TjUg  zrTGcb83AsfyVTMrsCa65A             4
+1963  C1AUww2PFRRmbQK2IwqEMg  zuTA5DZ3FQL33hstBJktNQ             4
+
+[1964 rows x 3 columns],                      user_id             business_id  review_stars
+0     5g5BjhARiZ4zw0SthMH0OQ  -050d_XIor1NpCuWkbIVaQ             4
+1     wc4XAA5pC3b1UgooSypHwA  -3AVh1GtLRc-HOwORLuzaQ             4
+2     uOhTm-DrdulccQqDh1E8aw  -6tvduBzjLI1ISfs3F_qTg             5
+3     f_w1SN6Reikni4i4vd6KCg  -888fFkw3R5YxjPJFdYeGg             5
+4     ikB9zqRRwQGlY10uSlZ56g  -9u2uFwhlj3Yq4mG5IweoA             3
+...                      ...                     ...           ...
+1998  HyN7IPQb_4WR_pn7UmhTBg  zra20XPGVL9P3i5hMoKjig             3
+1999  d3EqggaHzuON2t7k1Z30Fg  zs-T0uqKSHhYWSEok6oouw             2
+2000  M3YpU8fRyTZAQIn08bDT4g  zvB0Vzhomsodw_iQ7FHY1Q             3
+2001  cowrs1tug_s6VZfoMkChIg  zw4Legbcu018p5WcZ74iWA             5
+2002  ZD76B53WiEdv3g2lNgTbNg  zwkif4XLEDqdEwEgTWLIVQ             4
+
+[2003 rows x 3 columns],                      user_id             business_id  review_stars
+0     jrqE4Jx-boDAxj4X7CLStQ  --g-a85VwrdZJNf0R95GcQ             4
+1     ExI15M-oXjHcF42-G1xv9w  -050d_XIor1NpCuWkbIVaQ             4
+2     JAIC-ZoDmAF4e52y3Tzvng  -1xuC540Nycht_iWFeJ-dw             5
+3     J77nvoepKNnqTI7fsPAZ9g  -76didnxGiiMO80BjSpYsQ             3
+4     fgkJ6KUlrmbKyLDQervxsw  -7y-3PmmypUER2InhiU8Vw             4
+...                      ...                     ...           ...
+1985  PlLv3Sfm-edNu3l_1z43IA  zuVvDYJkKAbXQTTBauAqJQ             2
+1986  cd3cX2rCa_vjgvXBtSTT6w  zxsktAMsVBKj2PvvCV11UQ             4
+1987  KAkd4Wkwo846cbUxsyPgkw  zyRhwC9zs34LeYYfGc4gBA             4
+1988  a88BOJocdc5e6jgsikdsow  zyw5DjrRks7a8OhmBsgCQQ             4
+1989  R9Bm86DXed10xMvhJrcDdQ  zzzaIBwimxVej4tY6qFOUQ             1
+
+[1990 rows x 3 columns],                      user_id             business_id  review_stars
+0     yeeTZiNtPyd54rOXLOJXdg  -0RkJ_uIduNLWQrphbADRw             5
+1     2-XLTj0Cfd81_XlmHo02Aw  -8QlV3b_9H4BAh6LgMIr1g             5
+2     ZLfpnktkcj2nWusAznQiPA  -8hAGEWRSKtpLZ8e3L2xhA             5
+3     nOf0ZPhTen0ET8-y1CYgqg  -9nai28tnoylwViuJVrYEQ             5
+4     cafRiSVWRXlxDEK2YNrJ6g  -AD5PiuJHgdUcAK-Vxao2A             4
+...                      ...                     ...           ...
+1970  CYMUz5KDEGI3Faqaz0skBw  zs710LuQ8y10YsQHIjxjyw             3
+1971  XzcfH6aS6W80XlSQSTKpIg  zuwba6QEBIDZT0tJZmNhdQ             3
+1972  1qi90bVKe0kMMsLm5L4gHQ  zx1iW-K5dR1pI9PPs4UHwQ             5
+1973  4TlDa9pRYVOzH_toFuIj7Q  zx_j6OuuHHa2afVoAZuLpA             5
+1974  cJ-ujlCWP0i1UZXSH7F3gg  zzSYBWuv_fXGtSgsO-6_1g             4
+
+[1975 rows x 3 columns],                      user_id             business_id  review_stars
+0     TzU30D-CjtPP3XumggK0Mg  --1UhMGODdWsrMastO9DZw             4
+1     5lOtqU-BVcGdangJNy9kXw  --FBCX-N37CMYDfs790Bnw             4
+2     CjHWRUKXhhley9N9NLS07Q  --cZ6Hhc9F7VkKXxHMVZSQ             5
+3     CjHWRUKXhhley9N9NLS07Q  --cZ6Hhc9F7VkKXxHMVZSQ             5
+4     H0Vpod3MzV_Z4FOggWMIvQ  -2C96suwzrE_cqI1U69cLA             5
+...                      ...                     ...           ...
+1974  PKEzKWv_FktMm2mGPjwd0Q  zjvnqTjBp56NhMp1GrlO5g             4
+1975  lbomijqM_BT-6mtBaFyGWw  zjvnqTjBp56NhMp1GrlO5g             5
+1976  J1w_rl49WOD2wVex2uoWYQ  zqNgwQjj0_XAll-neGikIw             3
+1977  j5xtbqfOYZbLFd2p8EGi5A  ztWgEejYskwqm8T40hN1Xg             2
+1978  is5vAvanYvmF-28i9no2LQ  zwFScgZRXOsWnucfwyn8pw             3
+
+[1979 rows x 3 columns],                      user_id             business_id  review_stars
+0     5JIRtOLYy5ZFSCwGbB3VFA  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     51munej7rdZuB7KfPofhaA  -1HW4ALuB331RgjwHOA0Nw             1
+2     N5e0VC3Llvtjh_PSWZHBiQ  -95mbLJsa0CxXhpaNL4LvA             4
+3     beE85_tLWb4BRP7R7ldQ0Q  -9eNGMp8XiygI8t8QFuFWw             4
+4     fCWEsW3lhZk2RQ0zPrqvsw  -Bdw-5H5C4AYSMGnAvmnzw             4
+...                      ...                     ...           ...
+2050  rDwbpyG1J7o4Jt5WEy1Ceg  zuwba6QEBIDZT0tJZmNhdQ             1
+2051  h8yn-q-yMwcB9o9YpNqmxg  zv92BYJH09YjFQOtSyYp-A             2
+2052  IYruh5MahK-KBVgeoSsReQ  zwNLJ2VglfEvGu7DDZjJ4g             2
+2053  4Hqi1P0Y4AD0wzIQr6xtiw  zx_j6OuuHHa2afVoAZuLpA             4
+2054  sB9W6Tbr1A-ERfUXwJxirQ  zzsOLFhgUw8gnjLTVVItFA             4
+
+[2055 rows x 3 columns],                      user_id             business_id  review_stars
+0     tMRpZNONdo0CAzjZCPMdTQ  --cZ6Hhc9F7VkKXxHMVZSQ             5
+1     P2sQVHyHmy4WA0I7NI5hWg  -050d_XIor1NpCuWkbIVaQ             3
+2     SlgpAnj2gQd44EM_Uq6DkQ  -2pmn-oTJeybmDrL-ojwrw             5
+3     Vwhs9b2Cs-QbD-cli2YCCA  -8QlV3b_9H4BAh6LgMIr1g             4
+4     FmtnXwc_eyvpIv1Q1-bVCQ  -95mbLJsa0CxXhpaNL4LvA             5
+...                      ...                     ...           ...
+1987  mxwMqra7TEZ6K4ML3DgPmA  zpoZ6WyQUYff18-z4ZU1mA             4
+1988  kYOIQytRkkjJe4W8XMgCiA  zqNgwQjj0_XAll-neGikIw             4
+1989  EgUGBGTJUvFJgHyFwgpD1w  zv89ihIoUTzHo1eTAAwgvA             5
+1990  dvwFC5u09dbG_16AeNKBmQ  zzSYBWuv_fXGtSgsO-6_1g             3
+1991  dvwFC5u09dbG_16AeNKBmQ  zzSYBWuv_fXGtSgsO-6_1g             4
+
+[1992 rows x 3 columns],                      user_id             business_id  review_stars
+0     EUyKk8kEs9-aJuc8nmm9MQ  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     Ae6FP-TugnU03AP6PyLyNg  --FBCX-N37CMYDfs790Bnw             5
+2     -Anyb0vB5LrW273whytNRw  --cZ6Hhc9F7VkKXxHMVZSQ             4
+3     RuV3cTAii5xLFiVfszZI-g  -050d_XIor1NpCuWkbIVaQ             4
+4     4xyYBC5MIe-GfDj6kAdAFw  -0DET7VdEQOJVJ_v6klEug             3
+...                      ...                     ...           ...
+2033  VTeSCCvTtUM1eGOzmD4NRw  zjwdU1OdlbKTGjm-IfD4TQ             5
+2034  pae5DbzPtBfFQlceFwo1QQ  zmJp4ocFlteqlLVvTYieDQ             2
+2035  Yqzz7VfXMPWlDXB2W_TwBA  zoOxUVpuoar5_9KU61CLFw             2
+2036  EHvPZx_EY_s4r_5K6fL6tg  zsQk990PubOHjr1YcLkQFw             5
+2037  IdG5UNJmypzWeG-N-hKVLw  ztcdHj6EpUD7EemcntSsrg             1
+
+[2038 rows x 3 columns],                      user_id             business_id  review_stars
+0     fgkJ6KUlrmbKyLDQervxsw  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     PGh1RQ55_lLi4A7LNZtMHg  -A9sm-E6uQxWTJ_MuyOzFw             3
+2     9LUjipZxdqAVkGR5jg1AWQ  -ADtl9bLp8wNqYX1k3KuxA             3
+3     v4fT6mIxgjho_CLR2wiXvg  -Dnh48f029YNugtMKkkI-Q             4
+4     6jz_Yr6_AP2WWLbj9gGDpA  -F5mm0-YeCI7viSiOwVAAw             4
+...                      ...                     ...           ...
+2067  RrLRd9M2Q6iYCNnKMZsdtw  znu3EN7tDFIXmiTwKvX1Ow             3
+2068  mFwRTTDW0Yr-rFkTF2cFsw  znu3EN7tDFIXmiTwKvX1Ow             4
+2069  AKnab13L2ar5aXclvvredA  zrTGcb83AsfyVTMrsCa65A             3
+2070  8W8LDl9XHwpNE4Izsx3TpQ  zw4Legbcu018p5WcZ74iWA             3
+2071  tzvX9BsaUxmSckIwB7L3yA  zw4Legbcu018p5WcZ74iWA             5
+
+[2072 rows x 3 columns],                      user_id             business_id  review_stars
+0     YHrD0X9TFwk5-tcxnyj_bw  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     SsJWF2sydv8WI0zHy8IgJw  --cZ6Hhc9F7VkKXxHMVZSQ             2
+2     IAhSc_6mKxOCAUJVxDYeKg  -4uT6QFVaRtc2Zmxvtd9Vg             4
+3     r_fMsMmdPW1uKxOSOxDjbw  -6tvduBzjLI1ISfs3F_qTg             4
+4     63lZ3an8YiKOncMmy4VY3w  -7H-oXvCxJzuT42ky6Db0g             3
+...                      ...                     ...           ...
+2003  P0wciBuspuuqNxWaNqcoAA  ztP466jMUMtqLwwHqXbk9w             4
+2004  Ya_0K84r7ZNV0FFP14F-QA  zuTA5DZ3FQL33hstBJktNQ             3
+2005  4ULkSSMp3-JH8HegrlfgzQ  zvO-PJCpNk4fgAVUnExYAA             4
+2006  7U1gD0i_7zcdt3Sm857tEA  zwNC-Ow4eIMan2__bS9-rg             5
+2007  Jet9tgRPlTXldIZq0_7fuQ  zyw5DjrRks7a8OhmBsgCQQ             3
+
+[2008 rows x 3 columns],                      user_id             business_id  review_stars
+0     b3DYIU3TFc4gy9H_50_hUA  -4TMQnQJW1yd6NqGRDvAeA             4
+1     9djH4FrXXbuv0ogIqNsWgA  -5XuRAfrjEiMN77J4gMQZQ             4
+2     CyAl5D-GjX-ZtqdQqG4_ew  -9nai28tnoylwViuJVrYEQ             3
+3     ExI15M-oXjHcF42-G1xv9w  -A9sm-E6uQxWTJ_MuyOzFw             2
+4     jyz8-hAPGRjurBVp9DST9A  -A9sm-E6uQxWTJ_MuyOzFw             3
+...                      ...                     ...           ...
+2012  M0mONsg1ZJIKA30ad1qE1w  zlpLjbwrKuNs8zROgB_qUQ             4
+2013  HJj82f-csBI7jjgenwqhvw  zmzQOkVe-fm0bYiYe3LTsQ             3
+2014  fQGcWW4VCmAYGnmgLOSBDg  zpC-0J9p7V26ZZAVses64A             5
+2015  Ekw7wuUTX36BtcPP6XnA-Q  zpGCFAt_MydbQN4EsXee6w             4
+2016  qntY0ozRmYOzaIaDDyc_6Q  zu8Wj0gkbdnia7Dt4grMkQ             4
+
+[2017 rows x 3 columns],                      user_id             business_id  review_stars
+0     U3hz-BV-i4IszzXBpj1rlA  -01XupAWZEXbdNbxNg5mEg             5
+1     QYC3HlU2lVeocJSU_UP73A  -1xuC540Nycht_iWFeJ-dw             4
+2     Lm98gts_yO0eeVYnwYny3g  -49WY_TEa9ZEcRk_GnuLog             5
+3     D2ljL5ejuqpa4f8fnZ1qjw  -Dnh48f029YNugtMKkkI-Q             4
+4     VBiSJXrtqHTTwrGQuTeigQ  -GQzMguGfB4jswo8jAO7CQ             5
+...                      ...                     ...           ...
+1958  74s3USMNynU22ht9-tWOuw  zo_z6lMRcwHqQF_Z1VZLpg             3
+1959  HEvyblFw4I-UsMqgPGYY_Q  zomc4vlPucjG4lD1fglOkw             5
+1960  T-NcwTfUt6tq-iOSm5J2sw  ztP466jMUMtqLwwHqXbk9w             4
+1961  ozbdt59SoRZSXDw7Lsc7Ag  zwNC-Ow4eIMan2__bS9-rg             2
+1962  BpbQjQELSc1uePGQcsnJAA  zwNLJ2VglfEvGu7DDZjJ4g             1
+
+[1963 rows x 3 columns],                      user_id             business_id  review_stars
+0     qLMT6tS074Opsaz4qkbjVg  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     qLMT6tS074Opsaz4qkbjVg  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     qLMT6tS074Opsaz4qkbjVg  --9e1ONYQuAa-CB_Rrw7Tw             5
+3     0ybr2fm7SnO8p_xf-xrmqA  -1VaIJza42Hjev6ukacCNg             2
+4     ZGiwU16rhGvWAYUzkWL0xw  -1xuC540Nycht_iWFeJ-dw             4
+...                      ...                     ...           ...
+1968  CcKiT1zOIrClWeWIldkyVA  zqNgwQjj0_XAll-neGikIw             5
+1969  emSKdnAA0BuDVNfIVOP-vg  zqNgwQjj0_XAll-neGikIw             4
+1970  YrKpGphRP2_jDbRW2sCyPQ  zr93wrNyXzc-HW4IcK4iRQ             2
+1971  4ba1IRpCkNOV1y0u2w0khg  zrDi4gEaUi64lAMfJU51dw             5
+1972  iFGUVhypIzWNZfNeLH7itg  zzSYBWuv_fXGtSgsO-6_1g             4
+
+[1973 rows x 3 columns],                      user_id             business_id  review_stars
+0     fuUmrxv-SzxXQ5ilT03V1A  -050d_XIor1NpCuWkbIVaQ             4
+1     P3B7FfBpXERa-KdxwIGkHA  -4TMQnQJW1yd6NqGRDvAeA             5
+2     rUW7_B9pBNdDR3Y2bBz9TQ  -AD5PiuJHgdUcAK-Vxao2A             5
+3     0A5Bjqb3dLj6NfsBHzDuXA  -FtngCwHCD2tRlH8jpj_Ag             4
+4     y-XxUFQR_0WfAHaWdPDt2w  -GHqz1jGYzAtn27CeHeWeA             4
+...                      ...                     ...           ...
+1924  vH8UjE__eQzUUdDRu0fUMw  zdcesxBdjljRgS0QmCgkBg             5
+1925  jnB_saJqNfOmVoCWquhAzg  zl4T9WtZi0TiIo2RFvc4Zw             3
+1926  qtnz9vqMX5NhvAi4OUkR4A  zpoZ6WyQUYff18-z4ZU1mA             5
+1927  iT0lKL00EWx0MX9FvUwyZA  zqF_OvUWK9mGHKouArn4EQ             4
+1928  iL3YaRr3jgy8RjwWwZ6SJg  zrYpLdnGKA_EmOhgRCy_vg             2
+
+[1929 rows x 3 columns],                      user_id             business_id  review_stars
+0     _MjgqPR1pvDnZZ6wCwabBQ  --I7YYLada0tSLkORTHb5Q             2
+1     fPxE0VgahKU0Xh6YQt2-Kw  --cZ6Hhc9F7VkKXxHMVZSQ             4
+2     KmHtoogKhK-ID7FWGOPvag  -0NhdsDJsdarxyDPR523ZQ             1
+3     iOHdpvxNuMwJaer8lZUW9g  -7H-oXvCxJzuT42ky6Db0g             3
+4     v1L-ehinZ9ZXhwmdm4S_Lw  -8F04F54iDT6VgWPCgybug             3
+...                      ...                     ...           ...
+2021  i7dva-DqwjyAtLVc2idhNA  zw4Legbcu018p5WcZ74iWA             5
+2022  my7xZKg5HKSattJvrW2DhQ  zwNLJ2VglfEvGu7DDZjJ4g             1
+2023  -hKniZN2OdshWLHYuj21jQ  zxJlg4XCHNoFy78WZPv89w             4
+2024  zMSapb9VmGKJFNRJUGJSqg  zxVw9U56heInhfyprhkxIg             4
+2025  JojRk591y3O3BJ-Bkm-jSw  zyRhwC9zs34LeYYfGc4gBA             1
+
+[2026 rows x 3 columns],                      user_id             business_id  review_stars
+0     WmNu93AX9JSTPYQ1VsrzuA  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     2m2MNnlOdofofmUs-hYTJQ  --cZ6Hhc9F7VkKXxHMVZSQ             4
+2     o-IP9-MSTsJpI48JnkNqIA  --cZ6Hhc9F7VkKXxHMVZSQ             3
+3     cqgjW23FJyu5kFlRDN1CpQ  -1xuC540Nycht_iWFeJ-dw             5
+4     rGm8NKrjhoqKRx5eJc_3qA  -6tvduBzjLI1ISfs3F_qTg             4
+...                      ...                     ...           ...
+2012  KGsXnYHvYddGaL_jyl0DMQ  zq68Tu0QywNU7Si_SQMi7w             5
+2013  ylbloQXL-rW5AJQVBxt2Lg  zr93wrNyXzc-HW4IcK4iRQ             5
+2014  gPHX5p9zqiaks3LNSM0foQ  ztP466jMUMtqLwwHqXbk9w             5
+2015  esPXtAl00zgU4ORJpx2SaA  zuwba6QEBIDZT0tJZmNhdQ             4
+2016  swx0FJkZWb6nVP58ZsMl7w  zw4Legbcu018p5WcZ74iWA             2
+
+[2017 rows x 3 columns],                      user_id             business_id  review_stars
+0     eRcljcl6KHHB0CIeuzPJJA  -06-Fdi30wJx-JA8P7CAng             5
+1     C7INYd1zqvS2LQLpYYv67Q  -1UMR00eXtwaeh59pEiDjA             4
+2     _wzNjdsIr9gRvlVjLK3d1A  -2WW_cjFa9-UwKSmbEs78Q             4
+3     SRUM8Gf5UZBWRTdCjucQ8A  -9NsB0DPOp1fG5FvE3iAcg             3
+4     2y5a10t4vwfKkWx1Fs-UkQ  -AtzcXIwEP6yO7rM9CM9ww             5
+...                      ...                     ...           ...
+2040  Kp5KHBSmV-Htc9NeSjJfPA  zmltWmTpoBt5sCU-5Kzj-Q             3
+2041  CZ4tdIXmiiMQHQ62lesnKw  zpoZ6WyQUYff18-z4ZU1mA             5
+2042  qmRbBM0rXhCc85lEGYdPvg  ztQH2Q99E3D-iSdfImqjcQ             5
+2043  oQcZyhHFmzuTM75EoUWKtg  zwNC-Ow4eIMan2__bS9-rg             5
+2044  17a3-hvYn3DE8m0Ws9DQ7Q  zzSYBWuv_fXGtSgsO-6_1g             4
+
+[2045 rows x 3 columns],                      user_id             business_id  review_stars
+0     YOChRzTztTL_KooP9wEtSQ  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     r6SgLKw6Yt17DQf30EkCgg  -0tgMGl7D9B10YjSN2ujLA             4
+2     sypgZPcMJe35iT-A7KzHgw  -1m9o3vGRA8IBPNvNqKLmA             1
+3     IXSTfBSe56Z0RvYg4Cfn2w  -6tvduBzjLI1ISfs3F_qTg             4
+4     QkEO69PirvntKGMY4rC8Dw  -7H-oXvCxJzuT42ky6Db0g             2
+...                      ...                     ...           ...
+1983  h1UcaSPIPpQqMiWf12Csqw  zpw5S3QwUse1MH-Eerbnaw             3
+1984  HCVvUpb7aU61pC7vYrZQaw  zrTGcb83AsfyVTMrsCa65A             2
+1985  EiMaydGgNzj82ef8Hzb1kQ  zsl5aN9J7gTu_s3UVVJ8aQ             2
+1986  PqpLCIytJhnLE_xOKQs1Dg  zwNC-Ow4eIMan2__bS9-rg             5
+1987  J1w_rl49WOD2wVex2uoWYQ  zyPGYeXF4XKCqNN1pjFWhg             5
+
+[1988 rows x 3 columns],                      user_id             business_id  review_stars
+0     NB9Rk4RtPW7errWjINvTJQ  -0CTrPQNiSyClxhdO4HSDQ             1
+1     B3_aw0o0ncQfRgPNMEVBtA  -0WegMt6Cy966qlDKhu6jA             1
+2     KQMzfaaI9jfo68S4CsCifA  -1VaIJza42Hjev6ukacCNg             3
+3     JzP5uJjhZb0Vj8J_bn3mOg  -1xuC540Nycht_iWFeJ-dw             5
+4     i1erqSCaenXvzeaswerWoQ  -7PX_FOoCwktlunImRyZdg             4
+...                      ...                     ...           ...
+1955  D6SEKcIne80A0AhwiEV2Rg  zuVvDYJkKAbXQTTBauAqJQ             4
+1956  wxQCLMnuVYbdtmQCc2ryZg  zwNC-Ow4eIMan2__bS9-rg             4
+1957  JNdxRns-vxxHqG3Q8EY_FQ  zwmps5SXn30g-f5wqg_r9A             4
+1958  U-V5RoVZ9jJzz4nO4Uoi6A  zz2AP9CHRvSZbpLey10UeQ             4
+1959  AKqMnr1bEFIZDG_zQzX8sA  zzBa0pQjM1gov00bXjYYXg             4
+
+[1960 rows x 3 columns],                      user_id             business_id  review_stars
+0     ZnIaEvJwrxlBUjimIpx2Qw  --cjBEbXMI2obtaRHNSFrA             4
+1     fzxwe76njDWbF0ZiJoP5Lw  -4TVAE4KcLWVSXO2rOsVEg             4
+2     pAkqFPcaNj8Zqh4hDYJe8g  -6tvduBzjLI1ISfs3F_qTg             4
+3     sWeg9ffWlhbxgaGBuPqgCw  -6tvduBzjLI1ISfs3F_qTg             5
+4     xEajChTkzWIYTMLkYNoIIw  -8jeDY-TJ_e6w7h0c--A-w             4
+...                      ...                     ...           ...
+1962  QPREECpJrp8Dj3_TK22oqg  zpoZ6WyQUYff18-z4ZU1mA             5
+1963  e0lV0WyRCYbYs9k6chh8YA  zrTGcb83AsfyVTMrsCa65A             3
+1964  q8UfnNs9NsbcT8uLoBwbjQ  zrTGcb83AsfyVTMrsCa65A             4
+1965  Nz9sp1dMdhilRacU4shXrw  ztP466jMUMtqLwwHqXbk9w             2
+1966  asItVgPyD9584jKDkVoR1Q  ztP466jMUMtqLwwHqXbk9w             4
+
+[1967 rows x 3 columns],                      user_id             business_id  review_stars
+0     9FyBOjMNADDIWtGbWZPMQg  --9e1ONYQuAa-CB_Rrw7Tw             3
+1     ZjHDoLXzLcj023N1a7WTww  --GM_ORV2cYS-h38DSaCLw             4
+2     lHqA_D7nAK9xw_Xg08dM_w  -050d_XIor1NpCuWkbIVaQ             5
+3     ZDdIEjm2DArpdmw3L-OfTw  -1VaIJza42Hjev6ukacCNg             5
+4     8p2nss7UoZmIVZTr1IjR3w  -1vulUmD1pYf0uvXBY1Fzg             3
+...                      ...                     ...           ...
+1997  5RLxzxLIY3ZXUUksr_dtXA  zomc4vlPucjG4lD1fglOkw             3
+1998  5RLxzxLIY3ZXUUksr_dtXA  zomc4vlPucjG4lD1fglOkw             3
+1999  pou3BbKsIozfH50rxmnMew  zr93wrNyXzc-HW4IcK4iRQ             4
+2000  L34lPkeMweCg27qcIIr39g  zvB0Vzhomsodw_iQ7FHY1Q             5
+2001  HnZ9SrrAMsq43A6N6UTXbw  zwmps5SXn30g-f5wqg_r9A             5
+
+[2002 rows x 3 columns],                      user_id             business_id  review_stars
+0     ENZQ0rzyFPNyEQwF5p4Yzg  -0NrB58jqKqJfuUCDupcsw             4
+1     0tC5OOTuwvPGnnqhPCoRSw  -1vulUmD1pYf0uvXBY1Fzg             5
+2     0tC5OOTuwvPGnnqhPCoRSw  -1vulUmD1pYf0uvXBY1Fzg             5
+3     Alt6xCBeMBYDTz1Pw_ycbg  -2WW_cjFa9-UwKSmbEs78Q             5
+4     OXDIm9gqgtedByYC_D7Vig  -2hOglg7Lh8ZgclQJ9ba2w             2
+...                      ...                     ...           ...
+2035  BeWDEj2Lj9L31HtFfZGn1w  zsQk990PubOHjr1YcLkQFw             4
+2036  ssgRnGGXxigWTEXM-n92lg  ztIaKXWOuWcRf7GJo9-fWQ             5
+2037  W5NduvWX04nIazbmgBtpEw  zw9_mqWBn1QCfZg88w0Exg             5
+2038  -9b4s874f_CnznTu4JorRg  zwkif4XLEDqdEwEgTWLIVQ             4
+2039  eeBt7Uo5FOXwvaLIeW3fGA  zz3CqZhNx2rQ_Yp6zHze-A             2
+
+[2040 rows x 3 columns],                      user_id             business_id  review_stars
+0     jdjIEOJjNcy5CUuM2r-Zug  -092wE7j5HZOogMLAh40zA             1
+1     xikFf70wmLbwT2OJuFY6eQ  -8iwcXhLnyqbLgvcrJGgaw             4
+2     2nuBb1T_cnuqOZINU8PpwQ  -CfFjcCcGGDM9MVH_d42RQ             5
+3     bV6PvsDHr6SZiYs22Zoo1A  -DcE_4T0_iRKGLARmjsjUw             4
+4     if9_GXxL7rrwW1e81lSxyg  -Du1WSRseqUXbCt_K-D-ww             4
+...                      ...                     ...           ...
+2063  ccP6MDVeqt5osB4XALISFw  zp-K5s3pGTWuuaVBWo6WZA             4
+2064  yrPClyhG74dr7Az2IVbceQ  zpb897iCR2pII5sDNf24bQ             4
+2065  jyz8-hAPGRjurBVp9DST9A  zphdECSP076V5-43O0aGvg             3
+2066  lEWhAqMQHGZtWjniO4hxIA  zrYpLdnGKA_EmOhgRCy_vg             5
+2067  JE172d_07wvGV7eWpNlB0w  zwNLJ2VglfEvGu7DDZjJ4g             3
+
+[2068 rows x 3 columns],                      user_id             business_id  review_stars
+0     GVVLehzorjDfrtdzpotfxg  --cZ6Hhc9F7VkKXxHMVZSQ             5
+1     qMOzVptc8JB4cDQ8qfK5Mw  -5NXoZeGBdx3Bdk70tuyCw             3
+2     933NaWG9W6Z-1pXMFPKOoQ  -7EwIdxcRC5McO35DVfeSQ             4
+3     SlArl9rTDeqDP5gvBKM7nA  -8O8sVCnaIKHP-596zN9UA             5
+4     XLGgliAown151yxQxAOOWw  -Dnh48f029YNugtMKkkI-Q             5
+...                      ...                     ...           ...
+2040  OvQtTXbpzJFGhbjNqWjGOA  zXJilaBN28oUdX7Owf0fRA             5
+2041  pspJkQgUOap1OjTZVMbdsQ  zZ7KDK3GAkBUZzsaqB1A4Q             3
+2042  r6PbQjtij6gcalYWBBrILg  zgDK2Vi3RHOZEHCG1YBAnA             4
+2043  906j703LaRk9P5eywD_xcw  zoJZ_LgSBq3YznjrzXkG3Q             4
+2044  NGLufCod1pP760aBucp3tw  zw4Legbcu018p5WcZ74iWA             4
+
+[2045 rows x 3 columns],                      user_id             business_id  review_stars
+0     IpI4NsEHYeAPLTRLppcHNQ  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     DNlzbI54zCOa4to-vTWBJQ  -0NhdsDJsdarxyDPR523ZQ             3
+2     yLlr33IfusaSsMd-LqPxaw  -6h3K1hj0d4DRcZNUtHDuw             4
+3     gZUVSBm-BWntWeQTYH04UQ  -8QlV3b_9H4BAh6LgMIr1g             3
+4     5o_DqiEfbkRVN_btwDH33g  -ADtl9bLp8wNqYX1k3KuxA             5
+...                      ...                     ...           ...
+1945  WL_U3MBUfTkeHL9lYxoleg  zqoOlnAkumIi1A0HiqEqgg             5
+1946  KBoIRjxSW7OWczv8OS9Bew  zr2wA55AskfBJxrvUeDZRA             5
+1947  aATG_blb1GnInoEONEoQyw  zrTGcb83AsfyVTMrsCa65A             5
+1948  owkgnjSJgaNCapcOWO3xug  zwNC-Ow4eIMan2__bS9-rg             5
+1949  4m9NXICYBC5i9t4aTt-I6w  zzBa0pQjM1gov00bXjYYXg             3
+
+[1950 rows x 3 columns],                      user_id             business_id  review_stars
+0     d9GraD1OjVyTEd1zPjp7Yg  -0RkJ_uIduNLWQrphbADRw             5
+1     KNRwbAKYzHXjaWGQJc_pTg  -1xuC540Nycht_iWFeJ-dw             3
+2     SJ2Vwjnn772f0bBJrLtTJA  -4w2eZqQJcS-UNuB1lCPFA             3
+3     eB0g1fEiJh-osDKTyPiCdA  -6h3K1hj0d4DRcZNUtHDuw             4
+4     EWkQxKg-KOzujC38Z_40wg  -7H-oXvCxJzuT42ky6Db0g             1
+...                      ...                     ...           ...
+1940  _LoEKtIXFRRHSsnXf8EK2Q  zbrFk-4ejesAJD8EwcdHxg             4
+1941  2dcRdQ3brGjwi7UKBIwQ_w  zfQ855VX3SMA_54oVSN5Cw             4
+1942  aZaUKINltDp76FXX2A4M2w  zgQHtqX0gqMw1nlBZl2VnQ             3
+1943  uy04JGFYMkEjNCZ2gIBqWw  zlpLjbwrKuNs8zROgB_qUQ             1
+1944  swZF2dFS_rW49tnpQ0G1yg  zqNgwQjj0_XAll-neGikIw             5
+
+[1945 rows x 3 columns],                      user_id             business_id  review_stars
+0     0ZgeyfSnVH3fEMBoSiAl6g  -2pmn-oTJeybmDrL-ojwrw             5
+1     e3zojPmUy-2vW48PWn7Fpw  -2uYjztVuVZpkTNAC38zdg             3
+2     e3zojPmUy-2vW48PWn7Fpw  -2uYjztVuVZpkTNAC38zdg             3
+3     KmcW2dPmf7yuQYmGEU11Pg  -7EwIdxcRC5McO35DVfeSQ             4
+4     ZGiwU16rhGvWAYUzkWL0xw  -HsqnPAz374YSoyFDyjl3A             4
+...                      ...                     ...           ...
+1909  CYU5Ep9gvcOG8I4zPFr_Fg  zrcs31Gt6HuWX_RCWW-mCQ             5
+1910  CYU5Ep9gvcOG8I4zPFr_Fg  zrcs31Gt6HuWX_RCWW-mCQ             5
+1911  9hBGfpru1ytlpHrUpzCi2w  zsQk990PubOHjr1YcLkQFw             3
+1912  hVvC-vge3T7l3f3BTc71Mw  zvezLicNkf8tTqZyYhP83w             4
+1913  wxQCLMnuVYbdtmQCc2ryZg  zx_j6OuuHHa2afVoAZuLpA             5
+
+[1914 rows x 3 columns],                      user_id             business_id  review_stars
+0     N2J-ZvVGwltrbWhOpT48RA  --FBCX-N37CMYDfs790Bnw             5
+1     9jivURdGBHoUBpy4_kR_gw  -6tvduBzjLI1ISfs3F_qTg             5
+2     9jivURdGBHoUBpy4_kR_gw  -6tvduBzjLI1ISfs3F_qTg             5
+3     m0Y9cnGMwIuqxQq92Z0YCQ  -8JaNeG3etLgOVyg2gOIiA             3
+4     UGnUriMZaAzzyu5KT8viKg  -As1YcTVebShW012Q2XGDw             3
+...                      ...                     ...           ...
+2044  D6SEKcIne80A0AhwiEV2Rg  zfOum9_rEhaLAqoAV3nYaQ             5
+2045  hSoKKWrNdyRJdNE3--fY9g  zfyGTLKOZuVY8aRoInyx9Q             5
+2046  I2OXWsGgBpmSAgeU43nuDQ  zi_qqjCzkerE2dT-ViE2JA             3
+2047  5qIwy91T9rAQj3_2O4cn5g  zrISVOWSwUkbEtWKAx04Hw             5
+2048  J_j93xPGZLRb7iBbH-tUYA  zrTGcb83AsfyVTMrsCa65A             3
+
+[2049 rows x 3 columns],                      user_id             business_id  review_stars
+0     XbiKsujS_qxU3xsr0xUqmQ  --SrzpvFLwP_YFwB_Cetow             4
+1     o5hk57cqhWnV1sULPvq1jw  -0NhdsDJsdarxyDPR523ZQ             4
+2     8ux3_ctk4efB8kJNMVZvlw  -4TMQnQJW1yd6NqGRDvAeA             5
+3     -4ACMMLuk6uhtXsBfYFaPQ  -7EwIdxcRC5McO35DVfeSQ             4
+4     S6gAeiubzQ7FJOdMvipsog  -8O8sVCnaIKHP-596zN9UA             4
+...                      ...                     ...           ...
+1995  6cW8GuKZyFjpg29djEJoPg  zjFKwcCpwGbHMFtvXgbsCw             1
+1996  2Od6rQYNvPUXQC2Go7vIqg  zjZbVmI5FGQflHL6rRMxoA             3
+1997  FVgnaEzERhEAMv_eGAXGqQ  zmltWmTpoBt5sCU-5Kzj-Q             2
+1998  ol41034oA4J6R-IpokhxIw  zutT311xSgH_Gbdza_jc1w             4
+1999  5uiCy0vSIknuDEHc7yHRkw  zwNLJ2VglfEvGu7DDZjJ4g             3
+
+[2000 rows x 3 columns],                      user_id             business_id  review_stars
+0     Y7E3vmhRD_jZ-xb3Sg2eSg  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     bdXsGvf3k-GFGETQSa68ng  -6h3K1hj0d4DRcZNUtHDuw             4
+2     4m9NXICYBC5i9t4aTt-I6w  -7PX_FOoCwktlunImRyZdg             4
+3     Oal5c9YXcqgbsvh7PkUqFg  -BmqghX1sv7sgsxOIS2yAg             4
+4     LkJSvJy7KaxVBPpWBFJe6g  -F5mm0-YeCI7viSiOwVAAw             5
+...                      ...                     ...           ...
+1952  C8CBOjO7s32dCW0DRmiL9Q  zr93wrNyXzc-HW4IcK4iRQ             4
+1953  CoCkuPtRB3cYZaHlAI-Vbg  zrDi4gEaUi64lAMfJU51dw             4
+1954  Rv8cduGW_BTlv7Ryz5JmGw  zrDi4gEaUi64lAMfJU51dw             3
+1955  sbrrFyYuGEGDO3VG6tomiA  zs710LuQ8y10YsQHIjxjyw             4
+1956  TNzy-3SuaBQIxzKhrBKVeQ  zwNLJ2VglfEvGu7DDZjJ4g             5
+
+[1957 rows x 3 columns],                      user_id             business_id  review_stars
+0     EZja6KqFvKM_7CsJq6gNSg  -1UMR00eXtwaeh59pEiDjA             1
+1     u0rMrAa9kOj6c1WZ5hcpPw  -3zffZUHoY8bQjGfPSoBKQ             3
+2     H4EQn0rjFuGRgIm6c9NFLg  -49WY_TEa9ZEcRk_GnuLog             3
+3     SCo1UBoeN3bhRMkSYuiX1A  -6h3K1hj0d4DRcZNUtHDuw             4
+4     Y4PuxA3yRL-j02kDMhy1zQ  -7H-oXvCxJzuT42ky6Db0g             4
+...                      ...                     ...           ...
+2003  LJPQVPrW-VKtAeV-DZEBEw  zqNgwQjj0_XAll-neGikIw             3
+2004  SCo1UBoeN3bhRMkSYuiX1A  zqNgwQjj0_XAll-neGikIw             4
+2005  U2OPJc9c1q7VToeKeTZ-UA  zr2wA55AskfBJxrvUeDZRA             4
+2006  FKzC3UL8SmO1DmdIATFg8w  zrDi4gEaUi64lAMfJU51dw             2
+2007  6oBIwOjR277IHHFAO_aOjQ  zvB0Vzhomsodw_iQ7FHY1Q             5
+
+[2008 rows x 3 columns],                      user_id             business_id  review_stars
+0     dIIKEfOgo0KqUfGQvGikPg  -1UMR00eXtwaeh59pEiDjA             4
+1     Ga1ZxDI2UxMpDyLMb1nvZQ  -2FD5ANi-Hs6qEhYqsQLaQ             4
+2     YvzoOqfBProz9SveFwJYOw  -4-MzST67P_jnX4mh3MIcw             3
+3     7GVA958q4zs5Z8cdHauU5Q  -6h3K1hj0d4DRcZNUtHDuw             5
+4     7wE9-V_U8SFeigW5y86iIQ  -8iwcXhLnyqbLgvcrJGgaw             2
+...                      ...                     ...           ...
+1990  8OGWYYJYGl8pLn9N6cXjxA  zrYpLdnGKA_EmOhgRCy_vg             5
+1991  LP-8DbFrARGiEavU4BcI6Q  zvfwyIc8sYhnGJrt4B7Tsw             4
+1992  N9hqTPQu2bmI8c2Pj8F1ww  zxsktAMsVBKj2PvvCV11UQ             3
+1993  N9hqTPQu2bmI8c2Pj8F1ww  zxsktAMsVBKj2PvvCV11UQ             3
+1994  2nuBb1T_cnuqOZINU8PpwQ  zyPGYeXF4XKCqNN1pjFWhg             5
+
+[1995 rows x 3 columns],                      user_id             business_id  review_stars
+0     TjXqTqYOXAs8VKo_otj3lw  --I7YYLada0tSLkORTHb5Q             4
+1     hkGw3BvLBkRXUIU2iYhb8g  -1UMR00eXtwaeh59pEiDjA             2
+2     e6iCOIhtupBCiw-VwBvJ4A  -45kMvS7h38CGaWugPY0rg             4
+3     CBuI6Qc9YBNBqcP96wXs9g  -7EwIdxcRC5McO35DVfeSQ             1
+4     CZnuW6YeZg7ZIiTbmI58BQ  -96vDEvKLQy9QGuO4OSSgg             5
+...                      ...                     ...           ...
+1962  iHGsi2zgjGEm2zEQg8w0og  zpoZ6WyQUYff18-z4ZU1mA             1
+1963  u4JhbOgkqMa8on8UktsMNA  zrDi4gEaUi64lAMfJU51dw             5
+1964  SlgpAnj2gQd44EM_Uq6DkQ  zrEmWr6ue5yfxnKr4E2_jg             4
+1965  KBoIRjxSW7OWczv8OS9Bew  zwkif4XLEDqdEwEgTWLIVQ             4
+1966  iipaDtoA1zHFkbAF3Gn5Rg  zzSYBWuv_fXGtSgsO-6_1g             2
+
+[1967 rows x 3 columns],                      user_id             business_id  review_stars
+0     xk0khvVrlPgYUibfBYcaeg  -050d_XIor1NpCuWkbIVaQ             4
+1     OIVAJo8QryN-bJOjOvxkVQ  -0NrB58jqKqJfuUCDupcsw             4
+2     rsnoCyL7IrF_mVC4xAqfWw  -1xuC540Nycht_iWFeJ-dw             4
+3     XHOyuaYEhETRu6r9Bzbvvw  -2A9emZwBK8zYHPnAmM0hw             3
+4     P7RbcZN7EsdOB29gFsZCWg  -2Arz8twKJmxHMS3Sv-TeA             5
+...                      ...                     ...           ...
+2048  ZD76B53WiEdv3g2lNgTbNg  zw4Legbcu018p5WcZ74iWA             5
+2049  3VtCb0IY5Acx16NJLKLoIA  zwNLJ2VglfEvGu7DDZjJ4g             1
+2050  C1AUww2PFRRmbQK2IwqEMg  zyw5DjrRks7a8OhmBsgCQQ             3
+2051  Zw17POvq4lFh7hRPvQ016w  zzwaS0xn1MVEPEf0hNLjew             5
+2052  Zw17POvq4lFh7hRPvQ016w  zzwaS0xn1MVEPEf0hNLjew             4
+
+[2053 rows x 3 columns],                      user_id             business_id  review_stars
+0     1hAwrl-J8-ePwGsSC7RuJA  -1m9o3vGRA8IBPNvNqKLmA             5
+1     CesoHpuchA8-i4Df5XbbLg  -3oxnPPPU3YoxO9M1I2idg             5
+2     AknZ2JBSKYWbOKbf66AdjA  -6tvduBzjLI1ISfs3F_qTg             4
+3     boGT9Lh2LBHoJ9t2-PA45A  -7H-oXvCxJzuT42ky6Db0g             4
+4     zg6lm7DLKJArzFxLDILhwQ  -7H-oXvCxJzuT42ky6Db0g             3
+...                      ...                     ...           ...
+1965  7-WeMrvOxCH3oJfEWkC5rw  zez-0tpVibCFqqLp5XY0Bw             4
+1966  twkW_mL62zD8G9wMdsL6wQ  zo64LhhXwB8sB2j8S-0DMA             1
+1967  qJNulU74iMWmMqlGI7-GKg  zr42_UsWfaIF-rcp37OpwA             3
+1968  O6mRQdWG-zkClcLAY68Yvg  zuVvDYJkKAbXQTTBauAqJQ             5
+1969  N9hqTPQu2bmI8c2Pj8F1ww  zwg2PdDB6hac2mMjYkUhaQ             5
+
+[1970 rows x 3 columns],                      user_id             business_id  review_stars
+0     KGsXnYHvYddGaL_jyl0DMQ  -050d_XIor1NpCuWkbIVaQ             5
+1     KGsXnYHvYddGaL_jyl0DMQ  -050d_XIor1NpCuWkbIVaQ             5
+2     KGsXnYHvYddGaL_jyl0DMQ  -050d_XIor1NpCuWkbIVaQ             5
+3     ci_n4DYtnAdGNepRt0Zfqg  -050d_XIor1NpCuWkbIVaQ             5
+4     _4EXNRQG4wTZPCF2Jatw3Q  -092wE7j5HZOogMLAh40zA             1
+...                      ...                     ...           ...
+1973  qtlWX9brzb3YpMX37rNGxw  zfiSQ1dl3vTJ-og96eqXGA             4
+1974  p2qsU49DvbMrcG_nlejnuA  zmQyE-gIUpwBCMmTFFRbJw             3
+1975  d5oPmQDI8UfLnjsd9HJJCw  zoDilOV7nSQ3lXIhGOSbog             3
+1976  ubzfJiBOUjFLXs2NDKKtmw  zoDilOV7nSQ3lXIhGOSbog             5
+1977  -9b4s874f_CnznTu4JorRg  zsMMlOYtXm8SNy0bl1leBA             4
+
+[1978 rows x 3 columns],                      user_id             business_id  review_stars
+0     1hAwrl-J8-ePwGsSC7RuJA  --9e1ONYQuAa-CB_Rrw7Tw             4
+1     TTCzwn_6k1AwSuqAB8oLBA  --DaPTJW3-tB1vP-PfdTEg             4
+2     angEr2YcXmCl20s8WQu32w  --FBCX-N37CMYDfs790Bnw             3
+3     -sv8-a09Psq5CMzmg6E4OQ  -7H-oXvCxJzuT42ky6Db0g             3
+4     hWMGEj8fNmvY0nSiQUctyA  -8Oaw94x2pYJCVP8ZtuTTw             4
+...                      ...                     ...           ...
+2060  s01liMq8lG4G3f3AvJMi5w  znWHLW1pt19HzW1VY6KfCA             1
+2061  Up5p8eREOLuKuuOulFymoQ  zp3rZNu-5qonTL3ByPYOUg             3
+2062  PKEzKWv_FktMm2mGPjwd0Q  zr42_UsWfaIF-rcp37OpwA             3
+2063  0l3x4EgoWVYdla3CPpAKag  zs-T0uqKSHhYWSEok6oouw             3
+2064  V1M36jjLPUG_h-Kvhyz9sg  zt9RLUIU32fZYOBh2L0NNQ             4
+
+[2065 rows x 3 columns],                      user_id             business_id  review_stars
+0     R0FVMp6Acx0Rl_HRmS1Twg  -050d_XIor1NpCuWkbIVaQ             1
+1     R0FVMp6Acx0Rl_HRmS1Twg  -050d_XIor1NpCuWkbIVaQ             2
+2     t1HdYXIzIuooNDXC09iiBA  -6tvduBzjLI1ISfs3F_qTg             4
+3     46-qsKjqR4vptCIYrHH1yw  -95mbLJsa0CxXhpaNL4LvA             3
+4     46-qsKjqR4vptCIYrHH1yw  -95mbLJsa0CxXhpaNL4LvA             3
+...                      ...                     ...           ...
+2019  3EIc7WAoiojTFdy3TGOMfQ  zrDi4gEaUi64lAMfJU51dw             5
+2020  XPTS9mzRrwfL8huQEO8Zeg  ztQH2Q99E3D-iSdfImqjcQ             5
+2021  bdXsGvf3k-GFGETQSa68ng  zuVvDYJkKAbXQTTBauAqJQ             4
+2022  j4U0Yj0EPEA8neKCUe8yTw  zuVvDYJkKAbXQTTBauAqJQ             2
+2023  OzNz8Gkc-LBxwH7wsXYnZw  zusXbyXnJfS1Q-pZE9elmQ             5
+
+[2024 rows x 3 columns],                      user_id             business_id  review_stars
+0     3gKSnyBeJBI5-TyoowozEQ  --I7YYLada0tSLkORTHb5Q             4
+1     nyx1upP2fuHrcmAAC9jd5w  -0WegMt6Cy966qlDKhu6jA             2
+2     mqRYyvutwc7nC_7oay8MHQ  -1VaIJza42Hjev6ukacCNg             5
+3     mqRYyvutwc7nC_7oay8MHQ  -1VaIJza42Hjev6ukacCNg             5
+4     mqRYyvutwc7nC_7oay8MHQ  -1VaIJza42Hjev6ukacCNg             5
+...                      ...                     ...           ...
+1960  OberW6P_lUSrt1jbNpLHvw  zlpLjbwrKuNs8zROgB_qUQ             2
+1961  3D7Ie-Rmmhn1RzFrVieRZg  zrDi4gEaUi64lAMfJU51dw             2
+1962  jKn_HycMvKa3yPHAUoCQAQ  zrnP9HqoF-RI9jqoW8pytA             3
+1963  Rg3C1gCJsyshSpp-35HLbQ  zswdqM8Av3KxVv9o7_6ORA             4
+1964  NwPvtCmQwEZgDZAvW48SJg  zzwaS0xn1MVEPEf0hNLjew             5
+
+[1965 rows x 3 columns],                      user_id             business_id  review_stars
+0     PvBmRN4suldo06Kcz2-vcw  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     e-mW7Sh5a45hrE7cOc0Bgw  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     e-mW7Sh5a45hrE7cOc0Bgw  --9e1ONYQuAa-CB_Rrw7Tw             4
+3     nsZquYOxe6b_6x8MOKC-lA  --FBCX-N37CMYDfs790Bnw             5
+4     1BcNXW9_Y16TIofPVpFqIA  -050d_XIor1NpCuWkbIVaQ             1
+...                      ...                     ...           ...
+2037  U30MueFijfpUGbW39c1Arw  zra20XPGVL9P3i5hMoKjig             4
+2038  e3zojPmUy-2vW48PWn7Fpw  zs710LuQ8y10YsQHIjxjyw             4
+2039  eO1ZCFWJCZcETr9dfSydRg  zsQk990PubOHjr1YcLkQFw             4
+2040  uTLdtYe4vFhIyr1FhSgVHg  zwNC-Ow4eIMan2__bS9-rg             1
+2041  lVcAzMmT2CUevJIKQwHL3g  zyPGYeXF4XKCqNN1pjFWhg             3
+
+[2042 rows x 3 columns],                      user_id             business_id  review_stars
+0     0aHFybE0id9DD97QzAfNDQ  -0NrB58jqKqJfuUCDupcsw             2
+1     OIVAJo8QryN-bJOjOvxkVQ  -0aOudcaAyac0VJbMX-L1g             4
+2     dIIKEfOgo0KqUfGQvGikPg  -45kMvS7h38CGaWugPY0rg             5
+3     iYPskzjqJ3yPYjyNKnTxLg  -45kMvS7h38CGaWugPY0rg             3
+4     ZW-XoteNlRuuK-19q1spmw  -8iwcXhLnyqbLgvcrJGgaw             4
+...                      ...                     ...           ...
+1948  WX6Xv1uhnOSAZT2GWJvD8w  zqV3T9HltH1pmlRFJJSFcA             5
+1949  fZ7fLMqArGTemvXPH9H3FA  zqjcp1VwY8WNtiwTvFL1Rw             3
+1950  6cMToTyCD1cFQ8WD0SP7Ug  zvB0Vzhomsodw_iQ7FHY1Q             1
+1951  1Co-zYolv5AmjKlsISMepQ  zwNC-Ow4eIMan2__bS9-rg             2
+1952  vleiM59U_HtRHpKjsLjXXw  zwNLJ2VglfEvGu7DDZjJ4g             3
+
+[1953 rows x 3 columns],                      user_id             business_id  review_stars
+0     Hzfi49R6gs9LRJP1ZKnMgA  --cjBEbXMI2obtaRHNSFrA             4
+1     QnHXlWabpzE_nMQzrrVHEw  -050d_XIor1NpCuWkbIVaQ             1
+2     3VtCb0IY5Acx16NJLKLoIA  -2isRNVb6PDuBagELL5EBw             5
+3     mz9vD8jY9NBlGB3RQ_4UHg  -3oxnPPPU3YoxO9M1I2idg             3
+4     alUuOskFSl1bODjnce2PpQ  -4eA7Um2eiOKsGLmcXNx_w             4
+...                      ...                     ...           ...
+1948  0ygWZ_gXF8qTm0bY95JJqA  zrDi4gEaUi64lAMfJU51dw             1
+1949  CwzhFRwIkYFGkaggG0sTlA  zuwba6QEBIDZT0tJZmNhdQ             4
+1950  CQMTfS-7oOzUmYV8Oy0EHg  zw9_mqWBn1QCfZg88w0Exg             1
+1951  pL1Vfx5Vdf4WBrCxzdxADA  zyJWc8oW8JpPg2xXMQsnAA             2
+1952  pL1Vfx5Vdf4WBrCxzdxADA  zyJWc8oW8JpPg2xXMQsnAA             1
+
+[1953 rows x 3 columns],                      user_id             business_id  review_stars
+0     dvaLCoQykxcTy8fwuUGvNQ  -050d_XIor1NpCuWkbIVaQ             3
+1     gKFbnx-0dYcc-jzDVckbVg  -0RkJ_uIduNLWQrphbADRw             4
+2     4CtOI18RlveTwFq84-6TdQ  -7EwIdxcRC5McO35DVfeSQ             5
+3     TDOF4SZAh7MsFgfshOL66A  -7H-oXvCxJzuT42ky6Db0g             3
+4     wyODhqTQFfBum-B98JLLHw  -8O8sVCnaIKHP-596zN9UA             4
+...                      ...                     ...           ...
+2057  eBnedff2L15dAxfD_btx-Q  zm8u9z2KCwEkNiCD59UQ3Q             4
+2058  eQSGWH1jf892mK4pzuAeyw  zpC-0J9p7V26ZZAVses64A             4
+2059  Qj37EXmoXLpPeVIoNvghfQ  zpaXQga1MIqPc5nAWZXtdQ             4
+2060  DQC3PRt4zfZUgnE0JcYYGw  zrYpLdnGKA_EmOhgRCy_vg             4
+2061  aJcgNs1SaKepTGSxEidedw  zs-zHi8lZdi0S3QuAkGWCw             5
+
+[2062 rows x 3 columns],                      user_id             business_id  review_stars
+0     gGCv9qdMRgAa39ao0Phr7g  -5L8zOxibac-vBrsYtxXbQ             4
+1     PLOYtrCMUFPHQe2IbYAd5g  -7XWJYkutqhIxLen7Grg1g             3
+2     wcDhhBk1d0_lCdvB8sds1g  -9nai28tnoylwViuJVrYEQ             3
+3     alUuOskFSl1bODjnce2PpQ  -9u2uFwhlj3Yq4mG5IweoA             3
+4     NIHuPRTp7Ff9DwyT2XPONg  -Bdw-5H5C4AYSMGnAvmnzw             4
+...                      ...                     ...           ...
+1939  bxBR0vakC_OAU-5rCYCDsw  zaRGB4TNrbqw67BCmbt8DA             5
+1940  VUrzBsD2EnuVEFU1c74Etg  zfQ855VX3SMA_54oVSN5Cw             4
+1941  v4ClaYV5jteVhtsDlLHsFw  zjygAC4qLf91b3KOdHQT-w             5
+1942  M3YpU8fRyTZAQIn08bDT4g  zra20XPGVL9P3i5hMoKjig             4
+1943  4Ri_hgYl0cx89NoMxIB1cQ  zzSYBWuv_fXGtSgsO-6_1g             4
+
+[1944 rows x 3 columns],                      user_id             business_id  review_stars
+0     VfAfrBGohcjD_CRCwuKz6Q  -050d_XIor1NpCuWkbIVaQ             3
+1     w86A2itkve_7XFL4HpjSSg  -1UMR00eXtwaeh59pEiDjA             4
+2     SJ2Vwjnn772f0bBJrLtTJA  -6tvduBzjLI1ISfs3F_qTg             4
+3     N0gKP9YdO0ivwgwyy_KCYQ  -B_4pHQkzU12AMaYkkY4cw             4
+4     e3zojPmUy-2vW48PWn7Fpw  -CLTZ0cO-ooKDDmXHFoGMg             4
+...                      ...                     ...           ...
+1983  GwWjnIPiaw9uBOVGC8s-RQ  zaBk2imYnk7rG7IdOMhRmA             5
+1984  fHdNrSQhhkCF4Pq1nWnMyA  zb61eT_ChYctlCXcIqlW6Q             5
+1985  jWiwVsVh111TlU8Uhq7g8w  zdE82PiD6wquvjYLyhOJNA             4
+1986  lXsDfxQJA5ow392zfYR2Gg  zdE82PiD6wquvjYLyhOJNA             4
+1987  0gtEsazPeHr5rj2IAsZePg  ziGwa9EEOHMaPWbdp8tSDg             3
+
+[1988 rows x 3 columns],                      user_id             business_id  review_stars
+0     LHDl09CloksIqjUrwlgiOQ  --cZ6Hhc9F7VkKXxHMVZSQ             5
+1     MFIHJh0TGOagTyZyYVw8LQ  --cZ6Hhc9F7VkKXxHMVZSQ             3
+2     LkJSvJy7KaxVBPpWBFJe6g  -050d_XIor1NpCuWkbIVaQ             5
+3     bv6M-zBHexwWBiIz-DFK3A  -050d_XIor1NpCuWkbIVaQ             4
+4     mIysRk_cJ5K_BMZ-r06TFw  -050d_XIor1NpCuWkbIVaQ             5
+...                      ...                     ...           ...
+2060  WbTruXgqNfUsUpLLFtJ3HA  zq2ErX9lOpENLFYKlrSioQ             3
+2061  kQggkEqwGm0XLggmIgYEXw  zr42_UsWfaIF-rcp37OpwA             3
+2062  8h1r7mXd-H225yDgc4EMPg  zw4Legbcu018p5WcZ74iWA             4
+2063  SlgpAnj2gQd44EM_Uq6DkQ  zxsktAMsVBKj2PvvCV11UQ             4
+2064  4A83_zUaPBUn5Nc7eeOgtA  zzzaIBwimxVej4tY6qFOUQ             4
+
+[2065 rows x 3 columns],                      user_id             business_id  review_stars
+0     D3fOi-5w4intrUTWXzIQew  --9e1ONYQuAa-CB_Rrw7Tw             1
+1     D3fOi-5w4intrUTWXzIQew  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     eBnedff2L15dAxfD_btx-Q  -06-Fdi30wJx-JA8P7CAng             4
+3     67IMqiMGTTlobnDMEWszmw  -1xCh7Cocn6IwFzhELyohA             2
+4     zUr2Hb53yjfb-3SFK6lHuA  -5NXoZeGBdx3Bdk70tuyCw             4
+...                      ...                     ...           ...
+1909  rEsBrt6U7i8O4rC81lV6NQ  zkU-WMio8g6dpRJ2Y2xqvQ             1
+1910  -Anyb0vB5LrW273whytNRw  zpGCFAt_MydbQN4EsXee6w             5
+1911  iSbAYtamJ6Mmaj348-BvrA  zr93wrNyXzc-HW4IcK4iRQ             1
+1912  0tR44hg30oek69RBsYIK7w  zrdQ0X9yT3p8Ho99evHB2A             4
+1913  LLrcXOk1NkEkEaYls2oZSA  ztP466jMUMtqLwwHqXbk9w             1
+
+[1914 rows x 3 columns],                      user_id             business_id  review_stars
+0     MxY_ArQomVBNKPIt2FtgyQ  --SrzpvFLwP_YFwB_Cetow             2
+1     e0TeYGOQRM2PrYCAdho7lg  -3oxnPPPU3YoxO9M1I2idg             5
+2     e0TeYGOQRM2PrYCAdho7lg  -3oxnPPPU3YoxO9M1I2idg             5
+3     J1tWSkPZ-iWfHeOLny_urg  -3pOOtaf0CI0aTD_ke-gmw             4
+4     bHaVRKoLsWcq0E-drLfR3w  -4TMQnQJW1yd6NqGRDvAeA             5
+...                      ...                     ...           ...
+2015  gUHGfOpInuzNVvoH6w0K9g  zvezLicNkf8tTqZyYhP83w             3
+2016  S1fuMTz9bLKsMTr6fFri5Q  zw4Legbcu018p5WcZ74iWA             4
+2017  S1Am9rfV8pfdbAcA-UBKnQ  zxsktAMsVBKj2PvvCV11UQ             2
+2018  GJJPGC3m5EGJHRDYW5HyZw  zyAwesOPcP9I-I5Arw8_QA             1
+2019  2dcRdQ3brGjwi7UKBIwQ_w  zz3CqZhNx2rQ_Yp6zHze-A             2
+
+[2020 rows x 3 columns],                      user_id             business_id  review_stars
+0     KQMzfaaI9jfo68S4CsCifA  -050d_XIor1NpCuWkbIVaQ             5
+1     7O1_x_3IlgjpY9BkiZ16xQ  -5DifC-lAFioAD_DLVgTMQ             4
+2     yw4PbAhH5vTOloPlLai3Og  -5L8zOxibac-vBrsYtxXbQ             4
+3     UA_PSxcBCxWIycTPcOxzTA  -6tvduBzjLI1ISfs3F_qTg             3
+4     TjXqTqYOXAs8VKo_otj3lw  -8O8sVCnaIKHP-596zN9UA             5
+...                      ...                     ...           ...
+1983  speNE6tprfEyX6PbMf72_g  znlLoeBFMmAXCm3rCAb22A             5
+1984  ImnJ5KKaWWNjj1E9kEArmQ  zpoZ6WyQUYff18-z4ZU1mA             5
+1985  Y8O0dlUOU43qpzz6soRaRg  zpoZ6WyQUYff18-z4ZU1mA             5
+1986  wqcO86hX2t2X9MsDIsIwnQ  zpvwzjNkBe5pmt8GzJcuqA             5
+1987  AedJ9prHZvr3wBJ_eTsd8g  zyw5DjrRks7a8OhmBsgCQQ             3
+
+[1988 rows x 3 columns],                      user_id             business_id  review_stars
+0     -Ds0hzlQwZUukmOwnapaFg  --cjBEbXMI2obtaRHNSFrA             3
+1     IZmBU9pXJuiWCxCIH636ig  -1m9o3vGRA8IBPNvNqKLmA             5
+2     hqNixeS3AIbpENzSftrq4w  -4TMQnQJW1yd6NqGRDvAeA             4
+3     rKrMvZt9ECczmz5LAcZUTQ  -5L8zOxibac-vBrsYtxXbQ             5
+4     Hcgi-brnL0QOD3_T5JuvmA  -6tvduBzjLI1ISfs3F_qTg             5
+...                      ...                     ...           ...
+2021  vH8UjE__eQzUUdDRu0fUMw  zdE82PiD6wquvjYLyhOJNA             4
+2022  FjOyy1ewLi578I-jwWLCkg  zitXLajbETOuHQJfok4a4g             5
+2023  lt0nceHjEiejJHLhrySv4g  znNyiHZs5TAX64WonjJ4dg             5
+2024  1BWCs7aXDg-EiLmv-U3qtw  ztmIXLuIAADzuTa4skUTgg             5
+2025  kcubZRXX1neDP8mAlCQ3RA  zzSYBWuv_fXGtSgsO-6_1g             4
+
+[2026 rows x 3 columns],                      user_id             business_id  review_stars
+0     PKEzKWv_FktMm2mGPjwd0Q  -1m9o3vGRA8IBPNvNqKLmA             4
+1     JpkI8_Ew6ro2zZ7_BOkaqw  -2uYjztVuVZpkTNAC38zdg             2
+2     JlQ-9fc61X9lbzZN6ZjORQ  -6tvduBzjLI1ISfs3F_qTg             3
+3     Y0Rl4Wu-oUV86Ov8hLqiSA  -7H-oXvCxJzuT42ky6Db0g             5
+4     JW85V2BfiGF-2B8wsK723g  -8JaNeG3etLgOVyg2gOIiA             5
+...                      ...                     ...           ...
+2002  zjE_s-f-Ol5M7hlDrZ1tSw  zr93wrNyXzc-HW4IcK4iRQ             5
+2003  kwIhn1_cnQeUaLN0CuWWHw  zsQk990PubOHjr1YcLkQFw             4
+2004  zg6LAy9gGLVH9JtcYP9gJg  zuUWG7OdMv6awFRYhEYT5Q             4
+2005  zg6LAy9gGLVH9JtcYP9gJg  zuUWG7OdMv6awFRYhEYT5Q             5
+2006  ibixRU62K5BjQGwNFgVgRA  zwkif4XLEDqdEwEgTWLIVQ             4
+
+[2007 rows x 3 columns],                      user_id             business_id  review_stars
+0     os832o4NXDKxcTYEBN1Mmg  -9u2uFwhlj3Yq4mG5IweoA             3
+1     OiRnzvW40RQ6tqcgk4jv1Q  -BSf1LtnOrtCWAzmumxUpw             5
+2     pj7_ZXztudF78lYOtT436A  -BxWyEIQ6wypT-37MzZizQ             4
+3     SCo1UBoeN3bhRMkSYuiX1A  -Ht7HiGBox8lS1Y8IPjO8g             4
+4     0gtEsazPeHr5rj2IAsZePg  -J6FVdY9pSgAdFmmalO-pQ             3
+...                      ...                     ...           ...
+1941  HCdrklIvjrfvEaCmym5wkQ  zfiSQ1dl3vTJ-og96eqXGA             3
+1942  vH8UjE__eQzUUdDRu0fUMw  zpoZ6WyQUYff18-z4ZU1mA             4
+1943  8B6EbR1981YdVaBhH6UHCg  zrDi4gEaUi64lAMfJU51dw             1
+1944  _wSQ2HMlA1TZqyPYTzh6wQ  zs-T0uqKSHhYWSEok6oouw             3
+1945  oTB3SFXVSTuKFUeK7yVbhA  ztG_sG9ugajX9crrzh0UyA             5
+
+[1946 rows x 3 columns],                      user_id             business_id  review_stars
+0     23_DfS0ojdNS-MFGF_SjsQ  --9e1ONYQuAa-CB_Rrw7Tw             5
+1     4ULkSSMp3-JH8HegrlfgzQ  --9e1ONYQuAa-CB_Rrw7Tw             5
+2     ZVu9TDpTvIgCN8x6IY-KmA  --cZ6Hhc9F7VkKXxHMVZSQ             4
+3     2x2gaas7D0raiWvHiJh_eg  -2pQf1ceDZyE2ReCNbj-3A             1
+4     jnB_saJqNfOmVoCWquhAzg  -7XWJYkutqhIxLen7Grg1g             5
+...                      ...                     ...           ...
+1956  5ewUpAmp89fEQ65E9WfZzw  ztP466jMUMtqLwwHqXbk9w             2
+1957  wDS2IgK5uTgx-NXum8jPBw  ztmIXLuIAADzuTa4skUTgg             5
+1958  wDS2IgK5uTgx-NXum8jPBw  ztmIXLuIAADzuTa4skUTgg             5
+1959  BYVYXKqNs-vv-N1ZhRMs0g  zvsJSNdg9UXEIL6FKiGa3Q             1
+1960  e0lV0WyRCYbYs9k6chh8YA  zx_eg_zbs2pyDU4QmCXE1Q             5
+
+[1961 rows x 3 columns]]
+                  user_id             business_id  review_stars
+0  5VESqAgYsL9vzLEIA_xgnw  --9e1ONYQuAa-CB_Rrw7Tw             5
+1  5VESqAgYsL9vzLEIA_xgnw  --9e1ONYQuAa-CB_Rrw7Tw             5
+2  Pxrx3kEqVD9WCn7lmV-a7Q  -092wE7j5HZOogMLAh40zA             3
+3  OzGlDEQ_vzH8QU9NBRs-pw  -0NhdsDJsdarxyDPR523ZQ             3
+4  D3fOi-5w4intrUTWXzIQew  -0RkJ_uIduNLWQrphbADRw             1
