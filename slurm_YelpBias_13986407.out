@@ -1,0 +1,99 @@
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+Bias models validation prediction scores by damping factor:
+   damping_factor      rmse       mae
+0               0  1.289824  1.000505
+1               1  1.192661  0.952272
+2               2  1.173213  0.938803
+3               5  1.163368  0.930832
+4              10  1.163940  0.935237
+Bias models validation evaluations by damping factor:
+               recip_rank           precision@10           precision@100  \
+                     mean       std         mean       std          mean   
+damping_factor                                                             
+0                0.000109  0.006027     0.000033  0.001808      0.000026   
+1                0.000715  0.020993     0.000229  0.004779      0.000124   
+2                0.001055  0.025191     0.000229  0.004779      0.000121   
+5                0.001049  0.025161     0.000229  0.004779      0.000222   
+10               0.001467  0.026194     0.000556  0.007435      0.000271   
+
+                         recall@10           recall@100                ndcg  \
+                     std      mean       std       mean       std      mean   
+damping_factor                                                                
+0               0.000511  0.000082  0.004520   0.002370  0.047999  0.000291   
+1               0.001108  0.002288  0.047790   0.010257  0.097598  0.001531   
+2               0.001093  0.002288  0.047790   0.009849  0.095631  0.002370   
+5               0.001497  0.002288  0.047790   0.017740  0.126180  0.002293   
+10              0.001645  0.004904  0.067484   0.022235  0.141757  0.003295   
+
+                          
+                     std  
+damping_factor            
+0               0.013560  
+1               0.033495  
+2               0.046285  
+5               0.045590  
+10              0.048930  
+Best Hyperparameters:
+Damping value = 10
+Best Bias Model Test Evaluations:
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/process.py", line 239, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/process.py", line 198, in _process_chunk
+    return [fn(*args) for args in chunk]
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/process.py", line 198, in <listcomp>
+    return [fn(*args) for args in chunk]
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/util/parallel.py", line 131, in _mp_invoke_worker
+    return __work_func(model, *args)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 37, in _rla_worker
+    return model._compute_group(col, val)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 75, in _compute_group
+    return pd.DataFrame.from_records(gen, columns=self.rec_key + mnames)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/frame.py", line 1751, in from_records
+    first_row = next(data)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 93, in _iter_measurements
+    results = tuple(mf(df, g_truth, **margs) for (mf, mn, margs) in self.metrics)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 93, in <genexpr>
+    results = tuple(mf(df, g_truth, **margs) for (mf, mn, margs) in self.metrics)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py", line 98, in ndcg
+    tpos = truth.index.get_indexer(recs['item'])
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/indexes/base.py", line 2980, in get_indexer
+    raise InvalidIndexError(
+pandas.errors.InvalidIndexError: Reindexing only valid with uniquely valued Index objects
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "./Bias_and_BiasMF_Models.py", line 300, in <module>
+    main()
+  File "./Bias_and_BiasMF_Models.py", line 153, in main
+    results_10recs = rla.compute(recs_10, test_binary)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 176, in compute
+    res = job.compute(self.n_jobs)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 67, in compute
+    res = pd.concat(res, ignore_index=True)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/reshape/concat.py", line 274, in concat
+    op = _Concatenator(
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/reshape/concat.py", line 328, in __init__
+    objs = list(objs)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/process.py", line 484, in _chain_from_iterable_of_lists
+    for element in iterable:
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/_base.py", line 611, in result_iterator
+    yield fs.pop().result()
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/_base.py", line 439, in result
+    return self.__get_result()
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+pandas.errors.InvalidIndexError: Reindexing only valid with uniquely valued Index objects
