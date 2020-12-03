@@ -144,13 +144,17 @@ def main():
         mae_score = mae(predictions, test_data_['rating'])
         bias_test_prediction_scores_list.append([rmse_score, mae_score])
         recs_10, recs_100 = test_eval(model, test_data_)
+#         recs_10 = recs_10.loc[~recs_10.index.duplicated(keep='first')] 
+#         recs_10_ = recs_10.reset_index()
         test_binary = test_data_[['user', 'item', 'rating_binary']].rename(columns={"rating_binary": "rating"})
+        test_binary = test_binary.loc[~test_binary.index.duplicated(keep='first')] 
+        test_binary_ = test_binary.reset_index()
         rla = topn.RecListAnalysis()
         rla.add_metric(topn.recip_rank)
         rla.add_metric(topn.precision)
         rla.add_metric(topn.recall)
         rla.add_metric(topn.ndcg)
-        results_10recs = rla.compute(recs_10, test_binary)
+        results_10recs = rla.compute(recs_10, test_binary_)
         print("evals running")
         evals_10 = results_10recs[['recip_rank', 'precision', 'recall', 'ndcg']].rename(columns={"precision": "precision@10", "recall": "recall@10"})
         results_100recs = rla.compute(recs_100, test_binary)
