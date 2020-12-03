@@ -1,0 +1,418 @@
+validation
+                         item  score                    user  rank  \
+0      -0RkJ_uIduNLWQrphbADRw    5.0  --BumyUHiO_7YsHurb9Hkw     1   
+1      -1m9o3vGRA8IBPNvNqKLmA    5.0  --BumyUHiO_7YsHurb9Hkw     2   
+2      -1xuC540Nycht_iWFeJ-dw    5.0  --BumyUHiO_7YsHurb9Hkw     3   
+3      -25X5v1q3WU6s-craJSvTw    5.0  --BumyUHiO_7YsHurb9Hkw     4   
+4      -33BHZKxCiREa1cfa672OQ    5.0  --BumyUHiO_7YsHurb9Hkw     5   
+...                       ...    ...                     ...   ...   
+30585  -3cJ2k_iwauMpy1WfI4NrA    5.0  zzo--VpSQh8PpsGVeMC1dQ     6   
+30586  -7EwIdxcRC5McO35DVfeSQ    5.0  zzo--VpSQh8PpsGVeMC1dQ     7   
+30587  -8O8sVCnaIKHP-596zN9UA    5.0  zzo--VpSQh8PpsGVeMC1dQ     8   
+30588  -95mbLJsa0CxXhpaNL4LvA    5.0  zzo--VpSQh8PpsGVeMC1dQ     9   
+30589  -ADtl9bLp8wNqYX1k3KuxA    5.0  zzo--VpSQh8PpsGVeMC1dQ    10   
+
+             Algorithm  
+0      Bias, Damping=0  
+1      Bias, Damping=0  
+2      Bias, Damping=0  
+3      Bias, Damping=0  
+4      Bias, Damping=0  
+...                ...  
+30585  Bias, Damping=0  
+30586  Bias, Damping=0  
+30587  Bias, Damping=0  
+30588  Bias, Damping=0  
+30589  Bias, Damping=0  
+
+[30590 rows x 5 columns]
+                         user                    item  rating
+32933  --BumyUHiO_7YsHurb9Hkw  wdtY4TSc_UN2xuAnm6mblA       0
+4826   -0b84SUGVN0YkG5j2MCmBw  XlbDdblfNsOGiZ84CorRBQ       1
+33489  -0e6xyw_4zyg-2YtqSlS_g  iZleRh4SOtf4GquA5L8WXw       1
+16425  -1wbglcr6x1qrUbqP1YAIA  D9pRoXa7LUxewo6tBl_3cw       1
+22298  -267Yx8RmdP6io2-qI4UcQ  UNI1agsPX2k3eJSJVB91nw       1
+...                       ...                     ...     ...
+23943  zxL5c9syMuxOPtfnk0tXtQ  tLCDdztam3QQ0xdET2u5Yw       0
+18555  zxsGLpHvzbVqNDm4svFQ5g  ArmAaGCdCVAlkhdtaT6RzQ       0
+16924  zy4A7504SezncCAcotMv4g  EDcZRvERC22Cvw1yi4-VKg       1
+30929  zzmhLxcZ4XZQyz95c_KbOA  CfxVkwEJk1NAqgqMSesLzA       1
+20270  zzo--VpSQh8PpsGVeMC1dQ  4FEb2SzmU_l7SCQAbvW5Hg       0
+
+[4051 rows x 3 columns]
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+validation
+                         item     score                    user  rank  \
+0      u-SJ5QUwrNquL9VnXwl8cg  4.709155  --BumyUHiO_7YsHurb9Hkw     1   
+1      2iTsRqUsPGRH1li1WVRvKQ  4.682715  --BumyUHiO_7YsHurb9Hkw     2   
+2      awI4hHMfa7H0Xf0-ChU5hg  4.682715  --BumyUHiO_7YsHurb9Hkw     3   
+3      1BrIPwRhJHOp6yBwjoRtgg  4.644266  --BumyUHiO_7YsHurb9Hkw     4   
+4      4Pl-ziYL2oerGyIPlwVdmA  4.644266  --BumyUHiO_7YsHurb9Hkw     5   
+...                       ...       ...                     ...   ...   
+30585  DqcD3YflYhArFsC4KVUnOw  4.644266  zzo--VpSQh8PpsGVeMC1dQ     6   
+30586  JyxHvtj-syke7m9rbza7mA  4.644266  zzo--VpSQh8PpsGVeMC1dQ     7   
+30587  g6AFW-zY0wDvBl9U82g4zg  4.644266  zzo--VpSQh8PpsGVeMC1dQ     8   
+30588  k8BqCejnaMlw7aoVthvqyw  4.644266  zzo--VpSQh8PpsGVeMC1dQ     9   
+30589  Wcuo6YmYj3xhCso5sMQcOw  4.612207  zzo--VpSQh8PpsGVeMC1dQ    10   
+
+             Algorithm  
+0      Bias, Damping=2  
+1      Bias, Damping=2  
+2      Bias, Damping=2  
+3      Bias, Damping=2  
+4      Bias, Damping=2  
+...                ...  
+30585  Bias, Damping=2  
+30586  Bias, Damping=2  
+30587  Bias, Damping=2  
+30588  Bias, Damping=2  
+30589  Bias, Damping=2  
+
+[30590 rows x 5 columns]
+                         user                    item  rating
+32933  --BumyUHiO_7YsHurb9Hkw  wdtY4TSc_UN2xuAnm6mblA       0
+4826   -0b84SUGVN0YkG5j2MCmBw  XlbDdblfNsOGiZ84CorRBQ       1
+33489  -0e6xyw_4zyg-2YtqSlS_g  iZleRh4SOtf4GquA5L8WXw       1
+16425  -1wbglcr6x1qrUbqP1YAIA  D9pRoXa7LUxewo6tBl_3cw       1
+22298  -267Yx8RmdP6io2-qI4UcQ  UNI1agsPX2k3eJSJVB91nw       1
+...                       ...                     ...     ...
+23943  zxL5c9syMuxOPtfnk0tXtQ  tLCDdztam3QQ0xdET2u5Yw       0
+18555  zxsGLpHvzbVqNDm4svFQ5g  ArmAaGCdCVAlkhdtaT6RzQ       0
+16924  zy4A7504SezncCAcotMv4g  EDcZRvERC22Cvw1yi4-VKg       1
+30929  zzmhLxcZ4XZQyz95c_KbOA  CfxVkwEJk1NAqgqMSesLzA       1
+20270  zzo--VpSQh8PpsGVeMC1dQ  4FEb2SzmU_l7SCQAbvW5Hg       0
+
+[4051 rows x 3 columns]
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+validation
+                         item     score                    user  rank  \
+0      u-SJ5QUwrNquL9VnXwl8cg  4.518311  --BumyUHiO_7YsHurb9Hkw     1   
+1      2iTsRqUsPGRH1li1WVRvKQ  4.483904  --BumyUHiO_7YsHurb9Hkw     2   
+2      awI4hHMfa7H0Xf0-ChU5hg  4.483904  --BumyUHiO_7YsHurb9Hkw     3   
+3      wUKzaS1MHg94RGM6z8u9mw  4.423416  --BumyUHiO_7YsHurb9Hkw     4   
+4      CauQnqZ5eowyrr7oWF_p3Q  4.412476  --BumyUHiO_7YsHurb9Hkw     5   
+...                       ...       ...                     ...   ...   
+30585  Wcuo6YmYj3xhCso5sMQcOw  4.397888  zzo--VpSQh8PpsGVeMC1dQ     6   
+30586  igHYkXZMLAc9UdV5VnR_AA  4.384977  zzo--VpSQh8PpsGVeMC1dQ     7   
+30587  1BrIPwRhJHOp6yBwjoRtgg  4.377466  zzo--VpSQh8PpsGVeMC1dQ     8   
+30588  4Pl-ziYL2oerGyIPlwVdmA  4.377466  zzo--VpSQh8PpsGVeMC1dQ     9   
+30589  DqcD3YflYhArFsC4KVUnOw  4.377466  zzo--VpSQh8PpsGVeMC1dQ    10   
+
+             Algorithm  
+0      Bias, Damping=5  
+1      Bias, Damping=5  
+2      Bias, Damping=5  
+3      Bias, Damping=5  
+4      Bias, Damping=5  
+...                ...  
+30585  Bias, Damping=5  
+30586  Bias, Damping=5  
+30587  Bias, Damping=5  
+30588  Bias, Damping=5  
+30589  Bias, Damping=5  
+
+[30590 rows x 5 columns]
+                         user                    item  rating
+32933  --BumyUHiO_7YsHurb9Hkw  wdtY4TSc_UN2xuAnm6mblA       0
+4826   -0b84SUGVN0YkG5j2MCmBw  XlbDdblfNsOGiZ84CorRBQ       1
+33489  -0e6xyw_4zyg-2YtqSlS_g  iZleRh4SOtf4GquA5L8WXw       1
+16425  -1wbglcr6x1qrUbqP1YAIA  D9pRoXa7LUxewo6tBl_3cw       1
+22298  -267Yx8RmdP6io2-qI4UcQ  UNI1agsPX2k3eJSJVB91nw       1
+...                       ...                     ...     ...
+23943  zxL5c9syMuxOPtfnk0tXtQ  tLCDdztam3QQ0xdET2u5Yw       0
+18555  zxsGLpHvzbVqNDm4svFQ5g  ArmAaGCdCVAlkhdtaT6RzQ       0
+16924  zy4A7504SezncCAcotMv4g  EDcZRvERC22Cvw1yi4-VKg       1
+30929  zzmhLxcZ4XZQyz95c_KbOA  CfxVkwEJk1NAqgqMSesLzA       1
+20270  zzo--VpSQh8PpsGVeMC1dQ  4FEb2SzmU_l7SCQAbvW5Hg       0
+
+[4051 rows x 3 columns]
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+validation
+                         item     score                    user  rank  \
+0      u-SJ5QUwrNquL9VnXwl8cg  4.327466  --BumyUHiO_7YsHurb9Hkw     1   
+1      2iTsRqUsPGRH1li1WVRvKQ  4.292069  --BumyUHiO_7YsHurb9Hkw     2   
+2      awI4hHMfa7H0Xf0-ChU5hg  4.292069  --BumyUHiO_7YsHurb9Hkw     3   
+3      wUKzaS1MHg94RGM6z8u9mw  4.264253  --BumyUHiO_7YsHurb9Hkw     4   
+4      CauQnqZ5eowyrr7oWF_p3Q  4.239438  --BumyUHiO_7YsHurb9Hkw     5   
+...                       ...       ...                     ...   ...   
+30585  igHYkXZMLAc9UdV5VnR_AA  4.227466  zzo--VpSQh8PpsGVeMC1dQ     6   
+30586  UPIYuRaZvknINOd1w8kqRQ  4.225839  zzo--VpSQh8PpsGVeMC1dQ     7   
+30587  JzOp695tclcNCNMuBl7oxA  4.216634  zzo--VpSQh8PpsGVeMC1dQ     8   
+30588  u4sTiCzVeIHZY8OlaL346Q  4.216634  zzo--VpSQh8PpsGVeMC1dQ     9   
+30589  Wcuo6YmYj3xhCso5sMQcOw  4.208784  zzo--VpSQh8PpsGVeMC1dQ    10   
+
+              Algorithm  
+0      Bias, Damping=10  
+1      Bias, Damping=10  
+2      Bias, Damping=10  
+3      Bias, Damping=10  
+4      Bias, Damping=10  
+...                 ...  
+30585  Bias, Damping=10  
+30586  Bias, Damping=10  
+30587  Bias, Damping=10  
+30588  Bias, Damping=10  
+30589  Bias, Damping=10  
+
+[30590 rows x 5 columns]
+                         user                    item  rating
+32933  --BumyUHiO_7YsHurb9Hkw  wdtY4TSc_UN2xuAnm6mblA       0
+4826   -0b84SUGVN0YkG5j2MCmBw  XlbDdblfNsOGiZ84CorRBQ       1
+33489  -0e6xyw_4zyg-2YtqSlS_g  iZleRh4SOtf4GquA5L8WXw       1
+16425  -1wbglcr6x1qrUbqP1YAIA  D9pRoXa7LUxewo6tBl_3cw       1
+22298  -267Yx8RmdP6io2-qI4UcQ  UNI1agsPX2k3eJSJVB91nw       1
+...                       ...                     ...     ...
+23943  zxL5c9syMuxOPtfnk0tXtQ  tLCDdztam3QQ0xdET2u5Yw       0
+18555  zxsGLpHvzbVqNDm4svFQ5g  ArmAaGCdCVAlkhdtaT6RzQ       0
+16924  zy4A7504SezncCAcotMv4g  EDcZRvERC22Cvw1yi4-VKg       1
+30929  zzmhLxcZ4XZQyz95c_KbOA  CfxVkwEJk1NAqgqMSesLzA       1
+20270  zzo--VpSQh8PpsGVeMC1dQ  4FEb2SzmU_l7SCQAbvW5Hg       0
+
+[4051 rows x 3 columns]
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+validation
+                         item     score                    user  rank  \
+0      u-SJ5QUwrNquL9VnXwl8cg  4.212959  --BumyUHiO_7YsHurb9Hkw     1   
+1      2iTsRqUsPGRH1li1WVRvKQ  4.180166  --BumyUHiO_7YsHurb9Hkw     2   
+2      awI4hHMfa7H0Xf0-ChU5hg  4.180166  --BumyUHiO_7YsHurb9Hkw     3   
+3      wUKzaS1MHg94RGM6z8u9mw  4.166307  --BumyUHiO_7YsHurb9Hkw     4   
+4      UPIYuRaZvknINOd1w8kqRQ  4.156588  --BumyUHiO_7YsHurb9Hkw     5   
+...                       ...       ...                     ...   ...   
+30585  CauQnqZ5eowyrr7oWF_p3Q  4.138499  zzo--VpSQh8PpsGVeMC1dQ     6   
+30586  igHYkXZMLAc9UdV5VnR_AA  4.132959  zzo--VpSQh8PpsGVeMC1dQ     7   
+30587  JzOp695tclcNCNMuBl7oxA  4.127845  zzo--VpSQh8PpsGVeMC1dQ     8   
+30588  u4sTiCzVeIHZY8OlaL346Q  4.127845  zzo--VpSQh8PpsGVeMC1dQ     9   
+30589  frCxZS7lPhEnQRJ3UY6m7A  4.123110  zzo--VpSQh8PpsGVeMC1dQ    10   
+
+              Algorithm  
+0      Bias, Damping=15  
+1      Bias, Damping=15  
+2      Bias, Damping=15  
+3      Bias, Damping=15  
+4      Bias, Damping=15  
+...                 ...  
+30585  Bias, Damping=15  
+30586  Bias, Damping=15  
+30587  Bias, Damping=15  
+30588  Bias, Damping=15  
+30589  Bias, Damping=15  
+
+[30590 rows x 5 columns]
+                         user                    item  rating
+32933  --BumyUHiO_7YsHurb9Hkw  wdtY4TSc_UN2xuAnm6mblA       0
+4826   -0b84SUGVN0YkG5j2MCmBw  XlbDdblfNsOGiZ84CorRBQ       1
+33489  -0e6xyw_4zyg-2YtqSlS_g  iZleRh4SOtf4GquA5L8WXw       1
+16425  -1wbglcr6x1qrUbqP1YAIA  D9pRoXa7LUxewo6tBl_3cw       1
+22298  -267Yx8RmdP6io2-qI4UcQ  UNI1agsPX2k3eJSJVB91nw       1
+...                       ...                     ...     ...
+23943  zxL5c9syMuxOPtfnk0tXtQ  tLCDdztam3QQ0xdET2u5Yw       0
+18555  zxsGLpHvzbVqNDm4svFQ5g  ArmAaGCdCVAlkhdtaT6RzQ       0
+16924  zy4A7504SezncCAcotMv4g  EDcZRvERC22Cvw1yi4-VKg       1
+30929  zzmhLxcZ4XZQyz95c_KbOA  CfxVkwEJk1NAqgqMSesLzA       1
+20270  zzo--VpSQh8PpsGVeMC1dQ  4FEb2SzmU_l7SCQAbvW5Hg       0
+
+[4051 rows x 3 columns]
+Bias models validation prediction scores by damping factor:
+   damping_factor      rmse       mae
+0               0  1.289824  1.000505
+1               2  1.173213  0.938803
+2               5  1.163368  0.930832
+3              10  1.163940  0.935237
+4              15  1.165523  0.938592
+Bias models validation evaluations by damping factor:
+               recip_rank           precision@10           precision@100  \
+                     mean       std         mean       std          mean   
+damping_factor                                                             
+0                0.000109  0.006027     0.000033  0.001808      0.000026   
+2                0.001055  0.025191     0.000229  0.004779      0.000121   
+5                0.001049  0.025161     0.000229  0.004779      0.000222   
+10               0.001467  0.026194     0.000556  0.007435      0.000271   
+15               0.001575  0.026734     0.000588  0.007650      0.000271   
+
+                         recall@10           recall@100                ndcg  \
+                     std      mean       std       mean       std      mean   
+damping_factor                                                                
+0               0.000511  0.000082  0.004520   0.002370  0.047999  0.000291   
+2               0.001093  0.002288  0.047790   0.009849  0.095631  0.002370   
+5               0.001497  0.002288  0.047790   0.017740  0.126180  0.002293   
+10              0.001645  0.004904  0.067484   0.022235  0.141757  0.003295   
+15              0.001645  0.005067  0.068075   0.022235  0.141757  0.003381   
+
+                          
+                     std  
+damping_factor            
+0               0.013560  
+2               0.046285  
+5               0.045590  
+10              0.048930  
+15              0.049542  
+Best Hyperparameters:
+Damping value = 15
+Best Bias Model Test Evaluations:
+[                         user                    item  rating  rating_binary
+124    --BumyUHiO_7YsHurb9Hkw  41o1FUbCYKJv2djtnlkzlg       3              0
+18986  -0b84SUGVN0YkG5j2MCmBw  HtObLsspK0xIXfNPb7eUmA       4              1
+6972   -0b84SUGVN0YkG5j2MCmBw  1MvR4NJQbHy0i7ME1IoYpw       4              1
+17805  -0e6xyw_4zyg-2YtqSlS_g  0aA5l11oXes0aS6mkN5lMQ       1              0
+7242   -1wbglcr6x1qrUbqP1YAIA  eAf1fi8wlDt433b6ITQtlw       5              1
+...                       ...                     ...     ...            ...
+33630  zxsGLpHvzbVqNDm4svFQ5g  l2Gfm3CA20iCBCBt_GNdDA       3              0
+27646  zy4A7504SezncCAcotMv4g  jqAdZf9PJo8lsRskc6T1Sw       4              1
+28280  zy4A7504SezncCAcotMv4g  K-uQkfSUTwu5LIwPB4b_vg       5              1
+11434  zzmhLxcZ4XZQyz95c_KbOA  59c3Cp-p5i18xFCKUuCkFQ       5              1
+28199  zzo--VpSQh8PpsGVeMC1dQ  Va_evKljZVPPi5pigcKVIA       4              1
+
+[6175 rows x 4 columns],                          user                    item  rating  rating_binary
+124    --BumyUHiO_7YsHurb9Hkw  41o1FUbCYKJv2djtnlkzlg       3              0
+18986  -0b84SUGVN0YkG5j2MCmBw  HtObLsspK0xIXfNPb7eUmA       4              1
+6972   -0b84SUGVN0YkG5j2MCmBw  1MvR4NJQbHy0i7ME1IoYpw       4              1
+17805  -0e6xyw_4zyg-2YtqSlS_g  0aA5l11oXes0aS6mkN5lMQ       1              0
+7242   -1wbglcr6x1qrUbqP1YAIA  eAf1fi8wlDt433b6ITQtlw       5              1
+...                       ...                     ...     ...            ...
+33630  zxsGLpHvzbVqNDm4svFQ5g  l2Gfm3CA20iCBCBt_GNdDA       3              0
+27646  zy4A7504SezncCAcotMv4g  jqAdZf9PJo8lsRskc6T1Sw       4              1
+28280  zy4A7504SezncCAcotMv4g  K-uQkfSUTwu5LIwPB4b_vg       5              1
+11434  zzmhLxcZ4XZQyz95c_KbOA  59c3Cp-p5i18xFCKUuCkFQ       5              1
+28199  zzo--VpSQh8PpsGVeMC1dQ  Va_evKljZVPPi5pigcKVIA       4              1
+
+[6175 rows x 4 columns],                          user                    item  rating  rating_binary
+124    --BumyUHiO_7YsHurb9Hkw  41o1FUbCYKJv2djtnlkzlg       3              0
+18986  -0b84SUGVN0YkG5j2MCmBw  HtObLsspK0xIXfNPb7eUmA       4              1
+6972   -0b84SUGVN0YkG5j2MCmBw  1MvR4NJQbHy0i7ME1IoYpw       4              1
+17805  -0e6xyw_4zyg-2YtqSlS_g  0aA5l11oXes0aS6mkN5lMQ       1              0
+7242   -1wbglcr6x1qrUbqP1YAIA  eAf1fi8wlDt433b6ITQtlw       5              1
+...                       ...                     ...     ...            ...
+33630  zxsGLpHvzbVqNDm4svFQ5g  l2Gfm3CA20iCBCBt_GNdDA       3              0
+27646  zy4A7504SezncCAcotMv4g  jqAdZf9PJo8lsRskc6T1Sw       4              1
+28280  zy4A7504SezncCAcotMv4g  K-uQkfSUTwu5LIwPB4b_vg       5              1
+11434  zzmhLxcZ4XZQyz95c_KbOA  59c3Cp-p5i18xFCKUuCkFQ       5              1
+28199  zzo--VpSQh8PpsGVeMC1dQ  Va_evKljZVPPi5pigcKVIA       4              1
+
+[6175 rows x 4 columns],                          user                    item  rating  rating_binary
+124    --BumyUHiO_7YsHurb9Hkw  41o1FUbCYKJv2djtnlkzlg       3              0
+18986  -0b84SUGVN0YkG5j2MCmBw  HtObLsspK0xIXfNPb7eUmA       4              1
+6972   -0b84SUGVN0YkG5j2MCmBw  1MvR4NJQbHy0i7ME1IoYpw       4              1
+17805  -0e6xyw_4zyg-2YtqSlS_g  0aA5l11oXes0aS6mkN5lMQ       1              0
+7242   -1wbglcr6x1qrUbqP1YAIA  eAf1fi8wlDt433b6ITQtlw       5              1
+...                       ...                     ...     ...            ...
+33630  zxsGLpHvzbVqNDm4svFQ5g  l2Gfm3CA20iCBCBt_GNdDA       3              0
+27646  zy4A7504SezncCAcotMv4g  jqAdZf9PJo8lsRskc6T1Sw       4              1
+28280  zy4A7504SezncCAcotMv4g  K-uQkfSUTwu5LIwPB4b_vg       5              1
+11434  zzmhLxcZ4XZQyz95c_KbOA  59c3Cp-p5i18xFCKUuCkFQ       5              1
+28199  zzo--VpSQh8PpsGVeMC1dQ  Va_evKljZVPPi5pigcKVIA       4              1
+
+[6175 rows x 4 columns],                          user                    item  rating  rating_binary
+124    --BumyUHiO_7YsHurb9Hkw  41o1FUbCYKJv2djtnlkzlg       3              0
+18986  -0b84SUGVN0YkG5j2MCmBw  HtObLsspK0xIXfNPb7eUmA       4              1
+6972   -0b84SUGVN0YkG5j2MCmBw  1MvR4NJQbHy0i7ME1IoYpw       4              1
+17805  -0e6xyw_4zyg-2YtqSlS_g  0aA5l11oXes0aS6mkN5lMQ       1              0
+7242   -1wbglcr6x1qrUbqP1YAIA  eAf1fi8wlDt433b6ITQtlw       5              1
+...                       ...                     ...     ...            ...
+33630  zxsGLpHvzbVqNDm4svFQ5g  l2Gfm3CA20iCBCBt_GNdDA       3              0
+27646  zy4A7504SezncCAcotMv4g  jqAdZf9PJo8lsRskc6T1Sw       4              1
+28280  zy4A7504SezncCAcotMv4g  K-uQkfSUTwu5LIwPB4b_vg       5              1
+11434  zzmhLxcZ4XZQyz95c_KbOA  59c3Cp-p5i18xFCKUuCkFQ       5              1
+28199  zzo--VpSQh8PpsGVeMC1dQ  Va_evKljZVPPi5pigcKVIA       4              1
+
+[6175 rows x 4 columns]]
+                         user                    item  rating  rating_binary
+124    --BumyUHiO_7YsHurb9Hkw  41o1FUbCYKJv2djtnlkzlg       3              0
+18986  -0b84SUGVN0YkG5j2MCmBw  HtObLsspK0xIXfNPb7eUmA       4              1
+6972   -0b84SUGVN0YkG5j2MCmBw  1MvR4NJQbHy0i7ME1IoYpw       4              1
+17805  -0e6xyw_4zyg-2YtqSlS_g  0aA5l11oXes0aS6mkN5lMQ       1              0
+7242   -1wbglcr6x1qrUbqP1YAIA  eAf1fi8wlDt433b6ITQtlw       5              1
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+test
+                         item     score                    user  rank
+0      u-SJ5QUwrNquL9VnXwl8cg  4.212959  --BumyUHiO_7YsHurb9Hkw     1
+1      2iTsRqUsPGRH1li1WVRvKQ  4.180166  --BumyUHiO_7YsHurb9Hkw     2
+2      awI4hHMfa7H0Xf0-ChU5hg  4.180166  --BumyUHiO_7YsHurb9Hkw     3
+3      wUKzaS1MHg94RGM6z8u9mw  4.166307  --BumyUHiO_7YsHurb9Hkw     4
+4      UPIYuRaZvknINOd1w8kqRQ  4.156588  --BumyUHiO_7YsHurb9Hkw     5
+...                       ...       ...                     ...   ...
+45635  CauQnqZ5eowyrr7oWF_p3Q  4.138499  zzo--VpSQh8PpsGVeMC1dQ     6
+45636  igHYkXZMLAc9UdV5VnR_AA  4.132959  zzo--VpSQh8PpsGVeMC1dQ     7
+45637  JzOp695tclcNCNMuBl7oxA  4.127845  zzo--VpSQh8PpsGVeMC1dQ     8
+45638  u4sTiCzVeIHZY8OlaL346Q  4.127845  zzo--VpSQh8PpsGVeMC1dQ     9
+45639  frCxZS7lPhEnQRJ3UY6m7A  4.123110  zzo--VpSQh8PpsGVeMC1dQ    10
+
+[45640 rows x 4 columns]
+                         user                    item  rating
+124    --BumyUHiO_7YsHurb9Hkw  41o1FUbCYKJv2djtnlkzlg       0
+18986  -0b84SUGVN0YkG5j2MCmBw  HtObLsspK0xIXfNPb7eUmA       1
+6972   -0b84SUGVN0YkG5j2MCmBw  1MvR4NJQbHy0i7ME1IoYpw       1
+17805  -0e6xyw_4zyg-2YtqSlS_g  0aA5l11oXes0aS6mkN5lMQ       0
+7242   -1wbglcr6x1qrUbqP1YAIA  eAf1fi8wlDt433b6ITQtlw       1
+...                       ...                     ...     ...
+33630  zxsGLpHvzbVqNDm4svFQ5g  l2Gfm3CA20iCBCBt_GNdDA       0
+27646  zy4A7504SezncCAcotMv4g  jqAdZf9PJo8lsRskc6T1Sw       1
+28280  zy4A7504SezncCAcotMv4g  K-uQkfSUTwu5LIwPB4b_vg       1
+11434  zzmhLxcZ4XZQyz95c_KbOA  59c3Cp-p5i18xFCKUuCkFQ       1
+28199  zzo--VpSQh8PpsGVeMC1dQ  Va_evKljZVPPi5pigcKVIA       1
+
+[6175 rows x 3 columns]
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py:111: RuntimeWarning: invalid value encountered in double_scalars
+  return achieved / ideal
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/process.py", line 239, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/process.py", line 198, in _process_chunk
+    return [fn(*args) for args in chunk]
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/process.py", line 198, in <listcomp>
+    return [fn(*args) for args in chunk]
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/util/parallel.py", line 131, in _mp_invoke_worker
+    return __work_func(model, *args)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 37, in _rla_worker
+    return model._compute_group(col, val)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 75, in _compute_group
+    return pd.DataFrame.from_records(gen, columns=self.rec_key + mnames)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/frame.py", line 1751, in from_records
+    first_row = next(data)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 93, in _iter_measurements
+    results = tuple(mf(df, g_truth, **margs) for (mf, mn, margs) in self.metrics)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 93, in <genexpr>
+    results = tuple(mf(df, g_truth, **margs) for (mf, mn, margs) in self.metrics)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/metrics/topn.py", line 98, in ndcg
+    tpos = truth.index.get_indexer(recs['item'])
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/indexes/base.py", line 2980, in get_indexer
+    raise InvalidIndexError(
+pandas.errors.InvalidIndexError: Reindexing only valid with uniquely valued Index objects
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "./Bias_and_BiasMF_Models.py", line 305, in <module>
+    main()
+  File "./Bias_and_BiasMF_Models.py", line 159, in main
+    results_10recs = rla.compute(recs_10, test_binary)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 176, in compute
+    res = job.compute(self.n_jobs)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/lenskit/topn.py", line 67, in compute
+    res = pd.concat(res, ignore_index=True)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/reshape/concat.py", line 274, in concat
+    op = _Concatenator(
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/site-packages/pandas/core/reshape/concat.py", line 328, in __init__
+    objs = list(objs)
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/process.py", line 484, in _chain_from_iterable_of_lists
+    for element in iterable:
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/_base.py", line 611, in result_iterator
+    yield fs.pop().result()
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/_base.py", line 439, in result
+    return self.__get_result()
+  File "/home/as12453/miniconda3/envs/dsga3001/lib/python3.8/concurrent/futures/_base.py", line 388, in __get_result
+    raise self._exception
+pandas.errors.InvalidIndexError: Reindexing only valid with uniquely valued Index objects
