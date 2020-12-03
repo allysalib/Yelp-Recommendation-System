@@ -94,9 +94,6 @@ def main():
                 rla.add_metric(topn.precision)
                 rla.add_metric(topn.recall)
                 rla.add_metric(topn.ndcg)
-                print("validation")
-                print(recs_10)
-                print(val_binary)
                 results_10recs = rla.compute(recs_10, val_binary)
                 evals_10 = results_10recs[['recip_rank', 'precision', 'recall', 'ndcg']].rename(columns={"precision": "precision@10", "recall": "recall@10"})
                 results_100recs = rla.compute(recs_100, val_binary)
@@ -139,9 +136,7 @@ def main():
 
     for i in best_bias_models:
         model = i[1]
-        print(bias_test_data)
-        test_data = bias_test_data[4]
-        print(test_data.head())
+        test_data = bias_test_data[0]
         predictions = model.predict(test_data[['user', 'item']])
         rmse_score = rmse(predictions, test_data['rating'])
         mae_score = mae(predictions, test_data['rating'])
@@ -153,10 +148,10 @@ def main():
         rla.add_metric(topn.precision)
         rla.add_metric(topn.recall)
         rla.add_metric(topn.ndcg)
-        print("test")
-        print(recs_10)
-        print(test_binary)
+        recs_10 = recs_10.loc[~recs_10.index.duplicated(keep='first')]
+        test_binary = test_binary.loc[~test_binary.index.duplicated(keep='first')] 
         results_10recs = rla.compute(recs_10, test_binary)
+        print("evals running")
         evals_10 = results_10recs[['recip_rank', 'precision', 'recall', 'ndcg']].rename(columns={"precision": "precision@10", "recall": "recall@10"})
         results_100recs = rla.compute(recs_100, test_binary)
         evals_100 = results_100recs[['precision', 'recall']].rename(columns={"precision": "precision@100", "recall": "recall@100"})
