@@ -149,8 +149,10 @@ def main():
         rla.add_metric(topn.recall)
         rla.add_metric(topn.ndcg)
         recs_10 = recs_10.loc[~recs_10.index.duplicated(keep='first')]
+        recs_10_ = recs_10.reset_index()
         test_binary = test_binary.loc[~test_binary.index.duplicated(keep='first')] 
-        results_10recs = rla.compute(recs_10, test_binary)
+        test_binary_ = test_binary.reset_index()
+        results_10recs = rla.compute(recs_10_, test_binary_)
         print("evals running")
         evals_10 = results_10recs[['recip_rank', 'precision', 'recall', 'ndcg']].rename(columns={"precision": "precision@10", "recall": "recall@10"})
         results_100recs = rla.compute(recs_100, test_binary)
