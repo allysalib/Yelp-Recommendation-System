@@ -81,7 +81,6 @@ def main():
         for train_val, test in partition_users(ratings_data, 1, SampleFrac(0.2, rng_spec=13), rng_spec=13):
             bias_test_data.append(test)
             for train, val in partition_users(train_val, 1, SampleFrac(0.2, rng_spec=13), rng_spec=13):
-                print(val.head())
                 B = Bias(items=True, users=False, damping=d)
                 model, recs_10, recs_100 = fit_eval("Bias, Damping={}".format(d), B, train, val)
                 bias_models.append([d, model])
@@ -137,16 +136,15 @@ def main():
 
     for i in best_bias_models:
         model = i[1]
-        test_data = bias_test_data[0]
+        print(bias_test_data)
+        test_data = bias_test_data[4]
         print(test_data.head())
         predictions = model.predict(test_data[['user', 'item']])
         rmse_score = rmse(predictions, test_data['rating'])
         mae_score = mae(predictions, test_data['rating'])
         bias_test_prediction_scores_list.append([rmse_score, mae_score])
         recs_10, recs_100 = test_eval(model, test_data)
-        print(recs_10)
         test_binary = test_data[['user', 'item', 'rating_binary']].rename(columns={"rating_binary": "rating"})
-        print(test_binary)
         rla = topn.RecListAnalysis()
         rla.add_metric(topn.recip_rank)
         rla.add_metric(topn.precision)
