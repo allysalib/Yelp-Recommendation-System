@@ -137,22 +137,20 @@ def main():
     for i in best_bias_models:
         model = i[1]
         test_data = bias_test_data[0]
-        predictions = model.predict(test_data[['user', 'item']])
-        rmse_score = rmse(predictions, test_data['rating'])
-        mae_score = mae(predictions, test_data['rating'])
+        test_data = test_data.loc[~test_data.index.duplicated(keep='first')] 
+        test_data_ = test_data.reset_index()
+        predictions = model.predict(test_data_[['user', 'item']])
+        rmse_score = rmse(predictions, test_data_['rating'])
+        mae_score = mae(predictions, test_data_['rating'])
         bias_test_prediction_scores_list.append([rmse_score, mae_score])
-        recs_10, recs_100 = test_eval(model, test_data)
-        test_binary = test_data[['user', 'item', 'rating_binary']].rename(columns={"rating_binary": "rating"})
+        recs_10, recs_100 = test_eval(model, test_data_)
+        test_binary = test_data_[['user', 'item', 'rating_binary']].rename(columns={"rating_binary": "rating"})
         rla = topn.RecListAnalysis()
         rla.add_metric(topn.recip_rank)
         rla.add_metric(topn.precision)
         rla.add_metric(topn.recall)
         rla.add_metric(topn.ndcg)
-        recs_10 = recs_10.loc[~recs_10.index.duplicated(keep='first')]
-        recs_10_ = recs_10.reset_index()
-        test_binary = test_binary.loc[~test_binary.index.duplicated(keep='first')] 
-        test_binary_ = test_binary.reset_index()
-        results_10recs = rla.compute(recs_10_, test_binary_)
+        results_10recs = rla.compute(recs_10, test_binary)
         print("evals running")
         evals_10 = results_10recs[['recip_rank', 'precision', 'recall', 'ndcg']].rename(columns={"precision": "precision@10", "recall": "recall@10"})
         results_100recs = rla.compute(recs_100, test_binary)
