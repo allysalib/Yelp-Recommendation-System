@@ -1,0 +1,8 @@
+Bias Model Validation RMSE Scores:
+Damping Value: 0
+Traceback (most recent call last):
+  File "./Bias_and_BiasMF_Models.py", line 191, in <module>
+    main()
+  File "./Bias_and_BiasMF_Models.py", line 105, in main
+    model, recs_10, recs_100 = fit_eval("Bias, Damping={}".format(d), B, train, val)
+NameError: name 'val' is not defined
