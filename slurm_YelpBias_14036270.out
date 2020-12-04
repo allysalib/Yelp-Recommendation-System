@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "./Bias_and_BiasMF_Models.py", line 54, in <module>
+    ratings_data = full_data[['user_id', 'business_id', 'review_stars']].rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
+TypeError: string indices must be integers
