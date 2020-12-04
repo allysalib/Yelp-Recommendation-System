@@ -1,0 +1,8 @@
+Bias Model Validation RMSE Scores:
+Damping Value: 0
+Traceback (most recent call last):
+  File "./Bias_and_BiasMF_Models.py", line 191, in <module>
+    main()
+  File "./Bias_and_BiasMF_Models.py", line 110, in main
+    bias_validation_prediction_scores_list.append([d, rmse_score, mae_score])
+NameError: name 'bias_validation_prediction_scores_list' is not defined
