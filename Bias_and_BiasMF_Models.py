@@ -93,6 +93,8 @@ def main():
 
     bias_models = []
     bias_val_rmse = []
+    bias_validation_prediction_scores_list = []
+    bias_validation_evals_list = []
 
     print("Bias Model Validation RMSE Scores:")
 
