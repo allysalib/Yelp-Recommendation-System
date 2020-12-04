@@ -47,13 +47,6 @@ full_data2 = full_data.reset_index()
 ratings_data = full_data2[['user_id', 'business_id', 'review_stars']].rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
 ratings_data['rating_binary'] = 0
 ratings_data.loc[(ratings_data['rating'] > 3), 'rating_binary'] = 1
-for d in data:
-    full_data = d
-    break
-
-ratings_data = full_data[['user_id', 'business_id', 'review_stars']].rename(columns={'user_id':'user', 'business_id':'item', 'review_stars':'rating'})
-ratings_data['rating_binary'] = 0
-ratings_data.loc[(ratings_data['rating'] > 3), 'rating_binary'] = 1
 
 N_SPLITS = 1
 FRAC_SPLIT = 0.2 
