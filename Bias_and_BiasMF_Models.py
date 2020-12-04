@@ -158,13 +158,13 @@ def main():
 
     for i in best_bias_models:
         model = i[1]
-        test_data = test_data[0]
-        predictions = model.predict(test_data_[['user', 'item']])
-        rmse_score = rmse(predictions, test_data_['rating'])
-        mae_score = mae(predictions, test_data_['rating'])
+        test = test_data[0]
+        predictions = model.predict(test[['user', 'item']])
+        rmse_score = rmse(predictions, test['rating'])
+        mae_score = mae(predictions, test['rating'])
         bias_test_prediction_scores_list.append([rmse_score, mae_score])
-        recs_10, recs_100 = test_eval(model, test_data_)
-        test_binary = test_data_[['user', 'item', 'rating_binary']].rename(columns={"rating_binary": "rating"})
+        recs_10, recs_100 = test_eval(model, test)
+        test_binary = test[['user', 'item', 'rating_binary']].rename(columns={"rating_binary": "rating"})
         rla = topn.RecListAnalysis()
         rla.add_metric(topn.recip_rank)
         rla.add_metric(topn.precision)
