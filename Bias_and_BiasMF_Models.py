@@ -100,7 +100,7 @@ def main():
         print("Damping Value: {}".format(d))
         count = 0
         for i in train_val:
-            for train, test in i:
+            for train, val in i:
                 B = Bias(items=True, users=False, damping=d)
                 model, recs_10, recs_100 = fit_eval("Bias, Damping={}".format(d), B, train, val)
                 bias_models.append([d, model])
