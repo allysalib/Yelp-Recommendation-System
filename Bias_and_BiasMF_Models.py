@@ -84,7 +84,7 @@ def main():
         count = 0
         for train_val, test in partition_users(ratings_data, N_SPLIT, SampleFrac(FRAC_SPLIT, rng_spec=13), rng_spec=13):
             bias_test_splits.append(test)
-            for train, val in partition_users(train_val, 1, SampleFrac(FRAC_SPLIT, rng_spec=13), rng_spec=13):
+            for train, val in partition_users(train_val, N_SPLIT, SampleFrac(FRAC_SPLIT, rng_spec=13), rng_spec=13):
                 count += 1
                 B = Bias(items=True, users=False, damping=d)
                 model, recs_10, recs_100 = fit_eval("Bias, Damping={}".format(d), B, train, val)
