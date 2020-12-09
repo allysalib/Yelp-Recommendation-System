@@ -23,7 +23,7 @@ ratings['rating_binary'] = 0
 ratings.loc[(ratings['rating'] > 3), 'rating_binary'] = 1
 
 FRAC_SPLIT = 0.2
-N_SPLIT = 5
+N_SPLIT = 1
 
 def fit_eval(aname, algo, train, test):
     fittable = util.clone(algo)
