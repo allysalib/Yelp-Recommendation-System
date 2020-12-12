@@ -45,3 +45,5 @@ table4.createOrReplaceTempView('table4')
 #400K reviews
 
 table4.write.json('hdfs:/user/as12453/pub/all_data_restauants_subset.json')
+
+#all other subsets were created from these files as needed
